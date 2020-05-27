@@ -13,13 +13,14 @@
 	},
 	"Deutsch": {
 		"Fremdwörter": {
+			"Kollateralschaden": "bei einer militärischen Aktion entstehender Schaden, der nicht beabsichtigt ist und nicht in unmittelbarem Zusammenhang mit dem Ziel der Aktion steht, aber dennoch in Kauf genommen wird.",
 			"perplex": "In einer Situation überrascht oder verblüfft zu sein und daher nicht zu wissen, wie man reagieren soll.",
-			"infantil": "Jemand ist kindisch oder auf der Entwicklungsstufe eines Kindes stehen geblieben",
+			"infantil": "Jemand ist kindisch oder auf der Entwicklungsstufe eines Kindes stehen geblieben.",
 			"per se": "Das etwas ohne weiteres Zutun vonstatten geht.\n# Beispiel\nDie Angelegenheit versteht sich *per se*\n# Synonyme\n\"von selbst\" oder \"an sich\"",
 			"Empathie": "Beschreibt die Bereitschaft und die Fähigkeit einer Person, sich in Lage, Einstellung und emotionale Befindlichkeit einer anderen Person einzufühlen.\n# Beispiel\n*Empathie* ist einer der Grundpfeiler menschlichen Zusammenlebens.",
-			"Kausalität": "Gemeinsamkeiten, die nicht bewiesen im zusammenhang stehen",
-			"Korrelation": " Wissenschaftlich geprüfter Zusammenhang",
-			"ad hoc": "Aus dem Stegreif"
+			"Kausalität": "Gemeinsamkeiten, die nicht bewiesen im zusammenhang stehen.",
+			"Korrelation": " Wissenschaftlich geprüfter Zusammenhang.",
+			"ad hoc": "Aus dem Stegreif."
 		},
 		"Grammatik": {
 			"Groß- und Kleinschreibung": {
