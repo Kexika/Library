@@ -60,7 +60,7 @@
 	},
 	"Physik": {
 		"Fall": {
-			"Freier Fall": "**Beim Freienfall, fällt etwas vertikal nach unten**\n Die Formel: **y=1/2*g*t^2**\n y=Weg, g= Beschleunigung(9,81 auf der Erde), t=Zeit\n Hier ein Rechner: [Link-Text](https://jumk.de/formeln/freier-fall.shtml)\n\n ![Alt-Text](https://physikbuch.schule/media/coord-sys-free-fall.svg)\n\n\n ![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg)"
+			"Freier Fall": "**Beim Freienfall, fällt etwas vertikal nach unten**\n  Die Formel: **y=1/2*g*t^2**\n  y=Weg, g= Beschleunigung(9,81 auf der Erde), t=Zeit\n\n  ![Alt-Text](https://physikbuch.schule/media/coord-sys-free-fall.svg)\n\n\n  ![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg)"
 		},
 		"Kepler": {
 			"1. Keplersches Gesetz": "**Die Planeten bewegen sich auf elliptischen Bahnen. In einem gemeinsamen Brennpunkt steht die Sonne.**\n\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-ellipsebahn.png \"1. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
