@@ -59,6 +59,9 @@
 		}
 	},
 	"Physik": {
+		"Würfe": {
+			"Lotrechter Wurf": "Bei dieser Bewegung handelt es sich um eine Überlagerung von zwei Bewegungen: einer gleichförmigen Bewegung (durch die vertikale Anfangsgeschwindigkeit v0) und einer gleichmäßig beschleunigten Bewegung (durch die Fallbeschleunigung). In den Gleichungen kommen daher Anteile von beiden Bewegungsformen vor.  \n\nFormeln:  \ns=h0+v0*t+(g/2)*t^2  \nv=v0+g*t \n\n ![](https://www.lernort-mint.de/abbildungen/physik-mechanik-senkrechter-wurf.jpg)"
+		},
 		"Fall": {
 			"Freier Fall": "**Beim Freienfall, fällt etwas vertikal nach unten**  \nDie Formel: **y=1/2*g*t^2**  \n  y=Weg, g= Beschleunigung(9,81 auf der Erde), t=Zeit  \n\n![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg)"
 		},
