@@ -64,11 +64,7 @@
   "Physik" : {
     "Würfe" : {
       "Lotrechter Wurf" : "Bei dieser Bewegung handelt es sich um eine Überlagerung von zwei Bewegungen: einer gleichförmigen Bewegung (durch die vertikale Anfangsgeschwindigkeit v0) und einer gleichmäßig beschleunigten Bewegung (durch die Fallbeschleunigung). In den Gleichungen kommen daher Anteile von beiden Bewegungsformen vor.  \n\nFormeln:  \ns=h0+v0*t+(g/2)*t^2  \nv=v0+g*t \n\n ![](https://www.lernort-mint.de/abbildungen/physik-mechanik-senkrechter-wurf.jpg)",
-      "Schiefer Wurf" : r"<h4>Chemistry Equations</h4>", r"""<p>    
-     \( \ce{CO2 + C -> 2 CO} \) <br>
-     \( \ce{Hg^2+ ->[I-] HgI2 ->[I-] [Hg^{II}I4]^2-} \)<br>
-     Scroll long formulas in Katex $$ \ce{x Na(NH4)HPO4 ->[\Delta] (NaPO3)_x + x Nh4 ^ + x H2O} $$ <br>
-    </p>""")
+      "Schiefer Wurf" : r"""<p> $$ \begin{aligned}\\text{vo = Abwurfgeschwindigkeit} \\\\\\\\\n\n\\text{Maximale Wurfhöhe} \nH = \\frac{v_{o}^2\\cdot sin^2 \\alpha }{2 \\cdot g} \\\\\\\\\n\n\\text{Zeit bei der maximalen Wurfhöhe} \\mspace{2.5 cm} \nt_{maximalhöhe} = \\frac{vy}{g} \\\\\\\\\n\n\\text{Maximale Wurfweite} \\mspace{1 cm} \ns_{x} = \\frac{vo^2 \\cdot \\sin (2 \\alpha)}{g} = s_{x} \\\\\\\\\n\n\\text{Höhe zu jeder Zeit} \\mspace{2.6 cm}\nh = \\frac{1}{2} \\cdot 9,81 \\cdot \\frac{t^2}{2} \\\\\\\\\n\n\\text{Weite zu jeder Zeit} \\mspace{4.3 cm} \ns = v_{x} \\cdot t \\\\\\\\\n\n\\text{Wurfdauer} \\mspace{2 cm} \nt_{w} = \\frac{2 \\cdot v_{o} \\cdot sin(\\alpha)}{g} \\\\\\\\\n\nv_{x} = v_{o} \\cdot \\cos(\\varphi) \\\\\\\\\nv_{y} = v_{o} \\cdot \\sin(\\varphi)\n\\end{aligned}\n$$"""
     },
     "Fall" : {
       "Freier Fall" : "**Beim Freienfall, fällt etwas vertikal nach unten**  \nDie Formel: **y=1/2*g*t^2**  \n  y=Weg, g= Beschleunigung(9,81 auf der Erde), t=Zeit  \n\n![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg)"
