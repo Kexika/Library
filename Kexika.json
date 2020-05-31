@@ -65,7 +65,15 @@
 		"Würfe": {
 			"Waagerechter Wurf": "Der **waagerechte Wurf**, oder auch **horizontaler Wurf** ist die Bewegung eines Körpers, der parallel zum Horizont geworfen oder geschossen wird. Betrachtet man die Bahnkurve des waagerecht geworfenen Körpers, handelt es sich um eine Parabel, bei welcher der Scheitelpunkt den Abwurfort repräsentiert. Das bedeutet wiederum, dass der Körper zwei unterschiedliche Bewegungsformen durchführt.  \n\n**Formeln**:    \n\nZeit-Geschwindigkeits-Gesetz:  \nv(kleiner  y)(t)=-g*t \n\nWeg-Zeit-Gesetzt:  \ny(t) = (-1/2)*g*t^2+h(kleiner 0)  \n\nWurfparabel:  \ny(r)=(-1/2)*a(kleiner 0)[x/v(kleiner 0,x)]^2+h(kleiner 0) \n\nWurfhöhe:  \nh(kleiner 0)=1/2*g(kleiner 0){x(kleiner y)/v(kleiner 0,x)]^2  \n\nWurfweite:   \nx(kleiner W)= v(kleiner 0,r)*wurzel[2*h(kleiner 0)/g] \n\nFallzeit:   \nt=wurzel[2*h(kleiner 0)/g]  \n\n\n![](https://www.leifiphysik.de/sites/default/files/medien/Wurfgeschwindigkeit_Bild.gif)",
 			"Lotrechter Wurf": "Bei dieser Bewegung handelt es sich um eine Überlagerung von zwei Bewegungen: einer gleichförmigen Bewegung (durch die vertikale Anfangsgeschwindigkeit v0) und einer gleichmäßig beschleunigten Bewegung (durch die Fallbeschleunigung). In den Gleichungen kommen daher Anteile von beiden Bewegungsformen vor.  \n\nFormeln:  \ns=h0+v0*t+(g/2)*t^2  \nv=v0+g*t \n\n ![](https://www.lernort-mint.de/abbildungen/physik-mechanik-senkrechter-wurf.jpg)",
-			"Schiefer Wurf": "<p> $$ \\begin{align*}\\text{vo = Abwurfgeschwindigkeit} \\\\\\\\\n\n\\text{Maximale Wurfhöhe} \nH = \\frac{v_{o}^2\\cdot sin^2 \\alpha }{2 \\cdot g} \\\\\\\\\n\n\\text{Zeit bei der maximalen Wurfhöhe} \\mspace{2.5 cm} \nt_{maximalhöhe} = \\frac{vy}{g} \\\\\\\\\n\n\\text{Maximale Wurfweite} \\mspace{1 cm} \ns_{x} = \\frac{vo^2 \\cdot \\sin (2 \\alpha)}{g} = s_{x} \\\\\\\\\n\n\\text{Höhe zu jeder Zeit} \\mspace{2.6 cm}\nh = \\frac{1}{2} \\cdot 9,81 \\cdot \\frac{t^2}{2} \\\\\\\\\n\n\\text{Weite zu jeder Zeit} \\mspace{4.3 cm} \ns = v_{x} \\cdot t \\\\\\\\\n\n\\text{Wurfdauer} \\mspace{2 cm} \nt_{w} = \\frac{2 \\cdot v_{o} \\cdot sin(\\alpha)}{g} \\\\\\\\\n\nv_{x} = v_{o} \\cdot \\cos(\\varphi) \\\\\\\\\nv_{y} = v_{o} \\cdot \\sin(\\varphi)\n\\end{align*}\\n$$"
+			"Schiefer Wurf": ""H = (vo^2*sin²a)/(2*g) <----- Maximale Wurfhöhe \n\n
+tmaximale_Höhe = vy/g <------- Zeit bei der maximalen Wurfhöhe (Diese Zeit mal 2 wäre die gesamte Wurfdauer) \n\n
+h = 1/2 * 9,81 * t²/2 <------ Höhe zu jeder Zeit \n\n
+sx  = vx*t*2 = vx* vy/g * 2 = vo * cos(α) * (vo*cos⁡(α))/g * 2 = vo²/g * 2sin(α)*cos(α)= (vo^2* sin(2α) )/g= sx  <------ Maximale Wurfweite \n\n
+s = vx*t            <--- um die Weite zu jeder Zeit zu berechnen (heißt zu t: 0,1,2..) \n\n
+tW = (2*vo*sin⁡(α))/g <----- Wurfdauer \n\n
+vx = vo * cos(𝛗) \n\n
+vy = vo * sin(𝛗) \n
+""
 		},
 		"Fall": {
 			"Freier Fall": "**Beim freien Fall, fällt etwas vertikal nach unten**  \nDie Formel: **y=1/2*g*t^2**  \n\n**y**=Weg, **g**= Beschleunigung(**9,81** auf der Erde), **t**=Zeit  \n\n![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg \"Freier Fall\")"
