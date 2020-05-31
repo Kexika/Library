@@ -68,11 +68,11 @@
 			"Schiefer Wurf": "H = (vo^2*sin^2a)/(2*g) <----- Maximale Wurfhöhe \n\n
 tmaximale_Höhe = vy/g <------- Zeit bei der maximalen Wurfhöhe (Diese Zeit mal 2 wäre die gesamte Wurfdauer) \n\n
 h = 1/2 * 9,81 * t^2/2 <------ Höhe zu jeder Zeit \n\n
-sx  = vx*t*2 = vx* vy/g * 2 = vo * cos(α) * (vo*cos⁡(α))/g * 2 = vo^2/g * 2sin(α)*cos(α)= (vo^2* sin(2α) )/g= sx  <------ Maximale Wurfweite \n\n
+sx  = vx*t*2 = vx* vy/g * 2 = vo * cos(a) * (vo*cos⁡(a))/g * 2 = vo^2/g * 2sin(a)*cos(a)= (vo^2* sin(2a) )/g= sx  <------ Maximale Wurfweite \n\n
 s = vx*t            <--- um die Weite zu jeder Zeit zu berechnen (heißt zu t: 0,1,2..) \n\n
-tW = (2*vo*sin⁡(α))/g <----- Wurfdauer \n\n
-vx = vo * cos(𝛗) \n\n
-vy = vo * sin(𝛗) \n
+tW = (2*vo*sin⁡(a))/g <----- Wurfdauer \n\n
+vx = vo * cos(a) \n\n
+vy = vo * sin(a) \n
 "
 		},
 		"Fall": {
