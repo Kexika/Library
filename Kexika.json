@@ -9,7 +9,8 @@
       }
     },
     "Geometrie" : {
-      "Rechteck" : "\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)"
+      "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
+      "String" : ""
     }
   },
   "English" : {
