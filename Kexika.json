@@ -6,6 +6,9 @@
       "Nullpunkt" : "Ein Punkt mit y-Wert `0`\n\nEine Lineare Funktion hat nur einen Nullpunkt, doch es kann mehrere Nullpunkte generell geben",
       "Lineare Funtionen" : {
         "Begriffe" : "* **y** ist die von x **abhängige Variable**, sie wird auch als **Funktionswert** bezeichnet \n\n* **k** der Anstieg beziehungsweise. die **Steigung**. Die Steigung ist bei einer Geraden natürlich unveränderlich konstant \n\n* **x** ist die **unabhängige Variable**, sie wird auch als das **Argument der Funktion** bezeichnet \n\n* **d** der Abschnitt auf der y-Achse. Der Punkt (0|**d**) ist daher der Schnittpunkt der Funktion f(x) mit der y-Achse, man spricht vom **Achsenabschnitt** \n\n  \n\n* **Homogene lineare Funktion:**  f(x)=kx Da d=0 verläuft ihr Graph f(x)=kx durch den Koordinatenursprung.\n\n  \n\n* **Inhomogene lineare Funktion:** f(x)=kx+d Wenn d≠0 ist, verläuft der Graph nicht durch den Koordinatenursprung.\n\n  \n\n* **Konstante Funktion:** f(x)=d D.h.: k=0. Der Graph ist eine Parallele zur x-Achse, im Abstand d oder für d=0 wäre es die Gleichung der x-Achse\n\n  \n\n* **1. bzw. 2. Mediane**: Die Funktion f(x)=±x heißt 1. bzw. 2. Mediane, wenn k=1 bzw. -1 und d=0. Ihr Graph verläuft durch den Ursprung und steht im 45° Winkel zur x- und zur y-Achse.\n\n  \n\n### Formeln\n\nNormalform: y = k * x + d\n\n> d = **Ordinatenabschnitt/y-Abschnitt** \n\nImplizite- / Allgemeine From: a * x + b * y = c\n\n# Steigungsdreieck\n\n![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lineare_funktionen2.svg/400px-Lineare_funktionen2.svg.png \"Steigungsdreieck\")\n\n\n\n\n\n"
+      },
+      "Signumfuntion" : {
+        "Bsp" : "sgn(x)={-1 fuer x<0, 0 fuer x=0, 1 fuer x>0}\n\n![Vorzeichenfunktion - Signumfunktion - f(x) = sgn(x)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.mathematik-wissen.eu%2Fvorzeichenfunktion_signumfunktion_sgn(x)_clip_image004.gif&f=1&nofb=1)"
       }
     },
     "Geometrie" : {
