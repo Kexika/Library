@@ -23,7 +23,7 @@
       "Parallelogramm" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * ha = b * hb\n* alpha + beta = 180°\n* e und f halbieren sich\n  e = AC     f = BD\n\n![Parallelogramm von der Stückler](https://artikel.gebes.eu/mathe/parallelogramm.png)"
     },
     "Teilbarkeitsregeln" : {
-      "Teilbarkeitsregeln natürliche Zahlen" : "+ A natural number is divisible by **10** if the last digit is equal to 0.\n\n+ A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n+ A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n+ A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n+ A natural number is divisible by **5** if the last digit is 5 or 0.\n\n+ A natural number is divisible by **6** if the number is divisible by both 2 and 3."
+      "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
     }
   },
   "English" : {
