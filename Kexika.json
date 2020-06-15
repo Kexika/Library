@@ -10,7 +10,7 @@
     },
     "Geometrie" : {
       "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
-      "String" : ""
+      "String" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * ha = b * hb\n* alpha + beta = 180°\n* e und f halbieren sich\n  e = AC     f = BD\n\n![Parallelogramm von der Stückler](https://artikel.gebes.eu/mathe/parallelogramm.png)"
     }
   },
   "English" : {
