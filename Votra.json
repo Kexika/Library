@@ -1,6 +1,26 @@
 {
   "Über Votra" : "Votra ist ein Childproject von Kexika, damit man wie mit Karteikärtchen lernen kann",
   "_Deutsch" : {
-    "Fremdwort 1" : "Erklärung des Fremdwort"
+    "subsidär" : "unterstützend, behelfsmäßig",
+    "postfaktisch " : "gefühlsmäßig, unsachlich",
+    "redundant" : "mehrfach vorhanden, überzählig",
+    "polarisieren" : "Gegensätze schaffen, trennen",
+    "obligatorisch" : "verbindlich, verpflichtend",
+    "Misanthrop" : "Menschenfeind",
+    "eloquent" : "wortgewandt",
+    "introvertiert" : "nach innen gekehrt, verschlossen",
+    "extrovertiert" : "nach außen gerichtet, aufgeschlossen",
+    "ambivalent" : "zwiespältig, doppeldeutig",
+    "dito" : "ebenfalls, gleichfalls",
+    "Status Quo" : "gegenwärtiger Zustand",
+    "adäquat" : "angemessen",
+    "rudimentär" : "unzureichend, unvollkommen, nur ansatzweise",
+    "narzisstisch" : "selbstverliebt, selbstbezogen",
+    "pragmatisch" : "sachbezogen, rational",
+    "subtil" : "behutsam, einfühlsam",
+    "Razzia" : "überraschende Fahndung",
+    "Indiz" : "Hinweis",
+    "Assotiation" : "Gedankenverknüpfung",
+    "tradiert" : "Überliefert"
   }
 }
