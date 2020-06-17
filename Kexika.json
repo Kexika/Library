@@ -114,14 +114,8 @@
         "Kleinschreibung" : "* Klein schreibt man **Verben**, **Adjektive**, **Adverbien**, **Pronomen**\n* **Achtung**! Klein schreibt man auch Adjektive und Partizipien, die sich auf ein anderes beziehen:\n  * Sie ist die schnellste (Teilnehmerinnen) aller **Teilnehmerinnen**\n  * Die **Gangster** kamen herein, der kleine (Gangster) und die zwei größeren (Gangster)\n  * Dieser ist von allen **Kombis** der häufigste gekaufe (Kombi)\n\n",
         "Besonderheiten der Kleinschreibung" : "* Merk dir die **Kleinschreibung folgender Verbindungen**:\n  * grau in grau, schwarz auf weiß, von klein auf, in bar, durch dick und dünn gehen, von früh auf\n* **immer kleinzuschreiben** sind: ein jeder, die beiden, ein mancher",
         "Besonderheiten bei Zahlen" : "* Zahlen **unter einer Million** werden **kleingeschrieben**\n  * elf, zweitausenddrei, dreißigtausend\n    **Achtung**! Ausnahmen sind **Noten** und **Würfelpunkte**!:\n    eine Drei/einen Dreier bekommen, eine Sechs/einen Sechser würfeln\n* **Ordnungszahlwörter** werden großgeschrieben\n  * der Zweite, als Erstes, der Nächste, das Letzte\n    **Achtung**! der erste Ritter, das dritte Gebot\n* **Bruchzahlwörter** in **Zeit**- und **Maßangaben** sind klein, wenn sie vor der **Zahl**/**Maßeinheit** stehen\n  * um viertel eins, um drei viertel acht, ein achtel Kilogramm Butter, ein viertel Liter Wein\n* Stehen sie **nicht unmittelbar** davor, werden sie **großgeschrieben**\n  * (ein) Viertel vor zehn, (ein) Viertel nach acht, noch ein Viertel trinken\n* Stehen **Bruchzahlwörter unmittelbar** vor den **Stoffbezeichnungen**, wird auch großgeschrieben\n  * ein Achtel Butter, ein Viertel Wein"
-      },
-	  "Tod/tot" : {
-		"Verben enden generell mit hartem t\n",
-		"Adjektive enden generell mit weichem d\n",
-		"Nomen leiten sich von beidem ab\n",
-		"Es gilt dennoch Vorsicht bei tot sein: z.B. tot-mausetot"
-	  },
-    },
+      }
+    }
   },
   "Physik" : {
     "Würfe" : {
