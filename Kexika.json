@@ -272,8 +272,15 @@
   "Technische Informatik" : {},
   "POS" : {
     "C" : {},
+    "C'" : {},
+    "C++" : {},
     "Java" : {},
-    "JavaScript" : {},
+    "JavaScript" : {
+      "Angular" : {},
+      "Node JS" : {}
+    },
+    "Python" : {},
+    "Ruby" : {},
     "Dont forget your daily dose of coffee" :  "Programmer: a tool for converting caffeine into code ;)"
   },
   "Mathematik - Lernwerkstätte" : {}
