@@ -236,7 +236,7 @@
   "Solziales lernen" : {},
   "BWMJ" : {},
   "GGP" : {
-    "Gesteine/Bereiche" : {
+    "Erdenarten/Bereiche" : {
       "Borealer Bereich" : {
         "Gleye" : "stark vom Bodenwasser beeinflusst  \nhoher Grundwasserspiegel  \nwasserundurchlässige Lehmschicht  \nLandwirtschaftlich ungeeignet",
         "Podsole" : "leicht auswaschbar  \nMineralien verickern im Unterboden  \nstarke Humusbildung  \n landwirtschaftlich ungeeignet"
@@ -249,11 +249,12 @@
     }
   },
   "Religion" : {},
-  "TINF" : {},
+  "Technische Informatik" : {},
   "POS" : {
     "C" : {},
     "Java" : {},
+    "JavaScript" : {},
     "Dont forget your daily dose of coffee" :  "Programmer: a tool for converting caffeine into code ;)"
   },
-  "Lernwerkstätte" : {}
+  "Mathematik - Lernwerkstätte" : {}
 }
