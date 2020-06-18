@@ -163,8 +163,10 @@
       "Misanthrop" : "Menschenfeind",
       "narzisstisch" : "selbstverliebt, selbstbezogen",
       "obligatorisch" : "verbindlich, verpflichtend",
+      "oktroyieren" : "Jemanden etwas *aufzwingen* oder *aufdrängen",
       "perplex" : "In einer Situation überrascht oder verblüfft zu sein und daher nicht zu wissen, wie man reagieren soll.",
       "per se" : "Das etwas ohne weiteres Zutun vonstatten geht.\n# Beispiel\nDie Angelegenheit versteht sich *per se*\n# Synonyme\n\"von selbst\" oder \"an sich\"",
+      "pittoresk" : "malerisch \\ wie gemalt",
       "polarisieren" : "Gegensätze schaffen, trennen",
       "postfaktisch " : "gefühlsmäßig, unsachlich",
       "pragmatisch" : "sachbezogen, rational",
@@ -175,7 +177,10 @@
       "Status Quo" : "gegenwärtiger Zustand",
       "subsidär" : "unterstützend, behelfsmäßig",
       "subtil" : "behutsam, einfühlsam",
-      "tradiert" : "Überliefert" 
+      "sukzessiv" : "Bedeutet, dass etwas allmählich und nur schrittweise geschieht (Wachstum eines Baumes",
+      "tradiert" : "Überliefert",
+      "trivial" : "etwas ist simpel, einfach oder altbekannt",
+      "verifizieren" : "etwas nachweisen oder beglaubigen"
     },
     "Grammatik" : {
       "Groß- und Kleinschreibung" : {
