@@ -82,7 +82,11 @@
       "Stumpfwinkliges Dreieck" : {
         "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
         "Englischer Name" : "obtuse-angled triangle",
-        "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite."
+        "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
+        "Formeln" : {
+          "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+          "Umfang" : "u = a + b + c"
+        }
       },
       "WICHTIG" : "Merke IMMER SOH CAH TOA"
     }
