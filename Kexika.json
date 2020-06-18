@@ -24,6 +24,26 @@
     },
     "Teilbarkeitsregeln" : {
       "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
+    },
+    "Dreiecke" : {
+      "Gleichseitiges Dreieck" : {
+        "Informationen: " : "Sie haben drei gleich lange Seiten"
+      },
+      "Rechtwinkliges Dreieck" : {
+        "Informationen: " : "Sie haben einen Winkel von exakt 90 grad"
+      },
+      "Gleichschenkliges Dreieck" : {
+        "Informationen: " : "Sie haben zwei gleich lange Seiten"
+      },
+      "Spitzwinkliges Dreieck" : {
+        "Informationen: " : "Sie haben nur spitze Winkel"
+      },
+      "Allgemeines Dreieck" : {
+        "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel"
+      },
+      "Stumpfwinkliges Dreieck" : {
+        "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist"
+      }
     }
   },
   "English" : {
