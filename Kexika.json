@@ -279,9 +279,20 @@
       }
     },
     "Gebirge entstehen" : {
-      "Kaledonische Gebirgsbildung" : {},
-      "Variske Gebirgsbildung" : {},
-      "Alpidische Gebirgsbildung" : {}
+      "Kaledonische Gebirgsbildung" : {
+        "Wann" : "Vor mehr als 400 Mio Jahre",
+        "Gebirge" : "Skandinavien, Schottland, Irland",
+        "Besonderheiten" : "Die Gebirge entstanden durch den Zusammenprall des kanadischen mit dem baltiscchem Schild -> Diese Gebirge wurden überformt und haben durch die Einwirkung von Erosionskräften den (kann ich bei mir nicht lesen) von Plateaugebirgen"
+      },
+      "Variske Gebirgsbildung" : {
+        "Wann" : "Vor mehr als 300 Mio Jahre",
+        "Gebirge" : "Deutsches Mittelgebirge, französisches Zentralmassiv, böhmische Masse",
+        "Besonderheiten" : "Zusammenprall von Godwana mit Laurasia(/en)  \nWährend diesem Zusammenprall bildeten sich große Eisenerz- und Kohlelager"
+      },
+      "Alpidische Gebirgsbildung" : {
+        "Wann" : "Vor mehr als 60 Mio Jahre (Kreidezeit/Tertiär)",
+        "Gebirge" : "Alpen, Kordilleren, Himalaja, Kaukasus, dinarisches Gebirge" 
+      }
     }
   },
   "Religion" : {},
