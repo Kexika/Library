@@ -272,19 +272,19 @@
   "Technische Informatik" : {},
   "POS" : {
     "C" : {
-      "Hello World" : "#include \"stdio.h\"  \nvoid main(){  \nprintf(\"Hello World\")  \n}"
+      "Hello World" : "#include \"stdio.h\"  \n\nvoid main(){  \n  printf(\"Hello World\")  \n}"
     },
-    "C'" : {},
+    "C#" : {},
     "C++" : {},
     "Java" : {
-      "Hello world" : "public class Main {  \npublic static void main(String args[]){  \nSystem.out.println(\"Hello World\");  \n}  \n}"
+      "Hello world" : "public class Main {  \n  public static void main(String args[]){  \n    System.out.println(\"Hello World\");  \n  }  \n}  \n}"
     },
     "JavaScript" : {
       "Angular" : {},
       "Node JS" : {}
     },
     "Python" : {
-      "Hello world" : "print('Hello world'"
+      "Hello world" : "print('Hello world')"
     },
     "Ruby" : {
       "Hello world" : "puts 'Hello, world!'"
