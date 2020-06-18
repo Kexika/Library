@@ -233,7 +233,7 @@
       "Sammelmappe" : "![Sammelmappe Seite 1](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-1.png)\n![Sammelmappe Seite 2](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-2.png)\n![Sammelmappe Seite 3](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-3png)\n![Sammelmappe Seite 4](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-4.png)\n![Sammelmappe Seite 5](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-5.png)\n![Sammelmappe Seite 6](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-6.png)\n![Sammelmappe Seite 7](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-7.png)\n![Sammelmappe Seite 8](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-8.png)\n![Sammelmappe Seite 9](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-9.png)\n![Sammelmappe Seite 10](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-10.png)\n![Sammelmappe Seite 11](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-11.png)\n"
     }
   },
-  "Solziales lernen" : {},
+  "Soziales lernen" : {},
   "BWMJ" : {},
   "GGP" : {
     "Erdenarten/Bereiche" : {
@@ -245,6 +245,24 @@
         "Schwarzerde" : "Oberboden dunkel(ca. 40cm tiefe Humusschicht  \ntiefgründig  \nsehr fruchtbar",
         "Braunerde" : "am weitesten Verbreitet  \neisenhaltig  \nsehr furchtbar",
         "Rendzina" : "flachgründiger Boden  \ngips-und kalkreich  \nlandwirtschaftlich ungeeignet  \nschnell austrocknend"
+      }
+    },
+    "Klimazonen" : {
+      "polare Zone" : {},
+      "subpolare Zone" : {
+        "Informationen" : "Klimazone, die den Übergang zwischen polarer und gemäßigter Klimazone bildet  \nist von halbjährlichen Wechsel von außertropischen Westwinden im Sommer und polaren Ostwinden im Winter gekennzeichnet"
+      },
+      "gemäßigte Zone" : {
+        "Informationen" : "Polarkreis bis zum 40. Breitengrad  \nUnterteilt in kalt- kühl und warmgemäßgte Zone",
+        "Kaltgemäßgte Zone" : {},
+        "Kühlgemäßigte Zone" : {},
+        "Warmgemäßigte Zone" : {}
+      },
+      "subtropen" : {
+        "Informationen" : "hoher Sommerwärme  \nmäßiger Winterwärme  \ntrockene, winterfeucht, sommerfeucht und immerfeuchte Subtropen  \nDefinition: Mitteltemperatur über 20 Grad Celsius, jedoch kältestr Monat nicht unter 20 Grad  \nUnterschiede zwiscchen Tag-Nacht sind hoch  \nVegetation: riesige Artenvielfalt z.B. Mittelmeerraum  \nfehlende Vegetation z.B. Savanne oder anderen Wüsten wie Sahara"
+      },
+      "Tropen" : {
+        "Informationen" : "Tageslänge von 10,5 bis 13,5 Std.  \nDie Jahreszeiten haben keine thermatischen Ausprägungen  \ntägliche Temperaturschwankungen sind größer als jährliche  \nPassivzirkulation  \nZenitalniederschlag  \nimmerfeucht bis trocken"
       }
     }
   },
