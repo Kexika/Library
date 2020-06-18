@@ -20,77 +20,77 @@
     },
     "Geometrie" : {
       "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
-      "Parallelogramm" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * ha = b * hb\n* alpha + beta = 180°\n* e und f halbieren sich\n  e = AC     f = BD\n\n![Parallelogramm von der Stückler](https://artikel.gebes.eu/mathe/parallelogramm.png)"
-    },
-    "Teilbarkeitsregeln" : {
-      "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
-    },
-    "Dreiecke" : {
-      "Gleichseitiges Dreieck" : {
-        "Informationen: " : "Sie haben drei gleich lange Seiten",
-        "Englischer Name" : "equilateral triangle",
-        "Merkmale" : "Ein gleichseitiges Dreieck hat die folgenden Eigenschaften: Drei gleichlange Seiten. Drei Symmetrieachsen. Drei Winkel mit 60°",
-        "Formeln" : {
-          "Umfang" : "U = 3a",
-          "Fläche" : "A = a²/4*√3",
-          "Höhe" : "ha = a/2 * √3",
-          "Inkreis" : "ρ = ha * 1/3",
-          "Umkreis" : "r = ha * 2/3 "
-        }
-      },
-      "Rechtwinkliges Dreieck" : {
-        "Informationen: " : "Sie haben einen Winkel von exakt 90 grad",
-        "Englischer Name" : "right-angled triangle \\ right triangle",
-        "Merkmale" : "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die\nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse.",
-        "Formeln" : {
-          "Umfang" : "U = a+b+c",
-          "Satz des Pythagoras" : "a² + b² = c²",
-          "Fläche" : "A = a*b/2",
-          "Umkreisradius" : "r = c/2",
-          "Inkreisradius" : "ρ = (a * b) : U",
-          "Winkelsumme" : "α + β + γ = 180°"     
-        }  
-      },
-      "Gleichschenkliges Dreieck" : {
-        "Informationen: " : "Sie haben zwei gleich lange Seiten",
-        "Englischer Name" : "isosceles triangle",
-        "Merkmale" : "Ein gleichschenkliges Dreieck ist ein Dreieck mit mindestens zwei gleich langen Seiten. Folglich sind auch die beiden Winkel\ngleich groß, die den gleich langen Seiten gegenüberliegen. Zur vollständigen Bestimmung werden zwei Bestimmungsstücke benötigt, davon zumindest eine Seite.",
-        "Formeln" : {
-          "Umfang" : "U = 2a + c",
-          "Fläche" : "A = 0,5 * c *h oder A = (a*ha) /2",
-          "Inreisradius" : "√R²-(a/2)²"
-        }
-      },
-      "Spitzwinkliges Dreieck" : {
-        "Informationen: " : "Sie haben nur spitze Winkel",
-        "Englischer Name" : "acute triangle",
-        "Merkmale" : "Ein spitzwinkliges Dreieck ist ein Dreieck, bei dem alle Winkel kleiner als 90° sind. Die drei Seiten müssen nicht unterschiedlich lang sein.",
-        "Formeln" : {
-          "Umfang" : "U = a + b + c",
-          "Fläche" : "A = 1/2 g * h"
-        }
-      },
-        "Allgemeines Dreieck" : {
-          "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
-          "Englischer Name" : "general triangle",
-          "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.\nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
+      "Parallelogramm" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * ha = b * hb\n* alpha + beta = 180°\n* e und f halbieren sich\n  e = AC     f = BD\n\n![Parallelogramm von der Stückler](https://artikel.gebes.eu/mathe/parallelogramm.png)",
+      "Dreiecke" : {
+        "Gleichseitiges Dreieck" : {
+          "Informationen: " : "Sie haben drei gleich lange Seiten",
+          "Englischer Name" : "equilateral triangle",
+          "Merkmale" : "Ein gleichseitiges Dreieck hat die folgenden Eigenschaften: Drei gleichlange Seiten. Drei Symmetrieachsen. Drei Winkel mit 60°",
           "Formeln" : {
-            "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-            "Umfang" : "u = a + b + c",
-            "Inkreisradius" : " ρ = 2 * A/U",
-            "Umkreisradius" : "r = (a*b*c)/(4*A)"
+            "Umfang" : "U = 3a",
+            "Fläche" : "A = a²/4*√3",
+            "Höhe" : "ha = a/2 * √3",
+            "Inkreis" : "ρ = ha * 1/3",
+            "Umkreis" : "r = ha * 2/3 "
           }
         },
-          "Stumpfwinkliges Dreieck" : {
-            "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
-            "Englischer Name" : "obtuse-angled triangle",
-            "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
+        "Rechtwinkliges Dreieck" : {
+          "Informationen: " : "Sie haben einen Winkel von exakt 90 grad",
+          "Englischer Name" : "right-angled triangle \\ right triangle",
+          "Merkmale" : "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die\nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse.",
+          "Formeln" : {
+            "Umfang" : "U = a+b+c",
+            "Satz des Pythagoras" : "a² + b² = c²",
+            "Fläche" : "A = a*b/2",
+            "Umkreisradius" : "r = c/2",
+            "Inkreisradius" : "ρ = (a * b) : U",
+            "Winkelsumme" : "α + β + γ = 180°"     
+          }  
+        },
+        "Gleichschenkliges Dreieck" : {
+          "Informationen: " : "Sie haben zwei gleich lange Seiten",
+          "Englischer Name" : "isosceles triangle",
+          "Merkmale" : "Ein gleichschenkliges Dreieck ist ein Dreieck mit mindestens zwei gleich langen Seiten. Folglich sind auch die beiden Winkel\ngleich groß, die den gleich langen Seiten gegenüberliegen. Zur vollständigen Bestimmung werden zwei Bestimmungsstücke benötigt, davon zumindest eine Seite.",
+          "Formeln" : {
+            "Umfang" : "U = 2a + c",
+            "Fläche" : "A = 0,5 * c *h oder A = (a*ha) /2",
+            "Inreisradius" : "√R²-(a/2)²"
+          }
+        },
+        "Spitzwinkliges Dreieck" : {
+          "Informationen: " : "Sie haben nur spitze Winkel",
+          "Englischer Name" : "acute triangle",
+          "Merkmale" : "Ein spitzwinkliges Dreieck ist ein Dreieck, bei dem alle Winkel kleiner als 90° sind. Die drei Seiten müssen nicht unterschiedlich lang sein.",
+          "Formeln" : {
+            "Umfang" : "U = a + b + c",
+            "Fläche" : "A = 1/2 g * h"
+          }
+        },
+          "Allgemeines Dreieck" : {
+            "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
+            "Englischer Name" : "general triangle",
+            "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.\nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
             "Formeln" : {
               "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-              "Umfang" : "u = a + b + c"
-          }
-        },
-          "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
+              "Umfang" : "u = a + b + c",
+              "Inkreisradius" : " ρ = 2 * A/U",
+              "Umkreisradius" : "r = (a*b*c)/(4*A)"
+            }
+          },
+            "Stumpfwinkliges Dreieck" : {
+              "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
+              "Englischer Name" : "obtuse-angled triangle",
+              "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
+              "Formeln" : {
+                "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+                "Umfang" : "u = a + b + c"
+            }
+          },
+            "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
+        }
+      },
+    "Teilbarkeitsregeln" : {
+      "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
     }
   },
   "English" : {
