@@ -271,16 +271,24 @@
   "Religion" : {},
   "Technische Informatik" : {},
   "POS" : {
-    "C" : {},
+    "C" : {
+      "Hello World" : "#include \"stdio.h\"  \nvoid main(){  \nprintf(\"Hello World\")  \n}"
+    },
     "C'" : {},
     "C++" : {},
-    "Java" : {},
+    "Java" : {
+      "Hello world" : "public class Main {  \npublic static void main(String args[]){  \nSystem.out.println(\"Hello World\");  \n}  \n}"
+    },
     "JavaScript" : {
       "Angular" : {},
       "Node JS" : {}
     },
-    "Python" : {},
-    "Ruby" : {},
+    "Python" : {
+      "Hello world" : "print('Hello world'"
+    },
+    "Ruby" : {
+      "Hello world" : "puts 'Hello, world!'"
+    },
     "Dont forget your daily dose of coffee" :  "Programmer: a tool for converting caffeine into code ;)"
   },
   "Mathematik - Lernwerkstätte" : {}
