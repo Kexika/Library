@@ -324,5 +324,14 @@
     },
     "Dont forget your daily dose of coffee" :  "Programmer: a tool for converting caffeine into code ;)"
   },
-  "Mathematik - Lernwerkstätte" : {}
+  "Mathematik - Lernwerkstätte" : {},
+  "Motivierende Sprüche und so(fois moi kan Bock hobts)" : {
+    "Philosophisch" : {
+      "Alle Träume können Wahr werden, wenn wir den Mut haben, ihnen zu folgen" : "",
+      "Phantasie ist wichtiger als Wissen, denn Wissen ist begrentz" : "",
+      "Es ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenblebst" : "",
+      "Ich habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet" : "",
+      "Auf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr": ""
+    }
+  }
 }
