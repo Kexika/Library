@@ -233,7 +233,9 @@
       "Sammelmappe" : "![Sammelmappe Seite 1](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-1.png)\n![Sammelmappe Seite 2](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-2.png)\n![Sammelmappe Seite 3](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-3png)\n![Sammelmappe Seite 4](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-4.png)\n![Sammelmappe Seite 5](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-5.png)\n![Sammelmappe Seite 6](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-6.png)\n![Sammelmappe Seite 7](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-7.png)\n![Sammelmappe Seite 8](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-8.png)\n![Sammelmappe Seite 9](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-9.png)\n![Sammelmappe Seite 10](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-10.png)\n![Sammelmappe Seite 11](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-11.png)\n"
     }
   },
-  "Soziales lernen" : {},
+  "Soziales lernen" : {
+    "Warum gibts des?" : "Was kana (bzw **WIR** wissen des ned)"
+  },
   "BWMJ" : {},
   "GGP" : {
     "Erdenarten/Bereiche" : {
@@ -296,7 +298,9 @@
       }
     }
   },
-  "Religion" : {},
+  "Religion" : {
+    "Samma heilig?" : "Vielleicht, was kana"
+  },
   "Technische Informatik" : {},
   "POS" : {
     "C" : {
