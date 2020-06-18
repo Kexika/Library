@@ -277,6 +277,11 @@
         "Kollisionszone" : "Zwei Kontinentale Platten stoßen zusammen  \nErdkruste wird dabei zerquetscht und zu Gebirgen aufgetürmt  \nBsp. Kollision Indiens mit der Eurasischen Platte",
         "Dehnungszone" : "Zwei Platten entfernen sich voneinander  \nEs passiert:  \n  Erdkruste reißt auf  \n  Aus dem Untergrund entfließt Magma  \n  Neue Erdkruste wird gebildet  \n\nDas passiert oft in Ozeanen (Seafloor-Spreading"
       }
+    },
+    "Gebirge entstehen" : {
+      "Kaledonische Gebirgsbildung" : {},
+      "Variske Gebirgsbildung" : {},
+      "Alpidische Gebirgsbildung" : {}
     }
   },
   "Religion" : {},
@@ -288,9 +293,10 @@
     "C#" : {},
     "C++" : {},
     "Java" : {
-      "Hello world" : "public class Main {  \n  public static void main(String args[]){  \n    System.out.println(\"Hello World\");  \n  }  \n}  \n}"
+      "Hello world" : "public class Main {  \n  public static void main(String args[]){  \n    System.out.println(\"Hello World\");  \n  }  \n}"
     },
     "JavaScript" : {
+      "Hello world" : "console.log('Hello World')",
       "Angular" : {},
       "Node JS" : {}
     },
