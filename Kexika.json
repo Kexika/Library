@@ -48,7 +48,8 @@
           "Fläche" : "A = a*b/2",
           "Umkreisradius" : "r = c/2",
           "Inkreisradius" : "ρ = (a * b) : U",
-          "Winkelsumme" : "α + β + γ = 180°"       
+          "Winkelsumme" : "α + β + γ = 180°"     
+        }  
       },
       "Gleichschenkliges Dreieck" : {
         "Informationen: " : "Sie haben zwei gleich lange Seiten",
@@ -67,31 +68,30 @@
         "Formeln" : {
           "Umfang" : "U = a + b + c",
           "Fläche" : "A = 1/2 g * h"
-      },
-      "Allgemeines Dreieck" : {
-        "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
-        "Englischer Name" : "general triangle",
-        "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.\nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
-        "Formeln" : {
-          "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-          "Umfang" : "u = a + b + c",
-          "Inkreisradius" : " ρ = 2 * A/U",
-          "Umkreisradius" : "r = (a*b*c)/(4*A)"
         }
       },
-      "Stumpfwinkliges Dreieck" : {
-        "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
-        "Englischer Name" : "obtuse-angled triangle",
-        "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
-        "Formeln" : {
-          "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-          "Umfang" : "u = a + b + c"
-        }
-      },
-      "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
+        "Allgemeines Dreieck" : {
+          "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
+          "Englischer Name" : "general triangle",
+          "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.\nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
+          "Formeln" : {
+            "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+            "Umfang" : "u = a + b + c",
+            "Inkreisradius" : " ρ = 2 * A/U",
+            "Umkreisradius" : "r = (a*b*c)/(4*A)"
+          }
+        },
+          "Stumpfwinkliges Dreieck" : {
+            "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
+            "Englischer Name" : "obtuse-angled triangle",
+            "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
+            "Formeln" : {
+              "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+              "Umfang" : "u = a + b + c"
+          }
+        },
+          "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
     }
-    }
-  }
   },
   "English" : {
     "Grammar" : {
