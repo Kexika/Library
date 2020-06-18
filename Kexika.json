@@ -28,27 +28,33 @@
     "Dreiecke" : {
       "Gleichseitiges Dreieck" : {
         "Informationen: " : "Sie haben drei gleich lange Seiten",
-        "Englischer Name" : "equilateral triangle"
+        "Englischer Name" : "equilateral triangle",
+        "Merkmale" : "Ein gleichseitiges Dreieck hat die folgenden Eigenschaften: Drei gleichlange Seiten. Drei Symmetrieachsen. Drei Winkel mit 60°"
       },
       "Rechtwinkliges Dreieck" : {
         "Informationen: " : "Sie haben einen Winkel von exakt 90 grad",
-        "Englischer Name" : "right-angled triangle \\ right triangle"
+        "Englischer Name" : "right-angled triangle \\ right triangle",
+        "Merkmale" : "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die\nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse."
       },
       "Gleichschenkliges Dreieck" : {
         "Informationen: " : "Sie haben zwei gleich lange Seiten",
-        "Englischer Name" : "isosceles triangle"
+        "Englischer Name" : "isosceles triangle",
+        "Merkmale" : "Ein gleichschenkliges Dreieck ist ein Dreieck mit mindestens zwei gleich langen Seiten. Folglich sind auch die beiden Winkel\ngleich groß, die den gleich langen Seiten gegenüberliegen. Zur vollständigen Bestimmung werden zwei Bestimmungsstücke benötigt, davon zumindest eine Seite."
       },
       "Spitzwinkliges Dreieck" : {
         "Informationen: " : "Sie haben nur spitze Winkel",
-        "Englischer Name" : "acute triangle"
+        "Englischer Name" : "acute triangle",
+        "Merkmale" : "Ein spitzwinkliges Dreieck ist ein Dreieck, bei dem alle Winkel kleiner als 90° sind. Die drei Seiten müssen nicht unterschiedlich lang sein."
       },
       "Allgemeines Dreieck" : {
         "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
-        "Englischer Name" : "general triangle"
+        "Englischer Name" : "general triangle",
+        "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.\nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite."
       },
       "Stumpfwinkliges Dreieck" : {
         "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
-        "Englischer Name" : "obtuse-angled triangle"
+        "Englischer Name" : "obtuse-angled triangle",
+        "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite."
       }
     }
   },
