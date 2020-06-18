@@ -267,11 +267,15 @@
         "Informationen" : "Tageslänge von 10,5 bis 13,5 Std.  \nDie Jahreszeiten haben keine thermatischen Ausprägungen  \ntägliche Temperaturschwankungen sind größer als jährliche  \nPassivzirkulation  \nZenitalniederschlag  \nimmerfeucht bis trocken"
       }
     },
-    "Plattentektonik": {
+    "Platten (Erdplatten z.B. Eurasien)": {
+      "Plattenbewegungen" : {
+        "Konvektoinsströme" : "Durch diese sind 4 unterschiedliche Bewegungen der Erdplatten möchlich"
+      },
       "Zonen" : {
         "Subduktionszone" : "Eine ozeanische Platte driftet gegen eine kontinentale Platte  \nOzeanische Platte wird unter die kontinentale Platte gedrückt und wird im Erdmantel afgelöst.  \nBsp: Anden",
         "Scherungszone" : "Zwei Platten gleiten aneinander Vorbei  \nErdkruste reißt entlang den Verwerfungen auf  \nBsp. San-Andreas Graben in Kalifornien",
-        "Kollisionszone" : "Zwei Kontinentale Platten stoßen zusammen  \nErdkruste wird dabei zerquetscht und zu Gebirgen aufgetürmt  \nBsp. Kollision Indiens mit der Eurasischen Platte"
+        "Kollisionszone" : "Zwei Kontinentale Platten stoßen zusammen  \nErdkruste wird dabei zerquetscht und zu Gebirgen aufgetürmt  \nBsp. Kollision Indiens mit der Eurasischen Platte",
+        "Dehnungszone" : "Zwei Platten entfernen sich voneinander  \nEs passiert:  \n  Erdkruste reißt auf  \n  Aus dem Untergrund entfließt Magma  \n  Neue Erdkruste wird gebildet  \n\nDas passiert oft in Ozeanen (Seafloor-Spreading"
       }
     }
   },
