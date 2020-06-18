@@ -301,7 +301,22 @@
   "Religion" : {
     "Samma heilig?" : "Vielleicht, was kana"
   },
-  "Technische Informatik" : {},
+  "Technische Informatik" : {
+    "Kodierungen" : {
+      "Oktal" : {
+        "Darstellung (26)" : "32",
+        "Rechnung" : "32^8 = 3·8^1 + 2·8^0 = 26^10"
+      },
+      "Ascii" : {
+        "Darstellung (26)" : "1A",
+        "Rechnung" : "1A^16 = 1·16^1 + A·16^0 = 1^10·16^1 + 10^10·16^0 = 26^10"
+      },
+      "Binär" : {
+        "Darstellung (26)" : "11010",
+        "Rechnung" : "11010^2 = 1·2^4 + 1·2^3 + 0·2^2 + 1·2^1 + 0·2^0 = 26"
+      }
+    }
+  },
   "POS" : {
     "C" : {
       "Hello World" : "#include \"stdio.h\"  \n\nvoid main(){  \n  printf(\"Hello World\")  \n}"
