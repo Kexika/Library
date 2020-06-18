@@ -37,7 +37,7 @@
         "Rechtwinkliges Dreieck" : {
           "Informationen: " : "Sie haben einen Winkel von exakt 90 grad",
           "Englischer Name" : "right-angled triangle \\ right triangle",
-          "Merkmale" : "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die\nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse.",
+          "Merkmale" : "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die  \nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse.",
           "Formeln" : {
             "Umfang" : "U = a+b+c",
             "Satz des Pythagoras" : "a² + b² = c²",
@@ -50,7 +50,7 @@
         "Gleichschenkliges Dreieck" : {
           "Informationen: " : "Sie haben zwei gleich lange Seiten",
           "Englischer Name" : "isosceles triangle",
-          "Merkmale" : "Ein gleichschenkliges Dreieck ist ein Dreieck mit mindestens zwei gleich langen Seiten. Folglich sind auch die beiden Winkel\ngleich groß, die den gleich langen Seiten gegenüberliegen. Zur vollständigen Bestimmung werden zwei Bestimmungsstücke benötigt, davon zumindest eine Seite.",
+          "Merkmale" : "Ein gleichschenkliges Dreieck ist ein Dreieck mit mindestens zwei gleich langen Seiten. Folglich sind auch die beiden Winkel  \ngleich groß, die den gleich langen Seiten gegenüberliegen. Zur vollständigen Bestimmung werden zwei Bestimmungsstücke benötigt, davon zumindest eine Seite.",
           "Formeln" : {
             "Umfang" : "U = 2a + c",
             "Fläche" : "A = 0,5 * c *h oder A = (a*ha) /2",
@@ -60,7 +60,7 @@
         "Spitzwinkliges Dreieck" : {
           "Informationen: " : "Sie haben nur spitze Winkel",
           "Englischer Name" : "acute triangle",
-          "Merkmale" : "Ein spitzwinkliges Dreieck ist ein Dreieck, bei dem alle Winkel kleiner als 90° sind. Die drei Seiten müssen nicht unterschiedlich lang sein.",
+          "Merkmale" : "Ein spitzwinkliges Dreieck ist ein Dreieck, bei dem alle Winkel kleiner als 90° sind. Die drei Seiten müssen nicht  unterschiedlich lang sein.",
           "Formeln" : {
             "Umfang" : "U = a + b + c",
             "Fläche" : "A = 1/2 g * h"
@@ -69,7 +69,7 @@
           "Allgemeines Dreieck" : {
             "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
             "Englischer Name" : "general triangle",
-            "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.\nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
+            "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.  \nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
             "Formeln" : {
               "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
               "Umfang" : "u = a + b + c",
@@ -183,12 +183,12 @@
         "Besonderheiten bei Zahlen" : "* Zahlen **unter einer Million** werden **kleingeschrieben**\n  * elf, zweitausenddrei, dreißigtausend\n    **Achtung**! Ausnahmen sind **Noten** und **Würfelpunkte**!:\n    eine Drei/einen Dreier bekommen, eine Sechs/einen Sechser würfeln\n* **Ordnungszahlwörter** werden großgeschrieben\n  * der Zweite, als Erstes, der Nächste, das Letzte\n    **Achtung**! der erste Ritter, das dritte Gebot\n* **Bruchzahlwörter** in **Zeit**- und **Maßangaben** sind klein, wenn sie vor der **Zahl**/**Maßeinheit** stehen\n  * um viertel eins, um drei viertel acht, ein achtel Kilogramm Butter, ein viertel Liter Wein\n* Stehen sie **nicht unmittelbar** davor, werden sie **großgeschrieben**\n  * (ein) Viertel vor zehn, (ein) Viertel nach acht, noch ein Viertel trinken\n* Stehen **Bruchzahlwörter unmittelbar** vor den **Stoffbezeichnungen**, wird auch großgeschrieben\n  * ein Achtel Butter, ein Viertel Wein"
       },
       "seid/seit" : {
-        "seid": "kommt von \"sein\"!\nBsp: Ihr seid laut",
-        "seit": "seit ist ein Konjunktiv\nseit kann auch eine Proäposition sein\nBeispiele: Seit ich dich kenne\n  Seit diesem Tag"
+        "seid": "kommt von \"sein\"!  \nBsp: Ihr seid laut",
+        "seit": "seit ist ein Konjunktiv  \nseit kann auch eine Proäposition sein  \nBeispiele: Seit ich dich kenne  \nSeit diesem Tag"
       },
       "Das/Dass" : {
-        "Das": "Artikel z.B. Das Buch\nDemonstrativpronomen z.B. Das habe ich gemacht\nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
-        "dass": "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden\nz.B. Ich bin der Meinung, dass ich Hunger habe",
+        "Das": "Artikel z.B. Das Buch  \nDemonstrativpronomen z.B. Das habe ich gemacht  \nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
+        "dass": "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden  \nz.B. Ich bin der Meinung, dass ich Hunger habe",
         "Verwirrender Dass/Das Satz ": "Dass das Dass mit Das verwechselt wird, führt irgendwann dazu, dass das Dass das nicht mehr erträgt und dass das Dass das Das dann tötet. XD"
       },
       "end\\ent" : {
@@ -197,9 +197,9 @@
       },
       "Wortarten" : {
         "Verb" : {
-          "Informationen" : "Verb = Zeitwort\nUnter dem Begriff Verb versteht man eine Wortart, die eine Tätigkeit, einen Vorgang oder\neinen Zustand beschreibt. So wird das Verb zu Deutsch oft als \"Tunwort, Tätigkeitswort oder Zeitwort\"\nverstanden. Sie können konjugiert (=abgewandelt) werden.\nSie kommen in so ziemlich jeden Satz vor",
-          "infinites Verb" : "(kommend, kochen, gegangen) sind der *Infinitiv* und die beiden mittelwörter, also Partizip\nPräsens und Partizip Perfekt. Von ihnen kann man nichts ablesen",
-          "finites Verb" : "Aus ihnen kann man Person, Numerus, Tempus, Modus und das Genus Verbi ablesen\nPerson: ich, du, er/sie/es, wir, ihr, sie\nNumerus: Singular und Präsens\nTempus: Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur 1, Futur 2\nModus: Indikativ, Imperativ oder Konjunktiv\nGenus Verbi: Aktiv oder Passiv",
+          "Informationen" : "Verb = Zeitwort  \nUnter dem Begriff Verb versteht man eine Wortart, die eine Tätigkeit, einen Vorgang oder  \neinen Zustand beschreibt. So wird das Verb zu Deutsch oft als \"Tunwort, Tätigkeitswort oder Zeitwort\"  \nverstanden. Sie können konjugiert (=abgewandelt) werden.  \nSie kommen in so ziemlich jeden Satz vor",
+          "infinites Verb" : "(kommend, kochen, gegangen) sind der *Infinitiv* und die beiden mittelwörter, also Partizip  \nPräsens und Partizip Perfekt. Von ihnen kann man nichts ablesen",
+          "finites Verb" : "Aus ihnen kann man Person, Numerus, Tempus, Modus und das Genus Verbi ablesen  \nPerson: ich, du, er/sie/es, wir, ihr, sie  \nNumerus: Singular und Präsens  \nTempus: Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur 1, Futur 2  \nModus: Indikativ, Imperativ oder Konjunktiv  \nGenus Verbi: Aktiv oder Passiv",
           "trennbare und untrennbare Verben" : {
             "untrennbar" : "untrennbare Verben enthalen Präfixe (Vorsinlben), die keine allgemein verständliche Aussage haben: ent-, ge-, ver-, zer-,...",
             "trennbar" : "Trennbare enthalten Verbzusätze, meist Vorwörter, die eine allgemein verständliche Aussage haben: ab-, an-, auf-, aus-, bei-, her-, ein,- nach-, los-, hin-, wieder-, zu-, zurück-, vor-, weg-..."
