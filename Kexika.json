@@ -194,6 +194,22 @@
       "end\\ent" : {
         "end" : "End leitet sich vom Ende ab z.B. Endlich, Endlos",
         "ent" : "Ent bedeutet meistens negatives z.B. entfernen, entlassen"
+      },
+      "Wortarten" : {
+        "Verb" : {
+          "Informationen" : "Verb = Zeitwort\nUnter dem Begriff Verb versteht man eine Wortart, die eine Tätigkeit, einen Vorgang oder\neinen Zustand beschreibt. So wird das Verb zu Deutsch oft als \"Tunwort, Tätigkeitswort oder Zeitwort\"\nverstanden. Sie können konjugiert (=abgewandelt) werden.\nSie kommen in so ziemlich jeden Satz vor",
+          "infinites Verb" : "(kommend, kochen, gegangen) sind der *Infinitiv* und die beiden mittelwörter, also Partizip\nPräsens und Partizip Perfekt. Von ihnen kann man nichts ablesen",
+          "finites Verb" : "Aus ihnen kann man Person, Numerus, Tempus, Modus und das Genus Verbi ablesen\nPerson: ich, du, er/sie/es, wir, ihr, sie\nNumerus: Singular und Präsens\nTempus: Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur 1, Futur 2\nModus: Indikativ, Imperativ oder Konjunktiv\nGenus Verbi: Aktiv oder Passiv",
+          "trennbare und untrennbare Verben" : {
+            "untrennbar" : "untrennbare Verben enthalen Präfixe (Vorsinlben), die keine allgemein verständliche Aussage haben: ent-, ge-, ver-, zer-,...",
+            "trennbar" : "Trennbare enthalten Verbzusätze, meist Vorwörter, die eine allgemein verständliche Aussage haben: ab-, an-, auf-, aus-, bei-, her-, ein,- nach-, los-, hin-, wieder-, zu-, zurück-, vor-, weg-..."
+          },
+          "Voll - Hilfs-und Modalverben" : {
+            "Hilfsverben" : "haben, sein und werden",
+            "Modalverben" : "müssen, können, wollen, sollen. dürfen und mögen",
+            "Vollverben" : "der Rest: weinen, lieben, essen, singen, holen, trinken....."
+          }
+        }
       }
     }
   },
