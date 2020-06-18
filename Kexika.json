@@ -167,7 +167,8 @@
       "Empathie" : "Beschreibt die Bereitschaft und die Fähigkeit einer Person, sich in Lage, Einstellung und emotionale Befindlichkeit einer anderen Person einzufühlen.\n# Beispiel\n*Empathie* ist einer der Grundpfeiler menschlichen Zusammenlebens.",
       "Kausalität" : "Gemeinsamkeiten, die nicht bewiesen im zusammenhang stehen.",
       "Korrelation" : " Wissenschaftlich geprüfter Zusammenhang.",
-      "ad hoc" : "Aus dem Stegreif."
+      "ad hoc" : "Aus dem Stegreif.",
+      "protegieren" : "geschäftlich interagieren"
     },
     "Grammatik" : {
       "Groß- und Kleinschreibung" : {
@@ -334,8 +335,27 @@
     "Python" : {
       "Hello world" : "print('Hello world')"
     },
+    "R" : {
+      "Hello world" : "print(\"Hello World\")"
+    },
     "Ruby" : {
       "Hello world" : "puts 'Hello, world!'"
+    },
+    "Esoteric languages" : {
+      "INFO" : "Everything is a esotheric language and this means that you can't use this languages profesional, except you have too much time  \nDon't take it serious! I just wanted to show some shit  \n~Steve",
+      "Arnold" : "IT'S SHOWTIME  \nTALK TO THE HAND \"hello world\"  \nYOU HAVE BEEN TERMINATED",
+      "asdf" : "asaasaasssasaasssasaaaasssasaasssasaaaaaaaasssasaaaasssasaaaasssasaasssasaasssasaasssasaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaasssasaaaaaaaasssasaaaasssasaasssasaasssasaaaasssasaaaaaaaasssasaasssasaaaaaaaaaaaasssasaaaaaasssasaasssasaaaaaasssasaasssasaaaasssasaasssasaaaaaaaasssasaasssasaaaaaasssasaaaasssasaasssasaaaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaaaasssasaasssasaaaaaaaasssasaasssasaaaaaaaasssasaa",
+      "DUP" : "'H,'e,'l,'l,'o,',,' ,'w,'o,'r,'l,'d,'!,10,",
+      "Fob" : "$:#&$Hello, World!:#<>#=",
+      "Fourier" : "72a101a108aa111a44a32a119a111a114a108a100a33a10a",
+      "F-Pulse" : "PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS CBGN[ NXT PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS LST LST LST MNS ]CEND NXT PLS PLS OUT NXT PLS OUT PLS PLS PLS PLS PLS PLS PLS OUT OUT PLS PLS PLS OUT NXT PLS PLS OUT LST LST PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS OUT NXT OUT PLS PLS PLS OUT MNS MNS MNS MNS MNS MNS OUT MNS MNS MNS MNS MNS MNS MNS MNS OUT NXT PLS OUT NXT PTN OUT",
+      "Fueue" : "PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS CBGN[ NXT PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS LST LST LST MNS ]CEND NXT PLS PLS OUT NXT PLS OUT PLS PLS PLS PLS PLS PLS PLS OUT OUT PLS PLS PLS OUT NXT PLS PLS OUT LST LST PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS OUT NXT OUT PLS PLS PLS OUT MNS MNS MNS MNS MNS MNS OUT MNS MNS MNS MNS MNS MNS MNS MNS OUT NXT PLS OUT NXT PTN OUT",
+      "Goldfish" : "0 iisiiiisiiiiiiiioniiisisioiiiiiiiooiiioniisiisddddoniisiiiiisiiiiiioniiisiisddddddddddoiiioddddddoddddddddoniiisio",
+      "Hexish" : "0902160E48656C6C6F20776F726C6421001001161508",
+      "Linguine" : "1[0=72,0$,0+29,0$,0+7,0$,0$,0+3,0$,1=32,1$,0-24,0$,0+24,0$,0+3,0$,0-6,0$,0-8,0$,1+1,1$,1-23,1$]0",
+      "Seeker" : "!chr.@chr:72.$chr.@chr:101.$chr.@chr:108.$chr.@chr:111.$chr.@chr:32.$chr.@chr:119.$chr.@chr:114.$chr.@chr:100.$chr.@chr:33.$chr._",
+      "suicid^e" : "<*vAA:\"Hello, world!\"",
+      "Thutu" : "/^=1$/Hello, world!=n=x=9/"
     },
     "Dont forget your daily dose of coffee" :  "Programmer: a tool for converting caffeine into code ;)"
   },
