@@ -248,7 +248,9 @@
       }
     },
     "Klimazonen" : {
-      "polare Zone" : {},
+      "polare Zone" : {
+        "Informationen" : "Anderer Name: Polargebiet  \nRegion im Bereicht des nördlichen Polarkreises(Arktis und Antarktis)  \nDie Temperaturen liegen das ganze Jahr unter oder nur knapp über der Nullgradgrenze  \nNiederschläge sind gering  \n Solare einstrahlung der Sonne ist reduziert (Durchschnittlich 40% weniger als am Äquator)"
+      },
       "subpolare Zone" : {
         "Informationen" : "Klimazone, die den Übergang zwischen polarer und gemäßigter Klimazone bildet  \nist von halbjährlichen Wechsel von außertropischen Westwinden im Sommer und polaren Ostwinden im Winter gekennzeichnet"
       },
