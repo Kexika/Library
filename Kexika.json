@@ -234,10 +234,25 @@
     }
   },
   "Solziales lernen" : {},
-  "BMWJ" : {},
-  "GGP" : {},
+  "BWMJ" : {},
+  "GGP" : {
+    "Gesteine/Bereiche" : {
+      "Borealer Bereich" : {
+        "Gleye" : "stark vom Bodenwasser beeinflusst  \nhoher Grundwasserspiegel  \nwasserundurchlässige Lehmschicht  \nLandwirtschaftlich ungeeignet",
+        "Podsole" : "leicht auswaschbar  \nMineralien verickern im Unterboden  \nstarke Humusbildung  \n landwirtschaftlich ungeeignet"
+      },
+      "Nemoraler Bereich" : {
+        "Schwarzerde" : "Oberboden dunkel(ca. 40cm tiefe Humusschicht  \ntiefgründig  \nsehr fruchtbar",
+        "Braunerde" : "am weitesten Verbreitet  \neisenhaltig  \nsehr furchtbar",
+        "Rendzina" : "flachgründiger Boden  \ngips-und kalkreich  \nlandwirtschaftlich ungeeignet  \nschnell austrocknend"
+      }
+    }
+  },
   "Religion" : {},
   "TINF" : {},
-  "POS" : {},
+  "POS" : {
+    "C" : {},
+    "Java" : {}
+  },
   "Lernwerkstätte" : {}
 }
