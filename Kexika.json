@@ -1,4 +1,5 @@
 {
+  "Über die App" : "Wie gewann 2006 Italien die WM? Ganz einfach, durch Kondition und Teamgeist!\nSo wie Italien, wollen wir mit dieser App zusammen, als Team, es bis zur Matura schaffen, indem wir gemeinsam den ganzen Schulstoff eintragen.  \nDies bringt uns zwei große Vorteile:\n* Wir verfestigen beim Eintragen das Gelernte\n* Wir können den Stoff jederzeit abrufen, ohne lästige Schulbücher herumtragen zu müssen\n\n## Von wem ist die App?\nVon uns, der CHIF19 <3",
   "Mathe" : {
     "Funktionen" : {
       "Allgemeines" : {
@@ -19,35 +20,31 @@
     },
     "Geometrie" : {
       "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
-      "Parallelogramm" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * ha = b * hb\n* alpha + beta = 180°\n* e und f halbieren sich\n  e = AC     f = BD\n\n![Parallelogramm von der Stückler](https://artikel.gebes.eu/mathe/parallelogramm.png)"
-    },
-    "Teilbarkeitsregeln" : {
-      "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
-    },
-    "Dreiecke" : {
-      "Gleichseitiges Dreieck" : {
-        "Informationen: " : "Sie haben drei gleich lange Seiten",
-        "Englischer Name" : "equilateral triangle",
-        "Merkmale" : "Ein gleichseitiges Dreieck hat die folgenden Eigenschaften: Drei gleichlange Seiten. Drei Symmetrieachsen. Drei Winkel mit 60°",
-        "Formeln" : {
-          "Umfang" : "U = 3a",
-          "Fläche" : "A = a²/4*√3",
-          "Höhe" : "ha = a/2 * √3",
-          "Inkreis" : "ρ = ha * 1/3",
-          "Umkreis" : "r = ha * 2/3 "
-        }
-      },
-      "Rechtwinkliges Dreieck" : {
-        "Informationen: " : "Sie haben einen Winkel von exakt 90 grad",
-        "Englischer Name" : "right-angled triangle \\ right triangle",
-        "Merkmale" : "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die\nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse.",
-        "Formeln" : {
-          "Umfang" : "U = a+b+c",
-          "Satz des Pythagoras" : "a² + b² = c²",
-          "Fläche" : "A = a*b/2",
-          "Umkreisradius" : "r = c/2",
-          "Inkreisradius" : "ρ = (a * b) : U",
-          "Winkelsumme" : "α + β + γ = 180°"
+      "Parallelogramm" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * ha = b * hb\n* alpha + beta = 180°\n* e und f halbieren sich\n  e = AC     f = BD\n\n![Parallelogramm von der Stückler](https://artikel.gebes.eu/mathe/parallelogramm.png)",
+      "Dreiecke" : {
+        "Gleichseitiges Dreieck" : {
+          "Informationen: " : "Sie haben drei gleich lange Seiten",
+          "Englischer Name" : "equilateral triangle",
+          "Merkmale" : "Ein gleichseitiges Dreieck hat die folgenden Eigenschaften: Drei gleichlange Seiten. Drei Symmetrieachsen. Drei Winkel mit 60°",
+          "Formeln" : {
+            "Umfang" : "U = 3a",
+            "Fläche" : "A = a²/4*√3",
+            "Höhe" : "ha = a/2 * √3",
+            "Inkreis" : "ρ = ha * 1/3",
+            "Umkreis" : "r = ha * 2/3 "
+          }
+        },
+        "Rechtwinkliges Dreieck" : {
+          "Informationen: " : "Sie haben einen Winkel von exakt 90 grad",
+          "Englischer Name" : "right-angled triangle \\ right triangle",
+          "Merkmale" : "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die\nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse.",
+          "Formeln" : {
+            "Umfang" : "U = a+b+c",
+            "Satz des Pythagoras" : "a² + b² = c²",
+            "Fläche" : "A = a*b/2",
+            "Umkreisradius" : "r = c/2",
+            "Inkreisradius" : "ρ = (a * b) : U",
+            "Winkelsumme" : "α + β + γ = 180°"
         },
         "Gleichschenkliges Dreieck" : {
           "Informationen: " : "Sie haben zwei gleich lange Seiten",
@@ -66,51 +63,73 @@
           "Formeln" : {
             "Umfang" : "U = a + b + c",
             "Fläche" : "A = 1/2 g * h"
-          },
-          "Allgemeines Dreieck" : {
-            "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
-            "Englischer Name" : "general triangle",
-            "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.\nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
-            "Formeln" : {
-              "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-              "Umfang" : "u = a + b + c",
-              "Inkreisradius" : " ρ = 2 * A/U",
-              "Umkreisradius" : "r = (a*b*c)/(4*A)"
-            }
-          },
-          "Stumpfwinkliges Dreieck" : {
-            "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
-            "Englischer Name" : "obtuse-angled triangle",
-            "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
-            "Formeln" : {
-              "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-              "Umfang" : "u = a + b + c"
-            }
-          },
-          "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
-        }
+        },
+        "Allgemeines Dreieck" : {
+          "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
+          "Englischer Name" : "general triangle",
+          "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.\nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
+          "Formeln" : {
+            "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+            "Umfang" : "u = a + b + c",
+            "Inkreisradius" : " ρ = 2 * A/U",
+            "Umkreisradius" : "r = (a*b*c)/(4*A)"
+          }
+        },
+        "Stumpfwinkliges Dreieck" : {
+          "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
+          "Englischer Name" : "obtuse-angled triangle",
+          "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
+          "Formeln" : {
+            "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+            "Umfang" : "u = a + b + c"
+          }
+        },
+        "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
+      },
+      "Teilbarkeitsregeln" : {
+        "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
       }
     }
   },
-  "BWMR" : {
-    "Jahr 1" : {
-      "Sammelmappe" : "![Sammelmappe Seite 1](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-1.png)\n![Sammelmappe Seite 2](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-2.png)\n![Sammelmappe Seite 3](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-3png)\n![Sammelmappe Seite 4](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-4.png)\n![Sammelmappe Seite 5](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-5.png)\n![Sammelmappe Seite 6](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-6.png)\n![Sammelmappe Seite 7](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-7.png)\n![Sammelmappe Seite 8](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-8.png)\n![Sammelmappe Seite 9](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-9.png)\n![Sammelmappe Seite 10](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-10.png)\n![Sammelmappe Seite 11](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-11.png)\n"
-    }
-  },
-  "Physik" : {
-    "Würfe" : {
-      "Waagerechter Wurf" : "Der **waagerechte Wurf**, oder auch **horizontaler Wurf** ist die Bewegung eines Körpers, der parallel zum Horizont geworfen oder geschossen wird. Betrachtet man die Bahnkurve des waagerecht geworfenen Körpers, handelt es sich um eine Parabel, bei welcher der Scheitelpunkt den Abwurfort repräsentiert. Das bedeutet wiederum, dass der Körper zwei unterschiedliche Bewegungsformen durchführt.  \n\n**Formeln**:       \n\nZeit-Geschwindigkeits-Gesetz:  \nv(kleiner  y)(t)=-g*t \n\nWeg-Zeit-Gesetzt:  \ny(t) = (-1/2)g*t^2+h(kleiner 0)  \n\nWurfparabel:  \ny(r)=(-1/2)*a(kleiner 0)[x/v(kleiner 0,x)]^2+h(kleiner 0) \n\nWurfhöhe:  \nh(kleiner 0)=1/2*g(kleiner 0){x(kleiner y)/v(kleiner 0,x)]^2  \n\nWurfweite:   \nx(kleiner W)= v(kleiner 0,r)*wurzel[2*h(kleiner 0)/g] \n\nFallzeit:   \nt=wurzel[2*h(kleiner 0)/g]  \n\n\n![](https://www.leifiphysik.de/sites/default/files/medien/Wurfgeschwindigkeit_Bild.gif)",
-      "Lotrechter Wurf" : "Bei dieser Bewegung handelt es sich um eine Überlagerung von zwei Bewegungen: einer gleichförmigen Bewegung (durch die vertikale Anfangsgeschwindigkeit v0) und einer gleichmäßig beschleunigten Bewegung (durch die Fallbeschleunigung). In den Gleichungen kommen daher Anteile von beiden Bewegungsformen vor.  \n\nFormeln:  \ns=h0+v0*t+(g/2)*t^2  \nv=v0+g*t \n\n ![](https://www.lernort-mint.de/abbildungen/physik-mechanik-senkrechter-wurf.jpg)",
-      "Schiefer Wurf" : "H = (vo^2*sin^2a)/(2*g) <----- Maximale Wurfhöhe \n\n tmaximale_Höhe = vy/g <------- Zeit bei der maximalen Wurfhöhe (Diese Zeit mal 2 wäre die gesamte Wurfdauer) \n\n h = 1/2 * 9,81 * t^2/2 <------ Höhe zu jeder Zeit \n\n sx  = vx*t*2 = vx* vy/g * 2 = vo * cos(a) * (vo*cos⁡(a))/g * 2 = vo^2/g * 2sin(a)*cos(a) \n= (vo^2* sin(2a) )/g = sx  <------ Maximale Wurfweite \n\n s = vx*t            <--- um die Weite zu jeder Zeit zu berechnen (heißt zu t: 0,1,2..) \n\n tW = (2*vo*sin⁡(a))/g <----- Wurfdauer \n\n vx = vo * cos(a) \n\n vy = vo * sin(a) \n\n\n\n\n\n\n\n ![](https://www.frustfrei-lernen.de/images/mechanik/schiefer-wurf.jpg)"
+  "English" : {
+    "Grammar" : {
+      "plural nouns" : "one dog - four dog**s**  \none horse - two horse**s**  \none bab**y** - three bab**ies**  \none bo**y** - three bo**ys**  \n\nKommt vor \"**y**\" ein Selbstlaut (a, e, i, o, u) -> **-ys**  \nKommt vor \"**y**\" ein Mitlaut -> **-ies**  ",
+      "Asking questions" : "What's your name?\n\n* My name is Christoph\n* I'm Christoph\n* I am Christoph\n\n**I am = I'm**  \n\nHow are you?  \n\n* I'm fine thanks\n* I'm sad\n* I'm happy\n* I'm tired\n* I feel good, thanks.",
+      "Imperatives" : "Open the books**!**  \nOpen the window!  \nSit down!  \nClose the window!  \nStand up!  \nClose your eyes!  \nClean the board!  \n\nDon't stand up!  \nDon't close the window!  \nDon't open the book!  \nDon't close the door!  \nDon't clean the board!  \nDon't speak!  \n\n**Don't = Do not**  ",
+      "to be" : "ich bin: I **am** = I**'m**  \ndu bist: you **are** = you**'re**  \ner ist: he **is** = he**'s**  \nsie ist: she **is** = she**'s**  \nes ist: it **is** = it**'s**  \n\nwir sind: we **are** = we**'re**  \nihr seid: you **are** = you**'re**  \nsie sind: they **are** = they**'re**  \n\n",
+      "there is | there are" : "--> so kannst du sagen, dass etwas vorhanden  \n\n**There is** a teacher **= there's**  \n**There are** two babies.  \n\n**there is + Singular**  \n**there are + Plural**  ",
+      "Prepositions" : "**Where is/Where's** the cat?  \n**Where are** the cats?  \n\nIt's **under** the desk  \nIt's **on** the desk  \nIt's **in** the de... uhm shoe  \nIt's **next to** the desk  ",
+      "to be (negative)" : "I am **not** happy  \n\nYou are **not** nervous  \nYou're **not**  \nYou are**n't**  \n\nHe/She/It is **not** cold  \n\t\t\t\tis**n't**  \n\nWe/You/they are **not** hungry  \nWe're **not**  \nWe are**n't**  ",
+      "Questions with \"to be\"" : "Are you happy?  \nYes, I am  \nNo, I'm not  \n\nIs he happy?  \nYes, he is  \nNo, he isn't  \n\nIs she busy?  \nYes, she is  \nNo, she isn't  \n\nAre you happy?  \nYes, we are  \nNo, we aren't  \n\nAre they happy?  \nYes, they are  \nNo, they aren't  ",
+      "Possessives" : "This **is** my book  \nWhat's **your** name?  \nBacon is **his** dog  \nIs this **her** guitar  \nThis a new band. **Its** name is \"Project 11\"  \n\nThis **is** our house  \nDan and Steve, **your** guitars are great.  \nDan and Steve are brothers. **Their** dog is Bacon.  ",
+      "can/can't" : "I can speak English  \nAlex **can** play soccer  \nWe **can** sing  \nI **can't** speak Chinese  \nWe can't fly  \n\n**can't = can not**  ",
+      "Present Simple" : "I **go** to school  \nYou **eat** a pizza  \nHe drink**s** a coke  \nShe write**s** a text  \nIt (the cat) sleep**s**  \nWe **go** home  \nYou **play** soccer  \nThey **eat** a pizza  \n\n**he, she, it** das **-s** muss mit!  \n\ngo - go**es**  \nwatch - watch**es**  \ncarr**y** - carr**ies**  \n\n",
+      "possessive's" : "It's Mrs. Ball**'s** favourite gnome  \n1A is Mrs Bernkopf**'s** favourite class  \nThis is David**'s** book  \nThis is John**'s** dog  \n\n--> so sagst du, dass etwas jemanden gehört  ",
+      "Present Simple Negative" : "I **don't** like apples.  \nDave **doesn't** like eggs  \nWe **don't** drink coke  \nMy mum **doesn't** eat pizza  \n\n**don't = do not**  \n**doesn't does not**  ",
+      "Adverbs of frequency" : "**100%**  \nalways  \noften  \nusually/normally  \nsometimes  \nnever  \n**0%**  \n\nI **always** drink coffee for breakfast  \nWe **often** eat pizza  \nI'm **usually** hungry  \nYou **sometimes** eat curry  \nWe are **never** tired  \n\n--> Die wörter kommen **vor** dem Zeitwort (2. Stelle)  \n\nAusnahme: Bei **is, am, are** kommen sie nach dem Zeitwort (3. Stelle)  ",
+      "articles a/an" : "**a** banana  \n**a** frog  \n**an** egg  \n**an** onion  \n**an** apple  \n**an** honest man  \n\n--> **an** verwendest du, wenn das folgende Wort mit einem **Selbstlaut** am **Anfang** **ausgesprochen** wird  \n\n",
+      "Present Simple Questions" : "Do you like pizaa?  \nYes, I do  \nNo, I don’t  \n\nDoes he eat a banana?  \nYes, he does  \nNo, he doesn't  \n\nDoes she wear a yellow shoes?  \nYes, she does  \nNo, she doesn't  \n\nDo they wear blue jeans?  \nYes, they do  \nNo, they don't  \n\nBei Fragen im present simple braucht man das Fragewort \"**Do**\" oder \"**Does**\"  \nAusnahme: \n\n* Bei **am/is/are**\n* bei **can/can't**",
+      "a lots of / lots of" : "I have got **a lot of / lots of** books\nDavid has got **a lot of / lots of** computer games  \n\n--> Du kannst entweder **a lot of** oder **lots of** verwenden  ",
+      "Questions about clothes" : "What **color is / color's** the pullover?  \nIt is green  \nIt's  \n\nWhat color **are** the jean**s**?  \nThey are blue  \nThey're  \n\n**jeans, trausers, glasses = Plural**  ",
+      "one/ones" : "Which is your pullover? The **one** with the cat (on it)  \n\nWhich **socks** do you want to buy? The green **ones**  \n\n--> wenn man Nomen nicht wiederholen möchte, kann man **one** oder **ones** verwenden  ",
+      "Question Words" : "**Was?**  \nWhat is it?  \nWhat's your name?  \nWhat do you eat?  \n\n**Wo?**  \nWhere are the cats?  \nWhere is my book?  \nWhere does she play football?  \n\n**Wann?**  \nWhen is the football match?  \nWhen is Tuesday?  \nWhen do you have school?  \n\n**Wie oft?**  \nHow often do you feed him?  \nHow often do you meet your friends?  \nHow often is Monday in a week?  \n\n**Warum?**  \nWhy is this an error?  \nWhy do you writ eit?  \nWhy does he cry?  \nWhy is he sad?  \n\n**Wie?**  \nHow are you?  \nHow do you feel?  \nHow do you make pizza?  \n\n**Wer?**  \nWho are you?  \nWho do you see?  ",
+      "Object pronouns" : "**I - me**  \nDo you like me?  \n\n**you - you**  \nNice to meet you!  \n\n**he - him**  \nWe don't like him  \n\n**she - her**  \nWe love her  \n\n**it - it**  \nHow often do you feed it?  \n\n**we - us**  \nShe carries us to school  \n\n**you - you**  \nI like you?  \n\n**they - them**  \nWe hate them  ",
+      "Plural forms" : "1 fish - 3 fish   \n1 pony - 3 ponies  \n1 mouse - 3 mice  ",
+      "How much is | are ... ?" : "How much is the T-shirt?  \nIt's 5 pounds.  \n\nHow much are the jeans?  \nThey are 50 pounds.  \n\n**—> so fragt man, wieviel etwas kostet**",
+      "Simple past" : "## 1. Verwendung des *Simple Past*\n\n\nDas Simple Past ist eine Zeitform im Englischen, die eine **Handlung** oder einen Vorgang beschreibt, der in der **Vergangenheit abgeschlossen** ist. Man verwendet es auch, um Geschichten zu erzählen.\n\n\n### 1.1. Handlungen sind in der Vergangenheit abgeschlossen (einmalig oder wiederholt)\n\n\nI **visited** Berlin last week.\n*(Ich besuchte letzte Woche Berlin.* *oder\n**Ich habe letzte Woche Berlin besucht.)*\n\n\n### 1.2. aufeinanderfolgende Handlungen in der Vergangenheit\n\n\nFirst I **got** up, then I **had** breakfast.\n*(Erst stand ich auf, dann frühstückte ich.)*\n\n\n### 1.3. in Verbindung mit dem *Past Progressive* – Das *Simple Past* unterbrach eine Handlung, die sich in der Vergangenheit im Verlauf befand.\n\n\nThey **were** **playing** cards, when the telephone **rang**.\n*(Sie waren gerade dabei Karten zu spielen, als das Telefon klingelte.)*\n\n\n\\1. Handlung → *Past Progressive* → **were** **playing**\n\\2. Handlung: → *Simple Past* → **rang**\n\n\n## 2. Signalwörter im *Simple Past*\n\n\n- **yesterday**\n- **last week**\n- **a month ago**\n- **in 2010**\n\n\n## 3. Bildung des *Simple Past*\n\n\nregelmäßige Verben → **Infinitiv** + **ed**\nunregelmäßige Verben → **2. Spalte** der [unregelmäßigen Verben](https://www.englisch-hilfen.de/grammar_list/verbs.htm) (2. Verbform)\n\n\n## 4. Beispiele\n\n\n### 4.1. Bejahte Sätze im *Simple Past* – regelmäßige Verben\n\n\n| Langformen                     | Kurzformen    |\n| :----------------------------- | :------------ |\n| I **cleaned** my room.     | nicht möglich |\n| You **cleaned** your room. |               |\n| He **cleaned** his room.   |               |\n\n\n### 4.2. Bejahte Sätze im *Simple Past* – unregelmäßige Verben\n\n\n| Langformen         | Kurzformen    |\n| :----------------- | :------------ |\n| I **went** home.   | nicht möglich |\n| You **went** home. |               |\n| He **went** home.  |               |\n\n\n### 4.3. Verneinte Sätze im *Simple Past*\n\n\nDa du im Englischen ein Vollverb nicht direkt verneinen kannst (außer ein paar besondere Verben, wie z.B. to be), steht im *Simple Past* das Hilfsverb **did** und der **Infinitiv** des Verbs.\n\n\n**Daher gibt es bei der Verneinung auch keinen Unterschied zwischen regelmäßigen und unregelmäßigen Verben**.\n\n\n| Langformen                              | Kurzformen                             |\n| :-------------------------------------- | :------------------------------------- |\n| I **did not** **clean** the room.   | I **didn't** **clean** the room.   |\n| You **did not** **clean** the room. | You **didn't** **clean** the room. |\n| He **did not** **clean** the room.  | He **didn't** **clean** the room.  |\n\n\n### 4.4. Fragen im *Simple Past*\n\n\nAuch bei Fragen im *Simple Past* steht das Hilfsverb **did** und der **Infinitiv** des Verbs.\n\n\n| Langformen                     | Kurzformen    |\n| :----------------------------- | :------------ |\n| **Did** I **play** football?   | nicht möglich |\n| **Did** you **play** football? |               |\n| **Did** he **play** football?  |               |\n\n",
+      "this/that/these/those" : "* Mum, I’d like **this** T-shirt and **these** shoes here  \n* Really? What about **that** T-shirt over **there**. And **those** green shoes?  \n\n**--> this (signular) für Dinge die nah sind und these (plural)**  \n\n**--> that (singular), für Dinge, die weiter weg sind und those (plural)**  \n\n",
+      "What's the time?" : "7:00 - It's 7 o'clock  \n7:05 - It's 5 past 7  \n7:10 - It's 10 past 7  \n7:15 - It's a quarter past 7  \n7:25 - It's 25 past 7  \n7:30 - It's half past 7  \n7:40 - It's 20 to 8  \n7:45 - It's a quarter to 8  \n7:50 - It's 10 to 8  \n8:00 - It's 8 o'clock  \n\n**a.m. / p.m.**  \n7:00 - It's 7a.m.  \n15:00 - It's 3p.m.  \n19:00 - It's 7p.m  \n9:00 - It's 9a.m.  \n\nSchool starts at 8:00  \n\n",
+      "Present progressive/continous" : "I am / I'm cooking  \nYou are / You're writing  \nHe is / He's playing football  \nShe is / She's running  \nIt is / It's playing with the ball  \n\nWe are / We're writing  \nYou are / You're reading a book  \nThey are / They're eating an apple  \n\n**am/is/are + ing-form**  \n\n**negation (Verneinung)**  \nI am / I'm **not** cooking  \nWe are / We're **not** writing  \n\n**question (Fragen)**  \nAre you writing?  \nYes, I am.  \nNo, I am **not**.  \n\nIs she running?  \nYes, she is.  \nNo, she is not / is**n't**  \n\n**signal words (Signalwörter)**  \nLook!  \nListen!  \nat the moment  \nnow  \n\n**--> etwas geschieht jetzt gerade!!**",
+      "Ordinal numbers" : "one - first  \ntwo - second  \nthree - third  \nfour - fourth  \nfive - fifth  \nsix - sixth  \nseven - seventh  \neight - eighth  \nnine - ninth  \nten - tenth  \n\neleven - eleventh  \ntwelve - twelfth  \n\ntwenty - twentieth  \nthirty - thirtieth  \nfourty - fourtieth  \n\ntwenty-one - twenty-first  \ntwenty-two - twenty-second  \ntwenty-three - twenty-third  \ntwenty-seven - twenty-seventh  ",
+      "Time preposition" : "My birthday is on August 29th  \nMy birthday is in August  \nThe film starts at 8 o'clock  \nWe have got English in the morning/afternoon/evening.  \nWe go to bed late at night.  ",
+      "Past Simple" : "I **was** at school.  \nYou **were** at home.  \nTom **was** tired.  \nShe **was** happy.  \nThe dog **was** angry.  \n\nWe **were** at the cinema.  \nYou **were** sad.  \nThey **were** alone.  \n\n**Negation**  \nI **wasn't / was not** at home  \nWe **weren't / were not** happy  \n\n**Questions**  \n**Was** Tom angry?  \n**Where** the children at school?  \n\n--> du verwendest die \"past simple\", um etwas Vergangenes zu erzählen  ",
+      "regular verbs" : "jump - jump**ed**  \nplay - play**ed**  \nhire - hir**ed**  \nchange - chang**ed**  \nturn - turn**ed**  \ncarry - carri**ed**  \ntry - tri**ed**  \nstop - sto**pped**  \n\n--> bei einem regelmäßigen Verb hänst du -d oder -ed an  \n\n--> alle Personen haben die gleiche Form! (-s muss nicht mehr mit)  \n\nI play**ed** computer games  \nHe play**ed** tennis  \n\n",
+      "irregular verbs" : "go - went  \nhave - had  \ndo - did  \nsay - said  \ntell - told  \nread - read [red]  \nmeet - met  \nring - rang  \nhold - held  \nhear - heard [hörd]  \ntake - took  \nrun - ran [ren]  \nknow - knew [nju]  \nsit - sat  \nleave - left  \nput - put  \nsee - saw  \ncome - came  \neat - ate  \nfind - found  \nmake - made  \ngive - gave  \nget - got  \nsleep - slept  \nwake up - woke up  \nbuy - bought  \ncatch - caught  \nthink - thought  \nstand - stood  \nfall - fell  \nhit - hit  \ncan - could  ",
+      "linking words" : "I rang his house **but** nobody was there.  \nI learned English **because** we had a test.  \nSue went home **and** had lunch.  ",
+      "Past simple: Verneinung mit \"did\"" : "I ate a pizza.  \nI **didn't eat** a pizza.  \n\nAlex played football.  \nAlex **didn't play** football.  \n\nHe **didn't write** the homework.  \n\nWe **didn't watch** tv.  \n\n**didn't = did not**  ",
+      "Countries, nationalities and languages" : "**Country - Nationality + language**  \nAustria - Austrian  \nGermany - German  \nItaly - Italian  \nGreece - Greek  \nSpain - Spanish  \nThe United Kingdom - English / Welsh  \nFrance - French  \nFinland - Finnish  \nHungary - Hungarin  \nCroatia - Croatian  \nPortugal - Portuguese  \nSweden - Swedish  \nSwitzerland - Swiss  "
     },
-    "Fall" : {
-      "Freier Fall" : "**Beim freien Fall, fällt etwas vertikal nach unten**  \nDie Formel: **y=1/2*g*t^2**  \n\n**y**=Weg, **g**= Beschleunigung(**9,81** auf der Erde), **t**=Zeit  \n\n![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg \"Freier Fall\")"
-    },
-    "Kepler" : {
-      "1. Keplersches Gesetz" : "**Die Planeten bewegen sich auf elliptischen Bahnen. In einem gemeinsamen Brennpunkt steht die Sonne.**\n\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-ellipsebahn.png \"1. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "2. Keplersches Gesetz" : "**Die Verbindungslinie Sonne-Planet überstreicht in gleichen Zeiten gleich große Flächen.**\n\n![](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-kepler21.png \"2. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "3. Keplersches Gestez" : "**Die Quadrate der** Umlaufzeiten **zweier Planeten verhalten sich wie die dritten Potenzen der großen** Halbachsen **ihrer Bahnen.**\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-kepler31.png \"3. Keplersches Gesetz\")\n\n"
-    }
+    "Lord's prayer" : "Our father in heaven,  \nhole be your name,  \nyour kingdom come,  \nyour will be done,  \non earth as in heaven.  \nGive us today our daily bread,  \nand forgive us our sins,  \nas we forgive those who sin against us.  \nAnd do not bring us to the test,  \nbut deliver us from evil.  \nFor the kingdom, the power and the glory  \nare yours, now and forever  \nAmen!"
   },
   "Deutsch" : {
     "Allgemein" : {
@@ -162,13 +181,13 @@
         "Besonderheiten bei Zahlen" : "* Zahlen **unter einer Million** werden **kleingeschrieben**\n  * elf, zweitausenddrei, dreißigtausend\n    **Achtung**! Ausnahmen sind **Noten** und **Würfelpunkte**!:\n    eine Drei/einen Dreier bekommen, eine Sechs/einen Sechser würfeln\n* **Ordnungszahlwörter** werden großgeschrieben\n  * der Zweite, als Erstes, der Nächste, das Letzte\n    **Achtung**! der erste Ritter, das dritte Gebot\n* **Bruchzahlwörter** in **Zeit**- und **Maßangaben** sind klein, wenn sie vor der **Zahl**/**Maßeinheit** stehen\n  * um viertel eins, um drei viertel acht, ein achtel Kilogramm Butter, ein viertel Liter Wein\n* Stehen sie **nicht unmittelbar** davor, werden sie **großgeschrieben**\n  * (ein) Viertel vor zehn, (ein) Viertel nach acht, noch ein Viertel trinken\n* Stehen **Bruchzahlwörter unmittelbar** vor den **Stoffbezeichnungen**, wird auch großgeschrieben\n  * ein Achtel Butter, ein Viertel Wein"
       },
       "seid/seit" : {
-        "seid" : "kommt von \"sein\"!\nBsp: Ihr seid laut",
-        "seit" : "seit ist ein Konjunktiv\nseit kann auch eine Proäposition sein\nBeispiele: Seit ich dich kenne\n  Seit diesem Tag"
+        "seid": "kommt von \"sein\"!\nBsp: Ihr seid laut",
+        "seit": "seit ist ein Konjunktiv\nseit kann auch eine Proäposition sein\nBeispiele: Seit ich dich kenne\n  Seit diesem Tag"
       },
       "Das/Dass" : {
-        "Das" : "Artikel z.B. Das Buch\nDemonstrativpronomen z.B. Das habe ich gemacht\nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
-        "dass" : "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden\nz.B. Ich bin der Meinung, dass ich Hunger habe",
-        "Verwirrender Dass/Das Satz " : "Dass das Dass mit Das verwechselt wird, führt irgendwann dazu, dass das Dass das nicht mehr erträgt und dass das Dass das Das dann tötet. XD"
+        "Das": "Artikel z.B. Das Buch\nDemonstrativpronomen z.B. Das habe ich gemacht\nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
+        "dass": "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden\nz.B. Ich bin der Meinung, dass ich Hunger habe",
+        "Verwirrender Dass/Das Satz ": "Dass das Dass mit Das verwechselt wird, führt irgendwann dazu, dass das Dass das nicht mehr erträgt und dass das Dass das Das dann tötet. XD"
       },
       "end\\ent" : {
         "end" : "End leitet sich vom Ende ab z.B. Endlich, Endlos",
@@ -176,45 +195,26 @@
       }
     }
   },
-  "English" : {
-    "Grammar" : {
-      "plural nouns" : "one dog - four dog**s**  \none horse - two horse**s**  \none bab**y** - three bab**ies**  \none bo**y** - three bo**ys**  \n\nKommt vor \"**y**\" ein Selbstlaut (a, e, i, o, u) -> **-ys**  \nKommt vor \"**y**\" ein Mitlaut -> **-ies**  ",
-      "Asking questions" : "What's your name?\n\n* My name is Christoph\n* I'm Christoph\n* I am Christoph\n\n**I am = I'm**  \n\nHow are you?  \n\n* I'm fine thanks\n* I'm sad\n* I'm happy\n* I'm tired\n* I feel good, thanks.",
-      "Imperatives" : "Open the books**!**  \nOpen the window!  \nSit down!  \nClose the window!  \nStand up!  \nClose your eyes!  \nClean the board!  \n\nDon't stand up!  \nDon't close the window!  \nDon't open the book!  \nDon't close the door!  \nDon't clean the board!  \nDon't speak!  \n\n**Don't = Do not**  ",
-      "to be" : "ich bin: I **am** = I**'m**  \ndu bist: you **are** = you**'re**  \ner ist: he **is** = he**'s**  \nsie ist: she **is** = she**'s**  \nes ist: it **is** = it**'s**  \n\nwir sind: we **are** = we**'re**  \nihr seid: you **are** = you**'re**  \nsie sind: they **are** = they**'re**  \n\n",
-      "there is | there are" : "--> so kannst du sagen, dass etwas vorhanden  \n\n**There is** a teacher **= there's**  \n**There are** two babies.  \n\n**there is + Singular**  \n**there are + Plural**  ",
-      "Prepositions" : "**Where is/Where's** the cat?  \n**Where are** the cats?  \n\nIt's **under** the desk  \nIt's **on** the desk  \nIt's **in** the de... uhm shoe  \nIt's **next to** the desk  ",
-      "to be (negative)" : "I am **not** happy  \n\nYou are **not** nervous  \nYou're **not**  \nYou are**n't**  \n\nHe/She/It is **not** cold  \n\t\t\t\tis**n't**  \n\nWe/You/they are **not** hungry  \nWe're **not**  \nWe are**n't**  ",
-      "Questions with \"to be\"" : "Are you happy?  \nYes, I am  \nNo, I'm not  \n\nIs he happy?  \nYes, he is  \nNo, he isn't  \n\nIs she busy?  \nYes, she is  \nNo, she isn't  \n\nAre you happy?  \nYes, we are  \nNo, we aren't  \n\nAre they happy?  \nYes, they are  \nNo, they aren't  ",
-      "Possessives" : "This **is** my book  \nWhat's **your** name?  \nBacon is **his** dog  \nIs this **her** guitar  \nThis a new band. **Its** name is \"Project 11\"  \n\nThis **is** our house  \nDan and Steve, **your** guitars are great.  \nDan and Steve are brothers. **Their** dog is Bacon.  ",
-      "can/can't" : "I can speak English  \nAlex **can** play soccer  \nWe **can** sing  \nI **can't** speak Chinese  \nWe can't fly  \n\n**can't = can not**  ",
-      "Present Simple" : "I **go** to school  \nYou **eat** a pizza  \nHe drink**s** a coke  \nShe write**s** a text  \nIt (the cat) sleep**s**  \nWe **go** home  \nYou **play** soccer  \nThey **eat** a pizza  \n\n**he, she, it** das **-s** muss mit!  \n\ngo - go**es**  \nwatch - watch**es**  \ncarr**y** - carr**ies**  \n\n",
-      "possessive's" : "It's Mrs. Ball**'s** favourite gnome  \n1A is Mrs Bernkopf**'s** favourite class  \nThis is David**'s** book  \nThis is John**'s** dog  \n\n--> so sagst du, dass etwas jemanden gehört  ",
-      "Present Simple Negative" : "I **don't** like apples.  \nDave **doesn't** like eggs  \nWe **don't** drink coke  \nMy mum **doesn't** eat pizza  \n\n**don't = do not**  \n**doesn't does not**  ",
-      "Adverbs of frequency" : "**100%**  \nalways  \noften  \nusually/normally  \nsometimes  \nnever  \n**0%**  \n\nI **always** drink coffee for breakfast  \nWe **often** eat pizza  \nI'm **usually** hungry  \nYou **sometimes** eat curry  \nWe are **never** tired  \n\n--> Die wörter kommen **vor** dem Zeitwort (2. Stelle)  \n\nAusnahme: Bei **is, am, are** kommen sie nach dem Zeitwort (3. Stelle)  ",
-      "articles a/an" : "**a** banana  \n**a** frog  \n**an** egg  \n**an** onion  \n**an** apple  \n**an** honest man  \n\n--> **an** verwendest du, wenn das folgende Wort mit einem **Selbstlaut** am **Anfang** **ausgesprochen** wird  \n\n",
-      "Present Simple Questions" : "Do you like pizaa?  \nYes, I do  \nNo, I don’t  \n\nDoes he eat a banana?  \nYes, he does  \nNo, he doesn't  \n\nDoes she wear a yellow shoes?  \nYes, she does  \nNo, she doesn't  \n\nDo they wear blue jeans?  \nYes, they do  \nNo, they don't  \n\nBei Fragen im present simple braucht man das Fragewort \"**Do**\" oder \"**Does**\"  \nAusnahme: \n\n* Bei **am/is/are**\n* bei **can/can't**",
-      "a lots of / lots of" : "I have got **a lot of / lots of** books\nDavid has got **a lot of / lots of** computer games  \n\n--> Du kannst entweder **a lot of** oder **lots of** verwenden  ",
-      "Questions about clothes" : "What **color is / color's** the pullover?  \nIt is green  \nIt's  \n\nWhat color **are** the jean**s**?  \nThey are blue  \nThey're  \n\n**jeans, trausers, glasses = Plural**  ",
-      "one/ones" : "Which is your pullover? The **one** with the cat (on it)  \n\nWhich **socks** do you want to buy? The green **ones**  \n\n--> wenn man Nomen nicht wiederholen möchte, kann man **one** oder **ones** verwenden  ",
-      "Question Words" : "**Was?**  \nWhat is it?  \nWhat's your name?  \nWhat do you eat?  \n\n**Wo?**  \nWhere are the cats?  \nWhere is my book?  \nWhere does she play football?  \n\n**Wann?**  \nWhen is the football match?  \nWhen is Tuesday?  \nWhen do you have school?  \n\n**Wie oft?**  \nHow often do you feed him?  \nHow often do you meet your friends?  \nHow often is Monday in a week?  \n\n**Warum?**  \nWhy is this an error?  \nWhy do you writ eit?  \nWhy does he cry?  \nWhy is he sad?  \n\n**Wie?**  \nHow are you?  \nHow do you feel?  \nHow do you make pizza?  \n\n**Wer?**  \nWho are you?  \nWho do you see?  ",
-      "Object pronouns" : "**I - me**  \nDo you like me?  \n\n**you - you**  \nNice to meet you!  \n\n**he - him**  \nWe don't like him  \n\n**she - her**  \nWe love her  \n\n**it - it**  \nHow often do you feed it?  \n\n**we - us**  \nShe carries us to school  \n\n**you - you**  \nI like you?  \n\n**they - them**  \nWe hate them  ",
-      "Plural forms" : "1 fish - 3 fish   \n1 pony - 3 ponies  \n1 mouse - 3 mice  ",
-      "How much is | are ... ?" : "How much is the T-shirt?  \nIt's 5 pounds.  \n\nHow much are the jeans?  \nThey are 50 pounds.  \n\n**—> so fragt man, wieviel etwas kostet**",
-      "Simple past" : "## 1. Verwendung des *Simple Past*\n\n\nDas Simple Past ist eine Zeitform im Englischen, die eine **Handlung** oder einen Vorgang beschreibt, der in der **Vergangenheit abgeschlossen** ist. Man verwendet es auch, um Geschichten zu erzählen.\n\n\n### 1.1. Handlungen sind in der Vergangenheit abgeschlossen (einmalig oder wiederholt)\n\n\nI **visited** Berlin last week.\n*(Ich besuchte letzte Woche Berlin.* *oder\n**Ich habe letzte Woche Berlin besucht.)*\n\n\n### 1.2. aufeinanderfolgende Handlungen in der Vergangenheit\n\n\nFirst I **got** up, then I **had** breakfast.\n*(Erst stand ich auf, dann frühstückte ich.)*\n\n\n### 1.3. in Verbindung mit dem *Past Progressive* – Das *Simple Past* unterbrach eine Handlung, die sich in der Vergangenheit im Verlauf befand.\n\n\nThey **were** **playing** cards, when the telephone **rang**.\n*(Sie waren gerade dabei Karten zu spielen, als das Telefon klingelte.)*\n\n\n\\1. Handlung → *Past Progressive* → **were** **playing**\n\\2. Handlung: → *Simple Past* → **rang**\n\n\n## 2. Signalwörter im *Simple Past*\n\n\n- **yesterday**\n- **last week**\n- **a month ago**\n- **in 2010**\n\n\n## 3. Bildung des *Simple Past*\n\n\nregelmäßige Verben → **Infinitiv** + **ed**\nunregelmäßige Verben → **2. Spalte** der [unregelmäßigen Verben](https://www.englisch-hilfen.de/grammar_list/verbs.htm) (2. Verbform)\n\n\n## 4. Beispiele\n\n\n### 4.1. Bejahte Sätze im *Simple Past* – regelmäßige Verben\n\n\n| Langformen                     | Kurzformen    |\n| :----------------------------- | :------------ |\n| I **cleaned** my room.     | nicht möglich |\n| You **cleaned** your room. |               |\n| He **cleaned** his room.   |               |\n\n\n### 4.2. Bejahte Sätze im *Simple Past* – unregelmäßige Verben\n\n\n| Langformen         | Kurzformen    |\n| :----------------- | :------------ |\n| I **went** home.   | nicht möglich |\n| You **went** home. |               |\n| He **went** home.  |               |\n\n\n### 4.3. Verneinte Sätze im *Simple Past*\n\n\nDa du im Englischen ein Vollverb nicht direkt verneinen kannst (außer ein paar besondere Verben, wie z.B. to be), steht im *Simple Past* das Hilfsverb **did** und der **Infinitiv** des Verbs.\n\n\n**Daher gibt es bei der Verneinung auch keinen Unterschied zwischen regelmäßigen und unregelmäßigen Verben**.\n\n\n| Langformen                              | Kurzformen                             |\n| :-------------------------------------- | :------------------------------------- |\n| I **did not** **clean** the room.   | I **didn't** **clean** the room.   |\n| You **did not** **clean** the room. | You **didn't** **clean** the room. |\n| He **did not** **clean** the room.  | He **didn't** **clean** the room.  |\n\n\n### 4.4. Fragen im *Simple Past*\n\n\nAuch bei Fragen im *Simple Past* steht das Hilfsverb **did** und der **Infinitiv** des Verbs.\n\n\n| Langformen                     | Kurzformen    |\n| :----------------------------- | :------------ |\n| **Did** I **play** football?   | nicht möglich |\n| **Did** you **play** football? |               |\n| **Did** he **play** football?  |               |\n\n",
-      "this/that/these/those" : "* Mum, I’d like **this** T-shirt and **these** shoes here  \n* Really? What about **that** T-shirt over **there**. And **those** green shoes?  \n\n**--> this (signular) für Dinge die nah sind und these (plural)**  \n\n**--> that (singular), für Dinge, die weiter weg sind und those (plural)**  \n\n",
-      "What's the time?" : "7:00 - It's 7 o'clock  \n7:05 - It's 5 past 7  \n7:10 - It's 10 past 7  \n7:15 - It's a quarter past 7  \n7:25 - It's 25 past 7  \n7:30 - It's half past 7  \n7:40 - It's 20 to 8  \n7:45 - It's a quarter to 8  \n7:50 - It's 10 to 8  \n8:00 - It's 8 o'clock  \n\n**a.m. / p.m.**  \n7:00 - It's 7a.m.  \n15:00 - It's 3p.m.  \n19:00 - It's 7p.m  \n9:00 - It's 9a.m.  \n\nSchool starts at 8:00  \n\n",
-      "Present progressive/continous" : "I am / I'm cooking  \nYou are / You're writing  \nHe is / He's playing football  \nShe is / She's running  \nIt is / It's playing with the ball  \n\nWe are / We're writing  \nYou are / You're reading a book  \nThey are / They're eating an apple  \n\n**am/is/are + ing-form**  \n\n**negation (Verneinung)**  \nI am / I'm **not** cooking  \nWe are / We're **not** writing  \n\n**question (Fragen)**  \nAre you writing?  \nYes, I am.  \nNo, I am **not**.  \n\nIs she running?  \nYes, she is.  \nNo, she is not / is**n't**  \n\n**signal words (Signalwörter)**  \nLook!  \nListen!  \nat the moment  \nnow  \n\n**--> etwas geschieht jetzt gerade!!**",
-      "Ordinal numbers" : "one - first  \ntwo - second  \nthree - third  \nfour - fourth  \nfive - fifth  \nsix - sixth  \nseven - seventh  \neight - eighth  \nnine - ninth  \nten - tenth  \n\neleven - eleventh  \ntwelve - twelfth  \n\ntwenty - twentieth  \nthirty - thirtieth  \nfourty - fourtieth  \n\ntwenty-one - twenty-first  \ntwenty-two - twenty-second  \ntwenty-three - twenty-third  \ntwenty-seven - twenty-seventh  ",
-      "Time preposition" : "My birthday is on August 29th  \nMy birthday is in August  \nThe film starts at 8 o'clock  \nWe have got English in the morning/afternoon/evening.  \nWe go to bed late at night.  ",
-      "Past Simple" : "I **was** at school.  \nYou **were** at home.  \nTom **was** tired.  \nShe **was** happy.  \nThe dog **was** angry.  \n\nWe **were** at the cinema.  \nYou **were** sad.  \nThey **were** alone.  \n\n**Negation**  \nI **wasn't / was not** at home  \nWe **weren't / were not** happy  \n\n**Questions**  \n**Was** Tom angry?  \n**Where** the children at school?  \n\n--> du verwendest die \"past simple\", um etwas Vergangenes zu erzählen  ",
-      "regular verbs" : "jump - jump**ed**  \nplay - play**ed**  \nhire - hir**ed**  \nchange - chang**ed**  \nturn - turn**ed**  \ncarry - carri**ed**  \ntry - tri**ed**  \nstop - sto**pped**  \n\n--> bei einem regelmäßigen Verb hänst du -d oder -ed an  \n\n--> alle Personen haben die gleiche Form! (-s muss nicht mehr mit)  \n\nI play**ed** computer games  \nHe play**ed** tennis  \n\n",
-      "irregular verbs" : "go - went  \nhave - had  \ndo - did  \nsay - said  \ntell - told  \nread - read [red]  \nmeet - met  \nring - rang  \nhold - held  \nhear - heard [hörd]  \ntake - took  \nrun - ran [ren]  \nknow - knew [nju]  \nsit - sat  \nleave - left  \nput - put  \nsee - saw  \ncome - came  \neat - ate  \nfind - found  \nmake - made  \ngive - gave  \nget - got  \nsleep - slept  \nwake up - woke up  \nbuy - bought  \ncatch - caught  \nthink - thought  \nstand - stood  \nfall - fell  \nhit - hit  \ncan - could  ",
-      "linking words" : "I rang his house **but** nobody was there.  \nI learned English **because** we had a test.  \nSue went home **and** had lunch.  ",
-      "Past simple: Verneinung mit \"did\"" : "I ate a pizza.  \nI **didn't eat** a pizza.  \n\nAlex played football.  \nAlex **didn't play** football.  \n\nHe **didn't write** the homework.  \n\nWe **didn't watch** tv.  \n\n**didn't = did not**  ",
-      "Countries, nationalities and languages" : "**Country - Nationality + language**  \nAustria - Austrian  \nGermany - German  \nItaly - Italian  \nGreece - Greek  \nSpain - Spanish  \nThe United Kingdom - English / Welsh  \nFrance - French  \nFinland - Finnish  \nHungary - Hungarin  \nCroatia - Croatian  \nPortugal - Portuguese  \nSweden - Swedish  \nSwitzerland - Swiss  "
+  "Physik" : {
+    "Würfe" : {
+      "Waagerechter Wurf" : "Der **waagerechte Wurf**, oder auch **horizontaler Wurf** ist die Bewegung eines Körpers, der parallel zum Horizont geworfen oder geschossen wird. Betrachtet man die Bahnkurve des waagerecht geworfenen Körpers, handelt es sich um eine Parabel, bei welcher der Scheitelpunkt den Abwurfort repräsentiert. Das bedeutet wiederum, dass der Körper zwei unterschiedliche Bewegungsformen durchführt.  \n\n**Formeln**:       \n\nZeit-Geschwindigkeits-Gesetz:  \nv(kleiner  y)(t)=-g*t \n\nWeg-Zeit-Gesetzt:  \ny(t) = (-1/2)g*t^2+h(kleiner 0)  \n\nWurfparabel:  \ny(r)=(-1/2)*a(kleiner 0)[x/v(kleiner 0,x)]^2+h(kleiner 0) \n\nWurfhöhe:  \nh(kleiner 0)=1/2*g(kleiner 0){x(kleiner y)/v(kleiner 0,x)]^2  \n\nWurfweite:   \nx(kleiner W)= v(kleiner 0,r)*wurzel[2*h(kleiner 0)/g] \n\nFallzeit:   \nt=wurzel[2*h(kleiner 0)/g]  \n\n\n![](https://www.leifiphysik.de/sites/default/files/medien/Wurfgeschwindigkeit_Bild.gif)",
+      "Lotrechter Wurf" : "Bei dieser Bewegung handelt es sich um eine Überlagerung von zwei Bewegungen: einer gleichförmigen Bewegung (durch die vertikale Anfangsgeschwindigkeit v0) und einer gleichmäßig beschleunigten Bewegung (durch die Fallbeschleunigung). In den Gleichungen kommen daher Anteile von beiden Bewegungsformen vor.  \n\nFormeln:  \ns=h0+v0*t+(g/2)*t^2  \nv=v0+g*t \n\n ![](https://www.lernort-mint.de/abbildungen/physik-mechanik-senkrechter-wurf.jpg)",
+      "Schiefer Wurf" : "H = (vo^2*sin^2a)/(2*g) <----- Maximale Wurfhöhe \n\n tmaximale_Höhe = vy/g <------- Zeit bei der maximalen Wurfhöhe (Diese Zeit mal 2 wäre die gesamte Wurfdauer) \n\n h = 1/2 * 9,81 * t^2/2 <------ Höhe zu jeder Zeit \n\n sx  = vx*t*2 = vx* vy/g * 2 = vo * cos(a) * (vo*cos⁡(a))/g * 2 = vo^2/g * 2sin(a)*cos(a) \n= (vo^2* sin(2a) )/g = sx  <------ Maximale Wurfweite \n\n s = vx*t            <--- um die Weite zu jeder Zeit zu berechnen (heißt zu t: 0,1,2..) \n\n tW = (2*vo*sin⁡(a))/g <----- Wurfdauer \n\n vx = vo * cos(a) \n\n vy = vo * sin(a) \n\n\n\n\n\n\n\n ![](https://www.frustfrei-lernen.de/images/mechanik/schiefer-wurf.jpg)"
     },
-    "Lord's prayer" : "Our father in heaven,  \nhole be your name,  \nyour kingdom come,  \nyour will be done,  \non earth as in heaven.  \nGive us today our daily bread,  \nand forgive us our sins,  \nas we forgive those who sin against us.  \nAnd do not bring us to the test,  \nbut deliver us from evil.  \nFor the kingdom, the power and the glory  \nare yours, now and forever  \nAmen!"
+    "Fall" : {
+      "Freier Fall" : "**Beim freien Fall, fällt etwas vertikal nach unten**  \nDie Formel: **y=1/2*g*t^2**  \n\n**y**=Weg, **g**= Beschleunigung(**9,81** auf der Erde), **t**=Zeit  \n\n![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg \"Freier Fall\")"
+    },
+    "Kepler" : {
+      "1. Keplersches Gesetz" : "**Die Planeten bewegen sich auf elliptischen Bahnen. In einem gemeinsamen Brennpunkt steht die Sonne.**\n\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-ellipsebahn.png \"1. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "2. Keplersches Gesetz" : "**Die Verbindungslinie Sonne-Planet überstreicht in gleichen Zeiten gleich große Flächen.**\n\n![](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-kepler21.png \"2. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "3. Keplersches Gestez" : "**Die Quadrate der** Umlaufzeiten **zweier Planeten verhalten sich wie die dritten Potenzen der großen** Halbachsen **ihrer Bahnen.**\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-kepler31.png \"3. Keplersches Gesetz\")\n\n"
+    }
   },
-  "Über die App" : "Wie gewann 2006 Italien die WM? Ganz einfach, durch Kondition und Teamgeist!\nSo wie Italien, wollen wir mit dieser App zusammen, als Team, es bis zur Matura schaffen, indem wir gemeinsam den ganzen Schulstoff eintragen.  \nDies bringt uns zwei große Vorteile:\n* Wir verfestigen beim Eintragen das Gelernte\n* Wir können den Stoff jederzeit abrufen, ohne lästige Schulbücher herumtragen zu müssen\n\n## Von wem ist die App?\nVon uns, der CHIF19 <3"
+  "BWMR" : {
+    "Jahr 1" : {
+      "Sammelmappe" : "![Sammelmappe Seite 1](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-1.png)\n![Sammelmappe Seite 2](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-2.png)\n![Sammelmappe Seite 3](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-3png)\n![Sammelmappe Seite 4](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-4.png)\n![Sammelmappe Seite 5](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-5.png)\n![Sammelmappe Seite 6](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-6.png)\n![Sammelmappe Seite 7](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-7.png)\n![Sammelmappe Seite 8](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-8.png)\n![Sammelmappe Seite 9](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-9.png)\n![Sammelmappe Seite 10](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-10.png)\n![Sammelmappe Seite 11](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-11.png)\n"
+    }
+  }
+}
+}
 }
