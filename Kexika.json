@@ -27,22 +27,28 @@
     },
     "Dreiecke" : {
       "Gleichseitiges Dreieck" : {
-        "Informationen: " : "Sie haben drei gleich lange Seiten"
+        "Informationen: " : "Sie haben drei gleich lange Seiten",
+        "Englischer Name" : "equilateral triangle"
       },
       "Rechtwinkliges Dreieck" : {
-        "Informationen: " : "Sie haben einen Winkel von exakt 90 grad"
+        "Informationen: " : "Sie haben einen Winkel von exakt 90 grad",
+        "Englischer Name" : "right-angled triangle \\ right triangle"
       },
       "Gleichschenkliges Dreieck" : {
-        "Informationen: " : "Sie haben zwei gleich lange Seiten"
+        "Informationen: " : "Sie haben zwei gleich lange Seiten",
+        "Englischer Name" : "isosceles triangle"
       },
       "Spitzwinkliges Dreieck" : {
-        "Informationen: " : "Sie haben nur spitze Winkel"
+        "Informationen: " : "Sie haben nur spitze Winkel",
+        "Englischer Name" : "acute triangle"
       },
       "Allgemeines Dreieck" : {
-        "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel"
+        "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
+        "Englischer Name" : "general triangle"
       },
       "Stumpfwinkliges Dreieck" : {
-        "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist"
+        "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
+        "Englischer Name" : "obtuse-angled triangle"
       }
     }
   },
