@@ -240,12 +240,12 @@
   "GGP" : {
     "Erdenarten/Bereiche" : {
       "Borealer Bereich" : {
-        "Gleye" : "stark vom Bodenwasser beeinflusst  \nhoher Grundwasserspiegel  \nwasserundurchlässige Lehmschicht  \nLandwirtschaftlich ungeeignet",
-        "Podsole" : "leicht auswaschbar  \nMineralien verickern im Unterboden  \nstarke Humusbildung  \n landwirtschaftlich ungeeignet"
+        "Gleye" : "stark vom Bodenwasser beeinflusst  \nhoher Grundwasserspiegel  \nwasserundurchlässige Lehmschicht  \nlandwirtschaftlich ungeeignet",
+        "Podsole" : "leicht auswaschbar  \nMineralien versickern im Unterboden  \nstarke Humusbildung  \n landwirtschaftlich ungeeignet"
       },
       "Nemoraler Bereich" : {
         "Schwarzerde" : "Oberboden dunkel(ca. 40cm tiefe Humusschicht  \ntiefgründig  \nsehr fruchtbar",
-        "Braunerde" : "am weitesten Verbreitet  \neisenhaltig  \nsehr furchtbar",
+        "Braunerde" : "am weitesten verbreitet  \neisenhaltig  \nsehr fruchtbar",
         "Rendzina" : "flachgründiger Boden  \ngips-und kalkreich  \nlandwirtschaftlich ungeeignet  \nschnell austrocknend"
       }
     },
@@ -274,7 +274,7 @@
         "Konvektoinsströme" : "Durch diese sind 4 unterschiedliche Bewegungen der Erdplatten möchlich"
       },
       "Zonen" : {
-        "Subduktionszone" : "Eine ozeanische Platte driftet gegen eine kontinentale Platte  \nOzeanische Platte wird unter die kontinentale Platte gedrückt und wird im Erdmantel afgelöst.  \nBsp: Anden",
+        "Subduktionszone" : "Eine ozeanische Platte driftet gegen eine kontinentale Platte  \nOzeanische Platte wird unter die kontinentale Platte gedrückt und wird im Erdmantel aufgelöst.  \nBsp: Anden",
         "Scherungszone" : "Zwei Platten gleiten aneinander Vorbei  \nErdkruste reißt entlang den Verwerfungen auf  \nBsp. San-Andreas Graben in Kalifornien",
         "Kollisionszone" : "Zwei Kontinentale Platten stoßen zusammen  \nErdkruste wird dabei zerquetscht und zu Gebirgen aufgetürmt  \nBsp. Kollision Indiens mit der Eurasischen Platte",
         "Dehnungszone" : "Zwei Platten entfernen sich voneinander  \nEs passiert:  \n  Erdkruste reißt auf  \n  Aus dem Untergrund entfließt Magma  \n  Neue Erdkruste wird gebildet  \n\nDas passiert oft in Ozeanen (Seafloor-Spreading"
@@ -325,11 +325,11 @@
     "Dont forget your daily dose of coffee" :  "Programmer: a tool for converting caffeine into code ;)"
   },
   "Mathematik - Lernwerkstätte" : {},
-  "Motivierende Sprüche und so(fois moi kan Bock hobts)" : {
+  "Motivierende Sprüche" : {
     "Philosophisch" : {
-      "Alle Träume können Wahr werden, wenn wir den Mut haben, ihnen zu folgen" : "",
-      "Phantasie ist wichtiger als Wissen, denn Wissen ist begrentz" : "",
-      "Es ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenblebst" : "",
+      "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen" : "",
+      "Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt" : "",
+      "Es ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst" : "",
       "Ich habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet" : "",
       "Auf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr": ""
     }
