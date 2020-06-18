@@ -123,7 +123,11 @@
         "Das": "Artikel z.B. Das Buch\nDemonstrativpronomen z.B. Das habe ich gemacht\nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
         "dass": "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden\nz.B. Ich bin der Meinung, dass ich Hunger habe",
         "Verwirrender Dass/Das Satz ": "Dass das Dass mit Das verwechselt wird, führt irgendwann dazu, dass das Dass das nicht mehr erträgt und dass das Dass das Das dann tötet. XD"
-      }
+      },
+      "end\\ent" : {
+        "end" : "End leitet sich vom Ende ab z.B. Endlich, Endlos",
+        "ent" : "Ent bedeutet meistens negatives z.B. entfernen, entlassen"
+      } 
     }
   },
   "Physik" : {
