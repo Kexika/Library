@@ -44,8 +44,8 @@
             "Fläche" : "A = a*b/2",
             "Umkreisradius" : "r = c/2",
             "Inkreisradius" : "ρ = (a * b) : U",
-            "Winkelsumme" : "α + β + γ = 180°"     
-          }  
+            "Winkelsumme" : "α + β + γ = 180°"
+          }
         },
         "Gleichschenkliges Dreieck" : {
           "Informationen: " : "Sie haben zwei gleich lange Seiten",
@@ -66,29 +66,29 @@
             "Fläche" : "A = 1/2 g * h"
           }
         },
-          "Allgemeines Dreieck" : {
-            "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
-            "Englischer Name" : "general triangle",
-            "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.  \nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
-            "Formeln" : {
-              "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-              "Umfang" : "u = a + b + c",
-              "Inkreisradius" : " ρ = 2 * A/U",
-              "Umkreisradius" : "r = (a*b*c)/(4*A)"
-            }
-          },
-            "Stumpfwinkliges Dreieck" : {
-              "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
-              "Englischer Name" : "obtuse-angled triangle",
-              "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
-              "Formeln" : {
-                "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-                "Umfang" : "u = a + b + c"
-            }
-          },
-            "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
-        }
-      },
+        "Allgemeines Dreieck" : {
+          "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
+          "Englischer Name" : "general triangle",
+          "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.  \nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
+          "Formeln" : {
+            "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+            "Umfang" : "u = a + b + c",
+            "Inkreisradius" : " ρ = 2 * A/U",
+            "Umkreisradius" : "r = (a*b*c)/(4*A)"
+          }
+        },
+        "Stumpfwinkliges Dreieck" : {
+          "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
+          "Englischer Name" : "obtuse-angled triangle",
+          "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
+          "Formeln" : {
+            "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+            "Umfang" : "u = a + b + c"
+          }
+        },
+        "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
+      }
+    },
     "Teilbarkeitsregeln" : {
       "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
     }
@@ -208,13 +208,13 @@
         "Besonderheiten bei Zahlen" : "* Zahlen **unter einer Million** werden **kleingeschrieben**\n  * elf, zweitausenddrei, dreißigtausend\n    **Achtung**! Ausnahmen sind **Noten** und **Würfelpunkte**!:\n    eine Drei/einen Dreier bekommen, eine Sechs/einen Sechser würfeln\n* **Ordnungszahlwörter** werden großgeschrieben\n  * der Zweite, als Erstes, der Nächste, das Letzte\n    **Achtung**! der erste Ritter, das dritte Gebot\n* **Bruchzahlwörter** in **Zeit**- und **Maßangaben** sind klein, wenn sie vor der **Zahl**/**Maßeinheit** stehen\n  * um viertel eins, um drei viertel acht, ein achtel Kilogramm Butter, ein viertel Liter Wein\n* Stehen sie **nicht unmittelbar** davor, werden sie **großgeschrieben**\n  * (ein) Viertel vor zehn, (ein) Viertel nach acht, noch ein Viertel trinken\n* Stehen **Bruchzahlwörter unmittelbar** vor den **Stoffbezeichnungen**, wird auch großgeschrieben\n  * ein Achtel Butter, ein Viertel Wein"
       },
       "seid/seit" : {
-        "seid": "kommt von \"sein\"!  \nBsp: Ihr seid laut",
-        "seit": "seit ist ein Konjunktiv  \nseit kann auch eine Proäposition sein  \nBeispiele: Seit ich dich kenne  \nSeit diesem Tag"
+        "seid" : "kommt von \"sein\"!  \nBsp: Ihr seid laut",
+        "seit" : "seit ist ein Konjunktiv  \nseit kann auch eine Proäposition sein  \nBeispiele: Seit ich dich kenne  \nSeit diesem Tag"
       },
       "Das/Dass" : {
-        "Das": "Artikel z.B. Das Buch  \nDemonstrativpronomen z.B. Das habe ich gemacht  \nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
-        "dass": "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden  \nz.B. Ich bin der Meinung, dass ich Hunger habe",
-        "Verwirrender Dass/Das Satz ": "Dass das Dass mit Das verwechselt wird, führt irgendwann dazu, dass das Dass das nicht mehr erträgt und dass das Dass das Das dann tötet. XD"
+        "Das" : "Artikel z.B. Das Buch  \nDemonstrativpronomen z.B. Das habe ich gemacht  \nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
+        "dass" : "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden  \nz.B. Ich bin der Meinung, dass ich Hunger habe",
+        "Verwirrender Dass/Das Satz " : "Dass das Dass mit Das verwechselt wird, führt irgendwann dazu, dass das Dass das nicht mehr erträgt und dass das Dass das Das dann tötet. XD"
       },
       "end\\ent" : {
         "end" : "End leitet sich vom Ende ab z.B. Endlich, Endlos",
@@ -258,10 +258,6 @@
       "Sammelmappe" : "![Sammelmappe Seite 1](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-1.png)\n![Sammelmappe Seite 2](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-2.png)\n![Sammelmappe Seite 3](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-3png)\n![Sammelmappe Seite 4](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-4.png)\n![Sammelmappe Seite 5](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-5.png)\n![Sammelmappe Seite 6](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-6.png)\n![Sammelmappe Seite 7](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-7.png)\n![Sammelmappe Seite 8](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-8.png)\n![Sammelmappe Seite 9](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-9.png)\n![Sammelmappe Seite 10](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-10.png)\n![Sammelmappe Seite 11](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-11.png)\n"
     }
   },
-  "Soziales lernen" : {
-    "Warum gibts des?" : "Was kana (bzw **WIR** wissen des ned)"
-  },
-  "BWMJ" : {},
   "GGP" : {
     "Erdenarten/Bereiche" : {
       "Borealer Bereich" : {
@@ -294,7 +290,7 @@
         "Informationen" : "Tageslänge von 10,5 bis 13,5 Std.  \nDie Jahreszeiten haben keine thermatischen Ausprägungen  \ntägliche Temperaturschwankungen sind größer als jährliche  \nPassivzirkulation  \nZenitalniederschlag  \nimmerfeucht bis trocken"
       }
     },
-    "Platten (Erdplatten z.B. Eurasien)": {
+    "Platten (Erdplatten z.B. Eurasien)" : {
       "Plattenbewegungen" : {
         "Konvektoinsströme" : "Durch diese sind 4 unterschiedliche Bewegungen der Erdplatten möchlich"
       },
@@ -323,9 +319,6 @@
       }
     }
   },
-  "Religion" : {
-    "Samma heilig?" : "Vielleicht, was kana"
-  },
   "Technische Informatik" : {
     "Kodierungen" : {
       "Oktal" : {
@@ -343,11 +336,10 @@
     }
   },
   "POS" : {
-    "C" : {
+    "C/C++" : {
       "Hello World" : "#include <stdio.h>  \n\nvoid main(){  \n  printf(\"Hello World\");  \n}"
     },
     "C#" : {},
-    "C++" : {},
     "Java" : {
       "Hello world" : "public class Main {  \n  public static void main(String args[]){  \n    System.out.println(\"Hello World\");  \n  }  \n}"
     },
@@ -381,16 +373,15 @@
       "suicid^e" : "<*vAA:\"Hello, world!\"",
       "Thutu" : "/^=1$/Hello, world!=n=x=9/"
     },
-    "Dont forget your daily dose of coffee" :  "Programmer: a tool for converting caffeine into code ;)"
+    "Dont forget your daily dose of coffee" : "Programmer: a tool for converting caffeine into code ;)"
   },
-  "Mathematik - Lernwerkstätte" : {},
   "Motivierende Sprüche" : {
     "Philosophisch" : {
       "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen" : "",
       "Phantasie ist wichtiger als Wissen, denn Wissen ist begrenzt" : "",
       "Es ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst" : "",
       "Ich habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet" : "",
-      "Auf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr": ""
+      "Auf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr" : ""
     }
   }
 }
