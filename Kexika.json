@@ -344,7 +344,7 @@
   },
   "POS" : {
     "C" : {
-      "Hello World" : "#include <stdio.h>  \n\nvoid main(){  \n  printf(\"Hello World\")  \n}"
+      "Hello World" : "#include <stdio.h>  \n\nvoid main(){  \n  printf(\"Hello World\");  \n}"
     },
     "C#" : {},
     "C++" : {},
@@ -352,7 +352,7 @@
       "Hello world" : "public class Main {  \n  public static void main(String args[]){  \n    System.out.println(\"Hello World\");  \n  }  \n}"
     },
     "JavaScript" : {
-      "Hello world" : "console.log('Hello World')",
+      "Hello world" : "console.log('Hello World');",
       "Angular" : {},
       "Node JS" : {}
     },
