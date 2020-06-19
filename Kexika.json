@@ -344,7 +344,7 @@
   },
   "POS" : {
     "C" : {
-      "Hello World" : "#include \"stdio.h\"  \n\nvoid main(){  \n  printf(\"Hello World\")  \n}"
+      "Hello World" : "#include <stdio.h>  \n\nvoid main(){  \n  printf(\"Hello World\")  \n}"
     },
     "C#" : {},
     "C++" : {},
