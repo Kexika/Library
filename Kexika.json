@@ -336,9 +336,6 @@
     }
   },
   "POS" : {
-    "C/C++" : {
-      "Hello World" : "#include <stdio.h>  \n\nvoid main(){  \n  printf(\"Hello World\");  \n}"
-    },
     "C#" : {},
     "Java" : {
       "Hello world" : "public class Main {  \n  public static void main(String args[]){  \n    System.out.println(\"Hello World\");  \n  }  \n}"
@@ -373,7 +370,8 @@
       "suicid^e" : "<*vAA:\"Hello, world!\"",
       "Thutu" : "/^=1$/Hello, world!=n=x=9/"
     },
-    "Dont forget your daily dose of coffee" : "Programmer: a tool for converting caffeine into code ;)"
+    "Dont forget your daily dose of coffee" : "Programmer: a tool for converting caffeine into code ;)",
+    "C" : "```c\n#include <stdio.h>\n\nint main(void)\n{\n  printf(\"Hello World\\n\");\n  return 0; // ends the program\n}\n```"
   },
   "Motivierende Sprüche" : {
     "Philosophish" : "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen  \n\nPhantasie ist wichtiger als Wissen, denn Wissen ist begrenzt  \n\nEs ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst  \n\nIch habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet  \n\nAuf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr  "
