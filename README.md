@@ -4,6 +4,7 @@ Hier speichern wir wichtigen Lernstoff für die Schule um ihn später ganz leich
 
 ## Screenshot
 ![Pic of the App](http://artikel.gebes.eu/kexika/screen1.png)
+![Pic of the App2](http://artikel.gebes.eu/kexika/screen2.png)
 
 ## Was lernen wir davon?
 * Wie man GitHub Organizations verwendet
