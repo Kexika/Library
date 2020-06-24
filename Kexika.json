@@ -241,7 +241,9 @@
       }
     },
     "Vater Unser" : "Vater unser im Himmel  \ngeheiligt werde dein Name.  \nDein Reich komme.  \nDein Wille geschehe,  \nwie im Himmel, so auf Erden.  \nUnser tägliches Brot gib uns heute.  \nUnd vergib uns unsere Schuld,  \nwie auch wir vergeben unsern Schuldigern  \nUnd führe uns nicht in Versuchung,  \nsondern erlöse uns von dem Bösen  \nDenn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit.",
-    "Bericht" : {}
+    "Bericht" : {
+      "Merkmale" : {}
+    }
   },
   "Physik" : {
     "Würfe" : {
