@@ -245,8 +245,9 @@
       "Merkmale" : {
         "Allgemein" : "",
         "String" : "Der **Bericht** soll **ohne** eine **Meinung**, in schriftlicher oder in mündlicher Fomr, **über** ein **Ereignis** **informieren**."
-      }
-    }
+      },
+      "Aufbau" : "## Einleitung\n\nMan soll beim Lesen der Einleitung schon einen Überlick haben, aber er soll relativ kurz gefasst sein.\nVergiss nicht die W-Fragen zu beantworten **Wer? Was? Wann? Wo?**\n\n## Hauptteil\n\nSchreibe hier deailiert über die Ereignisse und es ist sehr wichtig das du Fragen wie **Wie?** und **Warum?** beantwortest\n\n## Schluss\n\nBeschreib kurz und prägnant welche Folgen es gibt und geh auch vllt. auf die Hintergründe ein"
+  }
   },
   "Physik" : {
     "Würfe" : {
