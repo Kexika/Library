@@ -1,6 +1,5 @@
 {
   "Über die App" : "Wie gewann 2006 Italien die WM? Ganz einfach, durch Kondition und Teamgeist!\nSo wie Italien, wollen wir mit diesem Projekt zusammen, als Team, es bis zur Matura schaffen, indem wir gemeinsam den ganzen Schulstoff eintragen.  \nDies bringt uns zwei große Vorteile:\n* Wir verfestigen beim Eintragen das Gelernte\n* Wir können den Stoff jederzeit abrufen, ohne lästige Schulbücher herumtragen zu müssen\n\n## Von wem ist die App?\nVon uns, der CHIF19 <3",
-  "Changelog": "# 20.08.2020\n* Force Caching für Updates wurde enabled\n* Hochwertigeres UI im iOS Style\n* Changlog wurde hinzugefügt",
   "Mathe" : {
     "Funktionen" : {
       "Nullpunkt" : "Ein Punkt mit y-Wert `0`\n\nEine Lineare Funktion hat nur einen Nullpunkt, doch es kann mehrere Nullpunkte generell geben",
