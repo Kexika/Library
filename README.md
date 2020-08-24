@@ -1,11 +1,12 @@
-# KexikaLibrary
-Der Inhalt für die Kexika App.
-Hier speichern wir wichtigen Lernstoff für die Schule um ihn später ganz leicht auffinden zu können, damit man sich beim Lernen leichter tut.
+# Library
+In dieser Bibliothek speichern wir unseren Schulstoff.
 
-## Screenshot
-![Pic of the App](http://artikel.gebes.eu/kexika/screen1.png)
-![Pic of the App2](http://artikel.gebes.eu/kexika/screen2.png)
+## Screenshots
+![Pic](http://artikel.gebes.eu/kexika/screen1.png)
+Mit dem Navigator kann man ganz leicht durch die Bibliothek navigieren
 
-## Was lernen wir davon?
-* Wie man GitHub Organizations verwendet
-* Wie man Projekte mit mehreren Personen verwaltet
+![Pic2](http://artikel.gebes.eu/kexika/screen2.png)
+Wenn du was bestimmest suchst, aber nicht weißt wo es ist, dann gib einfach einen Suchbegriff ein
+
+![Pic3](http://artikel.gebes.eu/kexika/screen3.png)
+Zum Erstellen von Dokumenten gibt es einen Markdown & LaTeX Editor mit Live Preview, damit du immer weißt wie dein Dokument dann aussieht😉
