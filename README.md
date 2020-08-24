@@ -2,7 +2,7 @@
 In dieser Bibliothek speichern wir unseren Schulstoff.
 
 ## Screenshots
-![Pic](http://artikel.gebes.eu/kexika/pipc1.png)
+![Pic](http://artikel.gebes.eu/kexika/pic1.png)
 Mit dem Navigator kann man ganz leicht durch die Bibliothek navigieren
 
 ![Pic2](http://artikel.gebes.eu/kexika/pic2.png)
