@@ -282,24 +282,16 @@
       }
     },
     "Klimazonen" : {
-      "polare Zone" : {
-        "Informationen" : "Anderer Name: Polargebiet  \nRegion im Bereicht des nördlichen Polarkreises(Arktis und Antarktis)  \nDie Temperaturen liegen das ganze Jahr unter oder nur knapp über der Nullgradgrenze  \nNiederschläge sind gering  \n Solare einstrahlung der Sonne ist reduziert (Durchschnittlich 40% weniger als am Äquator)"
-      },
-      "subpolare Zone" : {
-        "Informationen" : "Klimazone, die den Übergang zwischen polarer und gemäßigter Klimazone bildet  \nist von halbjährlichen Wechsel von außertropischen Westwinden im Sommer und polaren Ostwinden im Winter gekennzeichnet"
-      },
       "gemäßigte Zone" : {
         "Informationen" : "Polarkreis bis zum 40. Breitengrad  \nUnterteilt in kalt- kühl und warmgemäßgte Zone",
         "Kaltgemäßgte Zone" : {},
         "Kühlgemäßigte Zone" : {},
         "Warmgemäßigte Zone" : {}
       },
-      "subtropen" : {
-        "Informationen" : "hoher Sommerwärme  \nmäßiger Winterwärme  \ntrockene, winterfeucht, sommerfeucht und immerfeuchte Subtropen  \nDefinition: Mitteltemperatur über 20 Grad Celsius, jedoch kältestr Monat nicht unter 20 Grad  \nUnterschiede zwiscchen Tag-Nacht sind hoch  \nVegetation: riesige Artenvielfalt z.B. Mittelmeerraum  \nfehlende Vegetation z.B. Savanne oder anderen Wüsten wie Sahara"
-      },
-      "Tropen" : {
-        "Informationen" : "Tageslänge von 10,5 bis 13,5 Std.  \nDie Jahreszeiten haben keine thermatischen Ausprägungen  \ntägliche Temperaturschwankungen sind größer als jährliche  \nPassivzirkulation  \nZenitalniederschlag  \nimmerfeucht bis trocken"
-      }
+      "polare Zone" : "Anderer Name: Polargebiet  \nRegion im Bereicht des nördlichen Polarkreises(Arktis und Antarktis)  \nDie Temperaturen liegen das ganze Jahr unter oder nur knapp über der Nullgradgrenze  \nNiederschläge sind gering  \nSolare einstrahlung der Sonne ist reduziert (Durchschnittlich 40% weniger als am Äquator)",
+      "subpolare Zone" : "Klimazone, die den Übergang zwischen polarer und gemäßigter Klimazone bildet  \nist von halbjährlichen Wechsel von außertropischen Westwinden im Sommer und polaren Ostwinden im Winter gekennzeichnet",
+      "Tropen" : "Tageslänge von 10,5 bis 13,5 Std.  \nDie Jahreszeiten haben keine thermatischen Ausprägungen  \ntägliche Temperaturschwankungen sind größer als jährliche  \nPassivzirkulation  \nZenitalniederschlag  \nimmerfeucht bis trocken",
+      "suptropen" : "hoher Sommerwärme  \nmäßiger Winterwärme  \ntrockene, winterfeucht, sommerfeucht und immerfeuchte Subtropen  \nDefinition: Mitteltemperatur über 20 Grad Celsius, jedoch kältestr Monat nicht unter 20 Grad  \nUnterschiede zwiscchen Tag-Nacht sind hoch  \nVegetation: riesige Artenvielfalt z.B. Mittelmeerraum  \nfehlende Vegetation z.B. Savanne oder anderen Wüsten wie Sahara"
     },
     "Platten (Erdplatten z.B. Eurasien)" : {
       "Plattenbewegungen" : {
@@ -376,7 +368,9 @@
     "Kotlin" : "```kotlin\nfun main(args: Array<String>) {\n    println(\"Hello World!\")\n}\n```",
     "GebesScript" : "```\nmain\n println Hello World\n```"
   },
-  "Motivierende Sprüche" : {
-    "Philosophish" : "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen  \n\nPhantasie ist wichtiger als Wissen, denn Wissen ist begrenzt  \n\nEs ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst  \n\nIch habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet  \n\nAuf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr  "
+  "Miscellaneous" : {
+    "Motivierende Sprüche" : {
+      "Philosophish" : "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen  \n\nPhantasie ist wichtiger als Wissen, denn Wissen ist begrenzt  \n\nEs ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst  \n\nIch habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet  \n\nAuf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr  "
+    }
   }
 }
