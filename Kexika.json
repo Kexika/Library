@@ -1,372 +1,373 @@
 {
-  "Über die App" : "Wie gewann 2006 Italien die WM? Ganz einfach, durch Kondition und Teamgeist!\nSo wie Italien, wollen wir mit diesem Projekt zusammen, als Team, es bis zur Matura schaffen, indem wir gemeinsam den ganzen Schulstoff eintragen.  \nDies bringt uns zwei große Vorteile:\n* Wir verfestigen beim Eintragen das Gelernte\n* Wir können den Stoff jederzeit abrufen, ohne lästige Schulbücher herumtragen zu müssen\n\n## Von wem ist die App?\nVon uns, der CHIF19 <3",
-  "Mathe" : {
-    "Funktionen" : {
-      "Nullpunkt" : "Ein Punkt mit y-Wert `0`\n\nEine Lineare Funktion hat nur einen Nullpunkt, doch es kann mehrere Nullpunkte generell geben",
-      "Relation - Funktion" : "# Die Relation\nBeschreibt eine Beziehung zwischen Zahlen/Mengen.\nJedem Element x aus der Definitionsmenge D können **beliebig viele** Elemente y aus der Wertemenge zugeordnet werden.\n\n# Die Funktion *(eine besondere Relation)*\nJedem Element aus der Definitionsmenge D wird **genau ein** Element y aus der Wertemenge zugeordnet.\nWenn mehrere oder garkeine Werte zugeordnet sind, dann ist es keine Funktion :c",
-      "Lineare Funtionen" : {
-        "Begriffe" : "* **y** ist die von x **abhängige Variable**, sie wird auch als **Funktionswert** bezeichnet \n\n* **k** der Anstieg beziehungsweise. die **Steigung**. Die Steigung ist bei einer Geraden natürlich unveränderlich konstant \n\n* **x** ist die **unabhängige Variable**, sie wird auch als das **Argument der Funktion** bezeichnet \n\n* **d** der Abschnitt auf der y-Achse. Der Punkt (0|**d**) ist daher der Schnittpunkt der Funktion f(x) mit der y-Achse, man spricht vom **Achsenabschnitt** \n\n  \n\n* **Homogene lineare Funktion:**  f(x)=kx Da d=0 verläuft ihr Graph f(x)=kx durch den Koordinatenursprung.\n\n  \n\n* **Inhomogene lineare Funktion:** f(x)=kx+d Wenn d≠0 ist, verläuft der Graph nicht durch den Koordinatenursprung.\n\n  \n\n* **Konstante Funktion:** f(x)=d D.h.: k=0. Der Graph ist eine Parallele zur x-Achse, im Abstand d oder für d=0 wäre es die Gleichung der x-Achse\n\n  \n\n* **1. bzw. 2. Mediane**: Die Funktion f(x)=±x heißt 1. bzw. 2. Mediane, wenn k=1 bzw. -1 und d=0. Ihr Graph verläuft durch den Ursprung und steht im 45° Winkel zur x- und zur y-Achse.\n\n  \n\n### Formeln\n\nNormalform: y = k * x + d\n\n> d = **Ordinatenabschnitt/y-Abschnitt** \n\nImplizite- / Allgemeine From: a * x + b * y = c\n\n# Steigungsdreieck\n\n![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lineare_funktionen2.svg/400px-Lineare_funktionen2.svg.png \"Steigungsdreieck\")\n\n\n\n\n\n",
-        "Steigung" : "![](https://thumbs.dreamstime.com/z/drei-berg-gotas-der-alpinen-steigung-46862318.jpg)\n\n\n\nMit dem Steigungsdreieck, kannst du ganz leicht die Variable ablesen.  \n\n![](https://lh3.googleusercontent.com/proxy/7yVP-ZuHniY-RPgmir_66N_1BiLMsUgQd6kF5BqLGSFD0s5MiSmaUWk59-iu36af4r5rubJ5Ww9dGFGJM2rR4zvzY4BXP-KViLVQzoFzV3ZQNuwC_4r8u-2BS79N-aSK9zZTIN7QU8jr7Y3fr3ezI__tPnHad7l1ct6C6ebv1SFNU7U)\n\n\n\nDu kannst dir auch die Steigung zwischen zwei Punkten ausrechnen mit  \n\n```\ndelta y\n------- = k\ndelta x\n```\n\n",
-        "Parallele finden" : "![](https://www.kapiert.de/media/image/8E26369F/36F00B12/3A0F76BF/2DEF151C.png)\n\nZwei lineare Funktionen können nur parallel sein, wenn sie die selbe Steigung haben. Verschiebe einfach d (das offset)",
-        "Normale finden" : "![](https://www.prophylaxeguenstiger.de/out/pictures/master/product/1/e72392a22502d26ab9bb63f62ed093bf.png)\n\nWenn du eine lineare Funktion hast, und eine andere finden willst die normal zu ihr steht (ihm rechten Winkel) musst du folgendes tun:\n\n* Nimm die Steigung k, dreh sie um und tausche das Vorzeichen.\n\nJetzt hast du eine andere Gerade aber wenn du willst das sie durch einen bestimmten Punkt geht, musst du d richtig verschieben",
-        "Steigung in Prozent" : "![](https://www.pedaltreter.at/wp-content/uploads/2016/04/Zeichen_12.png)\n\nStell dir ein 100m langes Dreieck vor, mit einer Höhe von 12m (12 durch das Steigungsschild). Eigentlich hast du nun ein Geradendreieck und wie du vllt. schon weißt, kannst du dir hier k berechnen indem du folgendes machst:\n\n```\n    12\nk = ---\n    100\n```\n\n"
+  "Über die App": "Wie gewann 2006 Italien die WM? Ganz einfach, durch Kondition und Teamgeist!\nSo wie Italien, wollen wir mit diesem Projekt zusammen, als Team, es bis zur Matura schaffen, indem wir gemeinsam den ganzen Schulstoff eintragen.  \nDies bringt uns zwei große Vorteile:\n* Wir verfestigen beim Eintragen das Gelernte\n* Wir können den Stoff jederzeit abrufen, ohne lästige Schulbücher herumtragen zu müssen\n\n## Von wem ist die App?\nVon uns, der CHIF19 <3",
+  "Mathe": {
+    "Funktionen": {
+      "Nullpunkt": "Ein Punkt mit y-Wert `0`\n\nEine Lineare Funktion hat nur einen Nullpunkt, doch es kann mehrere Nullpunkte generell geben",
+      "Relation - Funktion": "# Die Relation\nBeschreibt eine Beziehung zwischen Zahlen/Mengen.\nJedem Element x aus der Definitionsmenge D können **beliebig viele** Elemente y aus der Wertemenge zugeordnet werden.\n\n# Die Funktion *(eine besondere Relation)*\nJedem Element aus der Definitionsmenge D wird **genau ein** Element y aus der Wertemenge zugeordnet.\nWenn mehrere oder garkeine Werte zugeordnet sind, dann ist es keine Funktion :c",
+      "Lineare Funtionen": {
+        "Begriffe": "* **y** ist die von x **abhängige Variable**, sie wird auch als **Funktionswert** bezeichnet \n\n* **k** der Anstieg beziehungsweise. die **Steigung**. Die Steigung ist bei einer Geraden natürlich unveränderlich konstant \n\n* **x** ist die **unabhängige Variable**, sie wird auch als das **Argument der Funktion** bezeichnet \n\n* **d** der Abschnitt auf der y-Achse. Der Punkt (0|**d**) ist daher der Schnittpunkt der Funktion f(x) mit der y-Achse, man spricht vom **Achsenabschnitt** \n\n  \n\n* **Homogene lineare Funktion:**  f(x)=kx Da d=0 verläuft ihr Graph f(x)=kx durch den Koordinatenursprung.\n\n  \n\n* **Inhomogene lineare Funktion:** f(x)=kx+d Wenn d≠0 ist, verläuft der Graph nicht durch den Koordinatenursprung.\n\n  \n\n* **Konstante Funktion:** f(x)=d D.h.: k=0. Der Graph ist eine Parallele zur x-Achse, im Abstand d oder für d=0 wäre es die Gleichung der x-Achse\n\n  \n\n* **1. bzw. 2. Mediane**: Die Funktion f(x)=±x heißt 1. bzw. 2. Mediane, wenn k=1 bzw. -1 und d=0. Ihr Graph verläuft durch den Ursprung und steht im 45° Winkel zur x- und zur y-Achse.\n\n  \n\n### Formeln\n\nNormalform: y = k * x + d\n\n> d = **Ordinatenabschnitt/y-Abschnitt** \n\nImplizite- / Allgemeine From: a * x + b * y = c\n\n# Steigungsdreieck\n\n![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Lineare_funktionen2.svg/400px-Lineare_funktionen2.svg.png \"Steigungsdreieck\")\n\n\n\n\n\n",
+        "Steigung": "![](https://thumbs.dreamstime.com/z/drei-berg-gotas-der-alpinen-steigung-46862318.jpg)\n\n\n\nMit dem Steigungsdreieck, kannst du ganz leicht die Variable ablesen.  \n\n![](https://lh3.googleusercontent.com/proxy/7yVP-ZuHniY-RPgmir_66N_1BiLMsUgQd6kF5BqLGSFD0s5MiSmaUWk59-iu36af4r5rubJ5Ww9dGFGJM2rR4zvzY4BXP-KViLVQzoFzV3ZQNuwC_4r8u-2BS79N-aSK9zZTIN7QU8jr7Y3fr3ezI__tPnHad7l1ct6C6ebv1SFNU7U)\n\n\n\nDu kannst dir auch die Steigung zwischen zwei Punkten ausrechnen mit  \n\n```\ndelta y\n------- = k\ndelta x\n```\n\n",
+        "Parallele finden": "![](https://www.kapiert.de/media/image/8E26369F/36F00B12/3A0F76BF/2DEF151C.png)\n\nZwei lineare Funktionen können nur parallel sein, wenn sie die selbe Steigung haben. Verschiebe einfach d (das offset)",
+        "Normale finden": "![](https://www.prophylaxeguenstiger.de/out/pictures/master/product/1/e72392a22502d26ab9bb63f62ed093bf.png)\n\nWenn du eine lineare Funktion hast, und eine andere finden willst die normal zu ihr steht (ihm rechten Winkel) musst du folgendes tun:\n\n* Nimm die Steigung k, dreh sie um und tausche das Vorzeichen.\n\nJetzt hast du eine andere Gerade aber wenn du willst das sie durch einen bestimmten Punkt geht, musst du d richtig verschieben",
+        "Steigung in Prozent": "![](https://www.pedaltreter.at/wp-content/uploads/2016/04/Zeichen_12.png)\n\nStell dir ein 100m langes Dreieck vor, mit einer Höhe von 12m (12 durch das Steigungsschild). Eigentlich hast du nun ein Geradendreieck und wie du vllt. schon weißt, kannst du dir hier k berechnen indem du folgendes machst:\n\n```\n    12\nk = ---\n    100\n```\n\n"
       },
-      "Signumfuntion" : {
-        "Bsp" : "**Funktion**\n\nsgn(x)={-1 fuer x<0, 0 fuer x=0, 1 fuer x>0}\n\n![Vorzeichenfunktion - Signumfunktion - f(x) = sgn(x)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.mathematik-wissen.eu%2Fvorzeichenfunktion_signumfunktion_sgn(x)_clip_image004.gif&f=1&nofb=1)"
+      "Signumfuntion": {
+        "Bsp": "**Funktion**\n\nsgn(x)={-1 fuer x<0, 0 fuer x=0, 1 fuer x>0}\n\n![Vorzeichenfunktion - Signumfunktion - f(x) = sgn(x)](https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fwww.mathematik-wissen.eu%2Fvorzeichenfunktion_signumfunktion_sgn(x)_clip_image004.gif&f=1&nofb=1)"
       },
-      "Treppenfunktion" : {
-        "Integerfunktion" : {
-          "Bsp" : "**Funktion**\n\nf(x)=int(x)\n\n![1.4 - Graphs of Functions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpeople.richland.edu%2Fjames%2Flecture%2Fm116%2Ffunctions%2Fint.gif&f=1&nofb=1)"
+      "Treppenfunktion": {
+        "Integerfunktion": {
+          "Bsp": "**Funktion**\n\nf(x)=int(x)\n\n![1.4 - Graphs of Functions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpeople.richland.edu%2Fjames%2Flecture%2Fm116%2Ffunctions%2Fint.gif&f=1&nofb=1)"
         }
       },
-      "Fixpunkt" : "![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\nBei einem Fixpunkt sind x und y gleich",
+      "Fixpunkt": "![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\nBei einem Fixpunkt sind x und y gleich",
     },
-    "Geometrie" : {
-      "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
-      "Parallelogramm" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * ha = b * hb\n* alpha + beta = 180°\n* e und f halbieren sich\n  e = AC     f = BD\n\n![Parallelogramm von der Stückler](https://artikel.gebes.eu/mathe/parallelogramm.png)",
-      "Dreiecke" : {
-        "Gleichseitiges Dreieck" : {
-          "Informationen: " : "Sie haben drei gleich lange Seiten",
-          "Englischer Name" : "equilateral triangle",
-          "Merkmale" : "Ein gleichseitiges Dreieck hat die folgenden Eigenschaften: Drei gleichlange Seiten. Drei Symmetrieachsen. Drei Winkel mit 60°",
-          "Formeln" : {
-            "Umfang" : "U = 3a",
-            "Fläche" : "A = a²/4*√3",
-            "Höhe" : "ha = a/2 * √3",
-            "Inkreis" : "ρ = ha * 1/3",
-            "Umkreis" : "r = ha * 2/3 "
+    "Geometrie": {
+      "Rechteck": "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
+      "Parallelogramm": "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * ha = b * hb\n* alpha + beta = 180°\n* e und f halbieren sich\n  e = AC     f = BD\n\n![Parallelogramm von der Stückler](https://artikel.gebes.eu/mathe/parallelogramm.png)",
+      "Dreiecke": {
+        "Gleichseitiges Dreieck": {
+          "Informationen: ": "Sie haben drei gleich lange Seiten",
+          "Englischer Name": "equilateral triangle",
+          "Merkmale": "Ein gleichseitiges Dreieck hat die folgenden Eigenschaften: Drei gleichlange Seiten. Drei Symmetrieachsen. Drei Winkel mit 60°",
+          "Formeln": {
+            "Umfang": "U = 3a",
+            "Fläche": "A = a²/4*√3",
+            "Höhe": "ha = a/2 * √3",
+            "Inkreis": "ρ = ha * 1/3",
+            "Umkreis": "r = ha * 2/3 "
           }
         },
-        "Rechtwinkliges Dreieck" : {
-          "Informationen: " : "Sie haben einen Winkel von exakt 90 grad",
-          "Englischer Name" : "right-angled triangle \\ right triangle",
-          "Merkmale" : "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die  \nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse.",
-          "Formeln" : {
-            "Umfang" : "U = a+b+c",
-            "Satz des Pythagoras" : "a² + b² = c²",
-            "Fläche" : "A = a*b/2",
-            "Umkreisradius" : "r = c/2",
-            "Inkreisradius" : "ρ = (a * b) : U",
-            "Winkelsumme" : "α + β + γ = 180°"
+        "Rechtwinkliges Dreieck": {
+          "Informationen: ": "Sie haben einen Winkel von exakt 90 grad",
+          "Englischer Name": "right-angled triangle \\ right triangle",
+          "Merkmale": "Da ein rechtwinkliges Dreieck einen rechten Winkel (= 90°) hat und die Winkelsumme in jedem Dreieck 180° beträgt, bleibt für die  \nanderen beiden Winkel noch genau 90° übrig. Zwei Winkel, die zusammen 90° ergeben, nennt man Komplementärwinkel. Die längste Seite im rechtwinkligen Dreieck heißt Hypotenuse.",
+          "Formeln": {
+            "Umfang": "U = a+b+c",
+            "Satz des Pythagoras": "a² + b² = c²",
+            "Fläche": "A = a*b/2",
+            "Umkreisradius": "r = c/2",
+            "Inkreisradius": "ρ = (a * b) : U",
+            "Winkelsumme": "α + β + γ = 180°"
           }
         },
-        "Gleichschenkliges Dreieck" : {
-          "Informationen: " : "Sie haben zwei gleich lange Seiten",
-          "Englischer Name" : "isosceles triangle",
-          "Merkmale" : "Ein gleichschenkliges Dreieck ist ein Dreieck mit mindestens zwei gleich langen Seiten. Folglich sind auch die beiden Winkel  \ngleich groß, die den gleich langen Seiten gegenüberliegen. Zur vollständigen Bestimmung werden zwei Bestimmungsstücke benötigt, davon zumindest eine Seite.",
-          "Formeln" : {
-            "Umfang" : "U = 2a + c",
-            "Fläche" : "A = 0,5 * c *h oder A = (a*ha) /2",
-            "Inreisradius" : "√R²-(a/2)²"
+        "Gleichschenkliges Dreieck": {
+          "Informationen: ": "Sie haben zwei gleich lange Seiten",
+          "Englischer Name": "isosceles triangle",
+          "Merkmale": "Ein gleichschenkliges Dreieck ist ein Dreieck mit mindestens zwei gleich langen Seiten. Folglich sind auch die beiden Winkel  \ngleich groß, die den gleich langen Seiten gegenüberliegen. Zur vollständigen Bestimmung werden zwei Bestimmungsstücke benötigt, davon zumindest eine Seite.",
+          "Formeln": {
+            "Umfang": "U = 2a + c",
+            "Fläche": "A = 0,5 * c *h oder A = (a*ha) /2",
+            "Inreisradius": "√R²-(a/2)²"
           }
         },
-        "Spitzwinkliges Dreieck" : {
-          "Informationen: " : "Sie haben nur spitze Winkel",
-          "Englischer Name" : "acute triangle",
-          "Merkmale" : "Ein spitzwinkliges Dreieck ist ein Dreieck, bei dem alle Winkel kleiner als 90° sind. Die drei Seiten müssen nicht  unterschiedlich lang sein.",
-          "Formeln" : {
-            "Umfang" : "U = a + b + c",
-            "Fläche" : "A = 1/2 g * h"
+        "Spitzwinkliges Dreieck": {
+          "Informationen: ": "Sie haben nur spitze Winkel",
+          "Englischer Name": "acute triangle",
+          "Merkmale": "Ein spitzwinkliges Dreieck ist ein Dreieck, bei dem alle Winkel kleiner als 90° sind. Die drei Seiten müssen nicht  unterschiedlich lang sein.",
+          "Formeln": {
+            "Umfang": "U = a + b + c",
+            "Fläche": "A = 1/2 g * h"
           }
         },
-        "Allgemeines Dreieck" : {
-          "Informationen: " : "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
-          "Englischer Name" : "general triangle",
-          "Merkmale" : "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.  \nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
-          "Formeln" : {
-            "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-            "Umfang" : "u = a + b + c",
-            "Inkreisradius" : " ρ = 2 * A/U",
-            "Umkreisradius" : "r = (a*b*c)/(4*A)"
+        "Allgemeines Dreieck": {
+          "Informationen: ": "Sie haben drei unterschiedlich lange Seiten und drei unterschiedlich große Winkel",
+          "Englischer Name": "general triangle",
+          "Merkmale": "Ein allgemeines Dreieck besteht aus drei unterschiedlich langen Seiten. Die Begrenzungslinien bezeichnet man als die Seiten a, b und c.  \nDie Gesamtlänge zweier Seiten eines Dreiecks ist immer größer oder gleich der Länge der dritten Seite.",
+          "Formeln": {
+            "Fläche": "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+            "Umfang": "u = a + b + c",
+            "Inkreisradius": " ρ = 2 * A/U",
+            "Umkreisradius": "r = (a*b*c)/(4*A)"
           }
         },
-        "Stumpfwinkliges Dreieck" : {
-          "Informationen" : "Sie haben einen Winkel, der größer als 90 Grad ist",
-          "Englischer Name" : "obtuse-angled triangle",
-          "Merkmale" : "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
-          "Formeln" : {
-            "Fläche" : "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
-            "Umfang" : "u = a + b + c"
+        "Stumpfwinkliges Dreieck": {
+          "Informationen": "Sie haben einen Winkel, der größer als 90 Grad ist",
+          "Englischer Name": "obtuse-angled triangle",
+          "Merkmale": "Ein stumpfwinkliges Dreieck ist ein Dreieck mit einem stumpfen Winkel, das heißt mit einem Winkel zwischen 90° und 180°. Dem stumpfen Winkel gegenüber liegt die längste Seite.\nEs hat aber auch zwei spitze Winkel!",
+          "Formeln": {
+            "Fläche": "A = a*ha/2 oder A = b*hb:2 oder A=c*hc:2",
+            "Umfang": "u = a + b + c"
           }
         },
-        "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
+        "WICHTIG": "Merke dir IMMER SOH CAH TOA"
       }
     },
-      "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
- , "Die 4 Grundrechnugsarten, Rechenregeln": "# 1) Addition\na + b = c  \na, b ... Summanden  \nc ... Summe\n# 2) Subtraktion\na - b = c  \na ... Minuend  \nb ... Subtrahend  \nc ... Differenz\n# 3) Multiplikation\na * b = c  \na, b ... Faktoren  \nc ... Produkt\n# 4) Division\na : b = c  \na ... Divident  \nb ... Divisor  \nc ... Quotient"   
+    "Teilbarkeitsregeln natürliche Zahlen": "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3.",
+    "Die 4 Grundrechnugsarten, Rechenregeln": "# 1) Addition\na + b = c  \na, b ... Summanden  \nc ... Summe\n# 2) Subtraktion\na - b = c  \na ... Minuend  \nb ... Subtrahend  \nc ... Differenz\n# 3) Multiplikation\na * b = c  \na, b ... Faktoren  \nc ... Produkt\n# 4) Division\na : b = c  \na ... Divident  \nb ... Divisor  \nc ... Quotient",
+    "Wichtige Rechengesetze": "# Kommutativgesetz (Vertauschungsgesetz)\nBei der Addition dürfen Summanden vertauscht werden und bei der Multiplikation die Faktoren.  \na + b = b + a  \na * b = b * a\n# Assoziativgesetz (Verbindungsgesetz)\nSummanden dürfen beliebig zu Teilsummen zusammengefasst werden und Faktoren dürfen zu Teilprodukten zusammengefasst werden.  \n(a + b) + c = a + (b + c)  \n(a * b) * c = a * (b * c)\n# Distributivgesetz (Verteilungsgesetz)\na * (b + c) = a * b + a * c\n# Klapustri\nKlammer vor Punkt vor Strich\n# Please excuse my dear Aunt Sally.\nP: paranthesis = Klammern  \ne: exponents = Potenzen  \nm: multiplication  \nd: divison  \nA: addition  \nS: subtraction"
   },
-  "English" : {
-    "Grammar" : {
-      "plural nouns" : "one dog - four dog**s**  \none horse - two horse**s**  \none bab**y** - three bab**ies**  \none bo**y** - three bo**ys**  \n\nKommt vor \"**y**\" ein Selbstlaut (a, e, i, o, u) -> **-ys**  \nKommt vor \"**y**\" ein Mitlaut -> **-ies**  ",
-      "Asking questions" : "What's your name?\n\n* My name is Christoph\n* I'm Christoph\n* I am Christoph\n\n**I am = I'm**  \n\nHow are you?  \n\n* I'm fine thanks\n* I'm sad\n* I'm happy\n* I'm tired\n* I feel good, thanks.",
-      "Imperatives" : "Open the books**!**  \nOpen the window!  \nSit down!  \nClose the window!  \nStand up!  \nClose your eyes!  \nClean the board!  \n\nDon't stand up!  \nDon't close the window!  \nDon't open the book!  \nDon't close the door!  \nDon't clean the board!  \nDon't speak!  \n\n**Don't = Do not**  ",
-      "to be" : "ich bin: I **am** = I**'m**  \ndu bist: you **are** = you**'re**  \ner ist: he **is** = he**'s**  \nsie ist: she **is** = she**'s**  \nes ist: it **is** = it**'s**  \n\nwir sind: we **are** = we**'re**  \nihr seid: you **are** = you**'re**  \nsie sind: they **are** = they**'re**  \n\n",
-      "there is | there are" : "--> so kannst du sagen, dass etwas vorhanden  \n\n**There is** a teacher **= there's**  \n**There are** two babies.  \n\n**there is + Singular**  \n**there are + Plural**  ",
-      "Prepositions" : "**Where is/Where's** the cat?  \n**Where are** the cats?  \n\nIt's **under** the desk  \nIt's **on** the desk  \nIt's **in** the de... uhm shoe  \nIt's **next to** the desk  ",
-      "to be (negative)" : "I am **not** happy  \n\nYou are **not** nervous  \nYou're **not**  \nYou are**n't**  \n\nHe/She/It is **not** cold  \n\t\t\t\tis**n't**  \n\nWe/You/they are **not** hungry  \nWe're **not**  \nWe are**n't**  ",
-      "Questions with \"to be\"" : "Are you happy?  \nYes, I am  \nNo, I'm not  \n\nIs he happy?  \nYes, he is  \nNo, he isn't  \n\nIs she busy?  \nYes, she is  \nNo, she isn't  \n\nAre you happy?  \nYes, we are  \nNo, we aren't  \n\nAre they happy?  \nYes, they are  \nNo, they aren't  ",
-      "Possessives" : "This **is** my book  \nWhat's **your** name?  \nBacon is **his** dog  \nIs this **her** guitar  \nThis a new band. **Its** name is \"Project 11\"  \n\nThis **is** our house  \nDan and Steve, **your** guitars are great.  \nDan and Steve are brothers. **Their** dog is Bacon.  ",
-      "can/can't" : "I can speak English  \nAlex **can** play soccer  \nWe **can** sing  \nI **can't** speak Chinese  \nWe can't fly  \n\n**can't = can not**  ",
-      "Present Simple" : "I **go** to school  \nYou **eat** a pizza  \nHe drink**s** a coke  \nShe write**s** a text  \nIt (the cat) sleep**s**  \nWe **go** home  \nYou **play** soccer  \nThey **eat** a pizza  \n\n**he, she, it** das **-s** muss mit!  \n\ngo - go**es**  \nwatch - watch**es**  \ncarr**y** - carr**ies**  \n\n",
-      "possessive's" : "It's Mrs. Ball**'s** favourite gnome  \n1A is Mrs Bernkopf**'s** favourite class  \nThis is David**'s** book  \nThis is John**'s** dog  \n\n--> so sagst du, dass etwas jemanden gehört  ",
-      "Present Simple Negative" : "I **don't** like apples.  \nDave **doesn't** like eggs  \nWe **don't** drink coke  \nMy mum **doesn't** eat pizza  \n\n**don't = do not**  \n**doesn't does not**  ",
-      "Adverbs of frequency" : "**100%**  \nalways  \noften  \nusually/normally  \nsometimes  \nnever  \n**0%**  \n\nI **always** drink coffee for breakfast  \nWe **often** eat pizza  \nI'm **usually** hungry  \nYou **sometimes** eat curry  \nWe are **never** tired  \n\n--> Die wörter kommen **vor** dem Zeitwort (2. Stelle)  \n\nAusnahme: Bei **is, am, are** kommen sie nach dem Zeitwort (3. Stelle)  ",
-      "articles a/an" : "**a** banana  \n**a** frog  \n**an** egg  \n**an** onion  \n**an** apple  \n**an** honest man  \n\n--> **an** verwendest du, wenn das folgende Wort mit einem **Selbstlaut** am **Anfang** **ausgesprochen** wird  \n\n",
-      "Present Simple Questions" : "Do you like pizaa?  \nYes, I do  \nNo, I don’t  \n\nDoes he eat a banana?  \nYes, he does  \nNo, he doesn't  \n\nDoes she wear a yellow shoes?  \nYes, she does  \nNo, she doesn't  \n\nDo they wear blue jeans?  \nYes, they do  \nNo, they don't  \n\nBei Fragen im present simple braucht man das Fragewort \"**Do**\" oder \"**Does**\"  \nAusnahme: \n\n* Bei **am/is/are**\n* bei **can/can't**",
-      "a lots of / lots of" : "I have got **a lot of / lots of** books\nDavid has got **a lot of / lots of** computer games  \n\n--> Du kannst entweder **a lot of** oder **lots of** verwenden  ",
-      "Questions about clothes" : "What **color is / color's** the pullover?  \nIt is green  \nIt's  \n\nWhat color **are** the jean**s**?  \nThey are blue  \nThey're  \n\n**jeans, trausers, glasses = Plural**  ",
-      "one/ones" : "Which is your pullover? The **one** with the cat (on it)  \n\nWhich **socks** do you want to buy? The green **ones**  \n\n--> wenn man Nomen nicht wiederholen möchte, kann man **one** oder **ones** verwenden  ",
-      "Question Words" : "**Was?**  \nWhat is it?  \nWhat's your name?  \nWhat do you eat?  \n\n**Wo?**  \nWhere are the cats?  \nWhere is my book?  \nWhere does she play football?  \n\n**Wann?**  \nWhen is the football match?  \nWhen is Tuesday?  \nWhen do you have school?  \n\n**Wie oft?**  \nHow often do you feed him?  \nHow often do you meet your friends?  \nHow often is Monday in a week?  \n\n**Warum?**  \nWhy is this an error?  \nWhy do you writ eit?  \nWhy does he cry?  \nWhy is he sad?  \n\n**Wie?**  \nHow are you?  \nHow do you feel?  \nHow do you make pizza?  \n\n**Wer?**  \nWho are you?  \nWho do you see?  ",
-      "Object pronouns" : "**I - me**  \nDo you like me?  \n\n**you - you**  \nNice to meet you!  \n\n**he - him**  \nWe don't like him  \n\n**she - her**  \nWe love her  \n\n**it - it**  \nHow often do you feed it?  \n\n**we - us**  \nShe carries us to school  \n\n**you - you**  \nI like you?  \n\n**they - them**  \nWe hate them  ",
-      "Plural forms" : "1 fish - 3 fish   \n1 pony - 3 ponies  \n1 mouse - 3 mice  ",
-      "How much is | are ... ?" : "How much is the T-shirt?  \nIt's 5 pounds.  \n\nHow much are the jeans?  \nThey are 50 pounds.  \n\n**—> so fragt man, wieviel etwas kostet**",
-      "Simple past" : "## 1. Verwendung des *Simple Past*\n\n\nDas Simple Past ist eine Zeitform im Englischen, die eine **Handlung** oder einen Vorgang beschreibt, der in der **Vergangenheit abgeschlossen** ist. Man verwendet es auch, um Geschichten zu erzählen.\n\n\n### 1.1. Handlungen sind in der Vergangenheit abgeschlossen (einmalig oder wiederholt)\n\n\nI **visited** Berlin last week.\n*(Ich besuchte letzte Woche Berlin.* *oder\n**Ich habe letzte Woche Berlin besucht.)*\n\n\n### 1.2. aufeinanderfolgende Handlungen in der Vergangenheit\n\n\nFirst I **got** up, then I **had** breakfast.\n*(Erst stand ich auf, dann frühstückte ich.)*\n\n\n### 1.3. in Verbindung mit dem *Past Progressive* – Das *Simple Past* unterbrach eine Handlung, die sich in der Vergangenheit im Verlauf befand.\n\n\nThey **were** **playing** cards, when the telephone **rang**.\n*(Sie waren gerade dabei Karten zu spielen, als das Telefon klingelte.)*\n\n\n\\1. Handlung → *Past Progressive* → **were** **playing**\n\\2. Handlung: → *Simple Past* → **rang**\n\n\n## 2. Signalwörter im *Simple Past*\n\n\n- **yesterday**\n- **last week**\n- **a month ago**\n- **in 2010**\n\n\n## 3. Bildung des *Simple Past*\n\n\nregelmäßige Verben → **Infinitiv** + **ed**\nunregelmäßige Verben → **2. Spalte** der [unregelmäßigen Verben](https://www.englisch-hilfen.de/grammar_list/verbs.htm) (2. Verbform)\n\n\n## 4. Beispiele\n\n\n### 4.1. Bejahte Sätze im *Simple Past* – regelmäßige Verben\n\n\n| Langformen                     | Kurzformen    |\n| :----------------------------- | :------------ |\n| I **cleaned** my room.     | nicht möglich |\n| You **cleaned** your room. |               |\n| He **cleaned** his room.   |               |\n\n\n### 4.2. Bejahte Sätze im *Simple Past* – unregelmäßige Verben\n\n\n| Langformen         | Kurzformen    |\n| :----------------- | :------------ |\n| I **went** home.   | nicht möglich |\n| You **went** home. |               |\n| He **went** home.  |               |\n\n\n### 4.3. Verneinte Sätze im *Simple Past*\n\n\nDa du im Englischen ein Vollverb nicht direkt verneinen kannst (außer ein paar besondere Verben, wie z.B. to be), steht im *Simple Past* das Hilfsverb **did** und der **Infinitiv** des Verbs.\n\n\n**Daher gibt es bei der Verneinung auch keinen Unterschied zwischen regelmäßigen und unregelmäßigen Verben**.\n\n\n| Langformen                              | Kurzformen                             |\n| :-------------------------------------- | :------------------------------------- |\n| I **did not** **clean** the room.   | I **didn't** **clean** the room.   |\n| You **did not** **clean** the room. | You **didn't** **clean** the room. |\n| He **did not** **clean** the room.  | He **didn't** **clean** the room.  |\n\n\n### 4.4. Fragen im *Simple Past*\n\n\nAuch bei Fragen im *Simple Past* steht das Hilfsverb **did** und der **Infinitiv** des Verbs.\n\n\n| Langformen                     | Kurzformen    |\n| :----------------------------- | :------------ |\n| **Did** I **play** football?   | nicht möglich |\n| **Did** you **play** football? |               |\n| **Did** he **play** football?  |               |\n\n",
-      "this/that/these/those" : "* Mum, I’d like **this** T-shirt and **these** shoes here  \n* Really? What about **that** T-shirt over **there**. And **those** green shoes?  \n\n**--> this (signular) für Dinge die nah sind und these (plural)**  \n\n**--> that (singular), für Dinge, die weiter weg sind und those (plural)**  \n\n",
-      "What's the time?" : "7:00 - It's 7 o'clock  \n7:05 - It's 5 past 7  \n7:10 - It's 10 past 7  \n7:15 - It's a quarter past 7  \n7:25 - It's 25 past 7  \n7:30 - It's half past 7  \n7:40 - It's 20 to 8  \n7:45 - It's a quarter to 8  \n7:50 - It's 10 to 8  \n8:00 - It's 8 o'clock  \n\n**a.m. / p.m.**  \n7:00 - It's 7a.m.  \n15:00 - It's 3p.m.  \n19:00 - It's 7p.m  \n9:00 - It's 9a.m.  \n\nSchool starts at 8:00  \n\n",
-      "Present progressive/continous" : "I am / I'm cooking  \nYou are / You're writing  \nHe is / He's playing football  \nShe is / She's running  \nIt is / It's playing with the ball  \n\nWe are / We're writing  \nYou are / You're reading a book  \nThey are / They're eating an apple  \n\n**am/is/are + ing-form**  \n\n**negation (Verneinung)**  \nI am / I'm **not** cooking  \nWe are / We're **not** writing  \n\n**question (Fragen)**  \nAre you writing?  \nYes, I am.  \nNo, I am **not**.  \n\nIs she running?  \nYes, she is.  \nNo, she is not / is**n't**  \n\n**signal words (Signalwörter)**  \nLook!  \nListen!  \nat the moment  \nnow  \n\n**--> etwas geschieht jetzt gerade!!**",
-      "Ordinal numbers" : "one - first  \ntwo - second  \nthree - third  \nfour - fourth  \nfive - fifth  \nsix - sixth  \nseven - seventh  \neight - eighth  \nnine - ninth  \nten - tenth  \n\neleven - eleventh  \ntwelve - twelfth  \n\ntwenty - twentieth  \nthirty - thirtieth  \nfourty - fourtieth  \n\ntwenty-one - twenty-first  \ntwenty-two - twenty-second  \ntwenty-three - twenty-third  \ntwenty-seven - twenty-seventh  ",
-      "Time preposition" : "My birthday is on August 29th  \nMy birthday is in August  \nThe film starts at 8 o'clock  \nWe have got English in the morning/afternoon/evening.  \nWe go to bed late at night.  ",
-      "Past Simple" : "I **was** at school.  \nYou **were** at home.  \nTom **was** tired.  \nShe **was** happy.  \nThe dog **was** angry.  \n\nWe **were** at the cinema.  \nYou **were** sad.  \nThey **were** alone.  \n\n**Negation**  \nI **wasn't / was not** at home  \nWe **weren't / were not** happy  \n\n**Questions**  \n**Was** Tom angry?  \n**Where** the children at school?  \n\n--> du verwendest die \"past simple\", um etwas Vergangenes zu erzählen  ",
-      "regular verbs" : "jump - jump**ed**  \nplay - play**ed**  \nhire - hir**ed**  \nchange - chang**ed**  \nturn - turn**ed**  \ncarry - carri**ed**  \ntry - tri**ed**  \nstop - sto**pped**  \n\n--> bei einem regelmäßigen Verb hänst du -d oder -ed an  \n\n--> alle Personen haben die gleiche Form! (-s muss nicht mehr mit)  \n\nI play**ed** computer games  \nHe play**ed** tennis  \n\n",
-      "irregular verbs" : "go - went  \nhave - had  \ndo - did  \nsay - said  \ntell - told  \nread - read [red]  \nmeet - met  \nring - rang  \nhold - held  \nhear - heard [hörd]  \ntake - took  \nrun - ran [ren]  \nknow - knew [nju]  \nsit - sat  \nleave - left  \nput - put  \nsee - saw  \ncome - came  \neat - ate  \nfind - found  \nmake - made  \ngive - gave  \nget - got  \nsleep - slept  \nwake up - woke up  \nbuy - bought  \ncatch - caught  \nthink - thought  \nstand - stood  \nfall - fell  \nhit - hit  \ncan - could  ",
-      "linking words" : "I rang his house **but** nobody was there.  \nI learned English **because** we had a test.  \nSue went home **and** had lunch.  ",
-      "Past simple: Verneinung mit \"did\"" : "I ate a pizza.  \nI **didn't eat** a pizza.  \n\nAlex played football.  \nAlex **didn't play** football.  \n\nHe **didn't write** the homework.  \n\nWe **didn't watch** tv.  \n\n**didn't = did not**  ",
-      "Countries, nationalities and languages" : "**Country - Nationality + language**  \nAustria - Austrian  \nGermany - German  \nItaly - Italian  \nGreece - Greek  \nSpain - Spanish  \nThe United Kingdom - English / Welsh  \nFrance - French  \nFinland - Finnish  \nHungary - Hungarin  \nCroatia - Croatian  \nPortugal - Portuguese  \nSweden - Swedish  \nSwitzerland - Swiss  "
+  "English": {
+    "Grammar": {
+      "plural nouns": "one dog - four dog**s**  \none horse - two horse**s**  \none bab**y** - three bab**ies**  \none bo**y** - three bo**ys**  \n\nKommt vor \"**y**\" ein Selbstlaut (a, e, i, o, u) -> **-ys**  \nKommt vor \"**y**\" ein Mitlaut -> **-ies**  ",
+      "Asking questions": "What's your name?\n\n* My name is Christoph\n* I'm Christoph\n* I am Christoph\n\n**I am = I'm**  \n\nHow are you?  \n\n* I'm fine thanks\n* I'm sad\n* I'm happy\n* I'm tired\n* I feel good, thanks.",
+      "Imperatives": "Open the books**!**  \nOpen the window!  \nSit down!  \nClose the window!  \nStand up!  \nClose your eyes!  \nClean the board!  \n\nDon't stand up!  \nDon't close the window!  \nDon't open the book!  \nDon't close the door!  \nDon't clean the board!  \nDon't speak!  \n\n**Don't = Do not**  ",
+      "to be": "ich bin: I **am** = I**'m**  \ndu bist: you **are** = you**'re**  \ner ist: he **is** = he**'s**  \nsie ist: she **is** = she**'s**  \nes ist: it **is** = it**'s**  \n\nwir sind: we **are** = we**'re**  \nihr seid: you **are** = you**'re**  \nsie sind: they **are** = they**'re**  \n\n",
+      "there is | there are": "--> so kannst du sagen, dass etwas vorhanden  \n\n**There is** a teacher **= there's**  \n**There are** two babies.  \n\n**there is + Singular**  \n**there are + Plural**  ",
+      "Prepositions": "**Where is/Where's** the cat?  \n**Where are** the cats?  \n\nIt's **under** the desk  \nIt's **on** the desk  \nIt's **in** the de... uhm shoe  \nIt's **next to** the desk  ",
+      "to be (negative)": "I am **not** happy  \n\nYou are **not** nervous  \nYou're **not**  \nYou are**n't**  \n\nHe/She/It is **not** cold  \n\t\t\t\tis**n't**  \n\nWe/You/they are **not** hungry  \nWe're **not**  \nWe are**n't**  ",
+      "Questions with \"to be\"": "Are you happy?  \nYes, I am  \nNo, I'm not  \n\nIs he happy?  \nYes, he is  \nNo, he isn't  \n\nIs she busy?  \nYes, she is  \nNo, she isn't  \n\nAre you happy?  \nYes, we are  \nNo, we aren't  \n\nAre they happy?  \nYes, they are  \nNo, they aren't  ",
+      "Possessives": "This **is** my book  \nWhat's **your** name?  \nBacon is **his** dog  \nIs this **her** guitar  \nThis a new band. **Its** name is \"Project 11\"  \n\nThis **is** our house  \nDan and Steve, **your** guitars are great.  \nDan and Steve are brothers. **Their** dog is Bacon.  ",
+      "can/can't": "I can speak English  \nAlex **can** play soccer  \nWe **can** sing  \nI **can't** speak Chinese  \nWe can't fly  \n\n**can't = can not**  ",
+      "Present Simple": "I **go** to school  \nYou **eat** a pizza  \nHe drink**s** a coke  \nShe write**s** a text  \nIt (the cat) sleep**s**  \nWe **go** home  \nYou **play** soccer  \nThey **eat** a pizza  \n\n**he, she, it** das **-s** muss mit!  \n\ngo - go**es**  \nwatch - watch**es**  \ncarr**y** - carr**ies**  \n\n",
+      "possessive's": "It's Mrs. Ball**'s** favourite gnome  \n1A is Mrs Bernkopf**'s** favourite class  \nThis is David**'s** book  \nThis is John**'s** dog  \n\n--> so sagst du, dass etwas jemanden gehört  ",
+      "Present Simple Negative": "I **don't** like apples.  \nDave **doesn't** like eggs  \nWe **don't** drink coke  \nMy mum **doesn't** eat pizza  \n\n**don't = do not**  \n**doesn't does not**  ",
+      "Adverbs of frequency": "**100%**  \nalways  \noften  \nusually/normally  \nsometimes  \nnever  \n**0%**  \n\nI **always** drink coffee for breakfast  \nWe **often** eat pizza  \nI'm **usually** hungry  \nYou **sometimes** eat curry  \nWe are **never** tired  \n\n--> Die wörter kommen **vor** dem Zeitwort (2. Stelle)  \n\nAusnahme: Bei **is, am, are** kommen sie nach dem Zeitwort (3. Stelle)  ",
+      "articles a/an": "**a** banana  \n**a** frog  \n**an** egg  \n**an** onion  \n**an** apple  \n**an** honest man  \n\n--> **an** verwendest du, wenn das folgende Wort mit einem **Selbstlaut** am **Anfang** **ausgesprochen** wird  \n\n",
+      "Present Simple Questions": "Do you like pizaa?  \nYes, I do  \nNo, I don’t  \n\nDoes he eat a banana?  \nYes, he does  \nNo, he doesn't  \n\nDoes she wear a yellow shoes?  \nYes, she does  \nNo, she doesn't  \n\nDo they wear blue jeans?  \nYes, they do  \nNo, they don't  \n\nBei Fragen im present simple braucht man das Fragewort \"**Do**\" oder \"**Does**\"  \nAusnahme: \n\n* Bei **am/is/are**\n* bei **can/can't**",
+      "a lots of / lots of": "I have got **a lot of / lots of** books\nDavid has got **a lot of / lots of** computer games  \n\n--> Du kannst entweder **a lot of** oder **lots of** verwenden  ",
+      "Questions about clothes": "What **color is / color's** the pullover?  \nIt is green  \nIt's  \n\nWhat color **are** the jean**s**?  \nThey are blue  \nThey're  \n\n**jeans, trausers, glasses = Plural**  ",
+      "one/ones": "Which is your pullover? The **one** with the cat (on it)  \n\nWhich **socks** do you want to buy? The green **ones**  \n\n--> wenn man Nomen nicht wiederholen möchte, kann man **one** oder **ones** verwenden  ",
+      "Question Words": "**Was?**  \nWhat is it?  \nWhat's your name?  \nWhat do you eat?  \n\n**Wo?**  \nWhere are the cats?  \nWhere is my book?  \nWhere does she play football?  \n\n**Wann?**  \nWhen is the football match?  \nWhen is Tuesday?  \nWhen do you have school?  \n\n**Wie oft?**  \nHow often do you feed him?  \nHow often do you meet your friends?  \nHow often is Monday in a week?  \n\n**Warum?**  \nWhy is this an error?  \nWhy do you writ eit?  \nWhy does he cry?  \nWhy is he sad?  \n\n**Wie?**  \nHow are you?  \nHow do you feel?  \nHow do you make pizza?  \n\n**Wer?**  \nWho are you?  \nWho do you see?  ",
+      "Object pronouns": "**I - me**  \nDo you like me?  \n\n**you - you**  \nNice to meet you!  \n\n**he - him**  \nWe don't like him  \n\n**she - her**  \nWe love her  \n\n**it - it**  \nHow often do you feed it?  \n\n**we - us**  \nShe carries us to school  \n\n**you - you**  \nI like you?  \n\n**they - them**  \nWe hate them  ",
+      "Plural forms": "1 fish - 3 fish   \n1 pony - 3 ponies  \n1 mouse - 3 mice  ",
+      "How much is | are ... ?": "How much is the T-shirt?  \nIt's 5 pounds.  \n\nHow much are the jeans?  \nThey are 50 pounds.  \n\n**—> so fragt man, wieviel etwas kostet**",
+      "Simple past": "## 1. Verwendung des *Simple Past*\n\n\nDas Simple Past ist eine Zeitform im Englischen, die eine **Handlung** oder einen Vorgang beschreibt, der in der **Vergangenheit abgeschlossen** ist. Man verwendet es auch, um Geschichten zu erzählen.\n\n\n### 1.1. Handlungen sind in der Vergangenheit abgeschlossen (einmalig oder wiederholt)\n\n\nI **visited** Berlin last week.\n*(Ich besuchte letzte Woche Berlin.* *oder\n**Ich habe letzte Woche Berlin besucht.)*\n\n\n### 1.2. aufeinanderfolgende Handlungen in der Vergangenheit\n\n\nFirst I **got** up, then I **had** breakfast.\n*(Erst stand ich auf, dann frühstückte ich.)*\n\n\n### 1.3. in Verbindung mit dem *Past Progressive* – Das *Simple Past* unterbrach eine Handlung, die sich in der Vergangenheit im Verlauf befand.\n\n\nThey **were** **playing** cards, when the telephone **rang**.\n*(Sie waren gerade dabei Karten zu spielen, als das Telefon klingelte.)*\n\n\n\\1. Handlung → *Past Progressive* → **were** **playing**\n\\2. Handlung: → *Simple Past* → **rang**\n\n\n## 2. Signalwörter im *Simple Past*\n\n\n- **yesterday**\n- **last week**\n- **a month ago**\n- **in 2010**\n\n\n## 3. Bildung des *Simple Past*\n\n\nregelmäßige Verben → **Infinitiv** + **ed**\nunregelmäßige Verben → **2. Spalte** der [unregelmäßigen Verben](https://www.englisch-hilfen.de/grammar_list/verbs.htm) (2. Verbform)\n\n\n## 4. Beispiele\n\n\n### 4.1. Bejahte Sätze im *Simple Past* – regelmäßige Verben\n\n\n| Langformen                     | Kurzformen    |\n| :----------------------------- | :------------ |\n| I **cleaned** my room.     | nicht möglich |\n| You **cleaned** your room. |               |\n| He **cleaned** his room.   |               |\n\n\n### 4.2. Bejahte Sätze im *Simple Past* – unregelmäßige Verben\n\n\n| Langformen         | Kurzformen    |\n| :----------------- | :------------ |\n| I **went** home.   | nicht möglich |\n| You **went** home. |               |\n| He **went** home.  |               |\n\n\n### 4.3. Verneinte Sätze im *Simple Past*\n\n\nDa du im Englischen ein Vollverb nicht direkt verneinen kannst (außer ein paar besondere Verben, wie z.B. to be), steht im *Simple Past* das Hilfsverb **did** und der **Infinitiv** des Verbs.\n\n\n**Daher gibt es bei der Verneinung auch keinen Unterschied zwischen regelmäßigen und unregelmäßigen Verben**.\n\n\n| Langformen                              | Kurzformen                             |\n| :-------------------------------------- | :------------------------------------- |\n| I **did not** **clean** the room.   | I **didn't** **clean** the room.   |\n| You **did not** **clean** the room. | You **didn't** **clean** the room. |\n| He **did not** **clean** the room.  | He **didn't** **clean** the room.  |\n\n\n### 4.4. Fragen im *Simple Past*\n\n\nAuch bei Fragen im *Simple Past* steht das Hilfsverb **did** und der **Infinitiv** des Verbs.\n\n\n| Langformen                     | Kurzformen    |\n| :----------------------------- | :------------ |\n| **Did** I **play** football?   | nicht möglich |\n| **Did** you **play** football? |               |\n| **Did** he **play** football?  |               |\n\n",
+      "this/that/these/those": "* Mum, I’d like **this** T-shirt and **these** shoes here  \n* Really? What about **that** T-shirt over **there**. And **those** green shoes?  \n\n**--> this (signular) für Dinge die nah sind und these (plural)**  \n\n**--> that (singular), für Dinge, die weiter weg sind und those (plural)**  \n\n",
+      "What's the time?": "7:00 - It's 7 o'clock  \n7:05 - It's 5 past 7  \n7:10 - It's 10 past 7  \n7:15 - It's a quarter past 7  \n7:25 - It's 25 past 7  \n7:30 - It's half past 7  \n7:40 - It's 20 to 8  \n7:45 - It's a quarter to 8  \n7:50 - It's 10 to 8  \n8:00 - It's 8 o'clock  \n\n**a.m. / p.m.**  \n7:00 - It's 7a.m.  \n15:00 - It's 3p.m.  \n19:00 - It's 7p.m  \n9:00 - It's 9a.m.  \n\nSchool starts at 8:00  \n\n",
+      "Present progressive/continous": "I am / I'm cooking  \nYou are / You're writing  \nHe is / He's playing football  \nShe is / She's running  \nIt is / It's playing with the ball  \n\nWe are / We're writing  \nYou are / You're reading a book  \nThey are / They're eating an apple  \n\n**am/is/are + ing-form**  \n\n**negation (Verneinung)**  \nI am / I'm **not** cooking  \nWe are / We're **not** writing  \n\n**question (Fragen)**  \nAre you writing?  \nYes, I am.  \nNo, I am **not**.  \n\nIs she running?  \nYes, she is.  \nNo, she is not / is**n't**  \n\n**signal words (Signalwörter)**  \nLook!  \nListen!  \nat the moment  \nnow  \n\n**--> etwas geschieht jetzt gerade!!**",
+      "Ordinal numbers": "one - first  \ntwo - second  \nthree - third  \nfour - fourth  \nfive - fifth  \nsix - sixth  \nseven - seventh  \neight - eighth  \nnine - ninth  \nten - tenth  \n\neleven - eleventh  \ntwelve - twelfth  \n\ntwenty - twentieth  \nthirty - thirtieth  \nfourty - fourtieth  \n\ntwenty-one - twenty-first  \ntwenty-two - twenty-second  \ntwenty-three - twenty-third  \ntwenty-seven - twenty-seventh  ",
+      "Time preposition": "My birthday is on August 29th  \nMy birthday is in August  \nThe film starts at 8 o'clock  \nWe have got English in the morning/afternoon/evening.  \nWe go to bed late at night.  ",
+      "Past Simple": "I **was** at school.  \nYou **were** at home.  \nTom **was** tired.  \nShe **was** happy.  \nThe dog **was** angry.  \n\nWe **were** at the cinema.  \nYou **were** sad.  \nThey **were** alone.  \n\n**Negation**  \nI **wasn't / was not** at home  \nWe **weren't / were not** happy  \n\n**Questions**  \n**Was** Tom angry?  \n**Where** the children at school?  \n\n--> du verwendest die \"past simple\", um etwas Vergangenes zu erzählen  ",
+      "regular verbs": "jump - jump**ed**  \nplay - play**ed**  \nhire - hir**ed**  \nchange - chang**ed**  \nturn - turn**ed**  \ncarry - carri**ed**  \ntry - tri**ed**  \nstop - sto**pped**  \n\n--> bei einem regelmäßigen Verb hänst du -d oder -ed an  \n\n--> alle Personen haben die gleiche Form! (-s muss nicht mehr mit)  \n\nI play**ed** computer games  \nHe play**ed** tennis  \n\n",
+      "irregular verbs": "go - went  \nhave - had  \ndo - did  \nsay - said  \ntell - told  \nread - read [red]  \nmeet - met  \nring - rang  \nhold - held  \nhear - heard [hörd]  \ntake - took  \nrun - ran [ren]  \nknow - knew [nju]  \nsit - sat  \nleave - left  \nput - put  \nsee - saw  \ncome - came  \neat - ate  \nfind - found  \nmake - made  \ngive - gave  \nget - got  \nsleep - slept  \nwake up - woke up  \nbuy - bought  \ncatch - caught  \nthink - thought  \nstand - stood  \nfall - fell  \nhit - hit  \ncan - could  ",
+      "linking words": "I rang his house **but** nobody was there.  \nI learned English **because** we had a test.  \nSue went home **and** had lunch.  ",
+      "Past simple: Verneinung mit \"did\"": "I ate a pizza.  \nI **didn't eat** a pizza.  \n\nAlex played football.  \nAlex **didn't play** football.  \n\nHe **didn't write** the homework.  \n\nWe **didn't watch** tv.  \n\n**didn't = did not**  ",
+      "Countries, nationalities and languages": "**Country - Nationality + language**  \nAustria - Austrian  \nGermany - German  \nItaly - Italian  \nGreece - Greek  \nSpain - Spanish  \nThe United Kingdom - English / Welsh  \nFrance - French  \nFinland - Finnish  \nHungary - Hungarin  \nCroatia - Croatian  \nPortugal - Portuguese  \nSweden - Swedish  \nSwitzerland - Swiss  "
     },
-    "Lord's prayer" : "Our father in heaven,  \nhole be your name,  \nyour kingdom come,  \nyour will be done,  \non earth as in heaven.  \nGive us today our daily bread,  \nand forgive us our sins,  \nas we forgive those who sin against us.  \nAnd do not bring us to the test,  \nbut deliver us from evil.  \nFor the kingdom, the power and the glory  \nare yours, now and forever  \nAmen!"
+    "Lord's prayer": "Our father in heaven,  \nhole be your name,  \nyour kingdom come,  \nyour will be done,  \non earth as in heaven.  \nGive us today our daily bread,  \nand forgive us our sins,  \nas we forgive those who sin against us.  \nAnd do not bring us to the test,  \nbut deliver us from evil.  \nFor the kingdom, the power and the glory  \nare yours, now and forever  \nAmen!"
   },
-  "Deutsch" : {
-    "Allgemein" : {
-      "Akrostichon" : "Der Begriff **\"Akrostichon\"** stammt aus der griechischen Sprache:\n\n**\"Akros\"** = das Äußerste, das Oberste und **\"stichos\"** = Vers, erster Buchstabe eines Verses.\n  Ein Akrostichon ist ein antikes Schreibspiel bzw. Gedicht, bei dem die Buchstaben eines Wortes **senkrecht untereinander** geschrieben werden.\n\n  **Jeder dieser Buchstaben bildet dann den Anfang eines neuen Wortes oder Satzes.**\n\nDabei beinhaltet das vorgegebene Wort das Thema des Gedichtes, zu dem Wörter oder Sätze geschrieben werden müssen.\n![Bild eines Akrostichon](https://www.grundschulmaterial.de/thumbs/HuS/Klasse%203/Jahreszeiten/Herbst/Herbst%20-%20Akrostichon/Beispiel-f%C3%BCr-ein-Akrostichon-2-000060021.jpg)",
-      "Erzählung" : "# a) Arten\n## Erlebniserzahlung:\n* sollte wirklich passiert sein\n* Ich- oder Wir- Form\n\n## Phantasieerzählung:\n* Frei Erfundene Geschichte\n* nachvollziehbar / nicht ins Fantastische übergehen\n* Formen: Ich, Wir, Er/Sie/Es\n\n## Nacherzählung:\n* Voraussetzung: geschriebene Texte, gehörte Texte\n* nichts Wichtiges weg lassen\n* nichts dazu Erfinden\n* nicht abschreiben\n\n# b) Aufbau\n## Einleitung:\n* Wer? Wo? Wann?\n* Neugier des Lesers wecken\n* kurz, interessant\n\n## Hauptteil:\n* Geschichte ansich wird erzählt\n* EINE Geschichte erzählen\n* spannend erzählen (Adjektive einbauen)\n* direkte Reden, Aktionswörter\n* Spannungsbogen bis zum Höhepunkt\n\n## Schluss:\n* Folgen, Lehren\n* Kurz gehalten\n\n# c) Allgemein\nPräteritum\n![Zeitstrahl](https://images.gutefrage.net/media/fragen-antworten/bilder/29273324/0_big.jpg)\n* Absätze nach Einleitung & Hauptteil",
-      "Bericht" : "# Aufbau\n## Einleitung\n\nMan soll beim Lesen der Einleitung schon einen Überlick haben, aber er soll relativ kurz gefasst sein.\nVergiss nicht die W-Fragen zu beantworten **Wer? Was? Wann? Wo?**\n\n## Hauptteil\n\nSchreibe hier detailiert über die Ereignisse und es ist sehr wichtig das du Fragen wie **Wie?** und **Warum?** beantwortest\n\n## Schluss\nBeschreib kurz und prägnant welche Folgen es gibt und geh auch vllt. auf die Hintergründe ein.\n\n# Merkmale\nDer **Bericht** soll **ohne** eine **Meinung**, in schriftlicher oder in mündlicher Fomr, **über** ein **Ereignis** **informieren**.\n\n* Schlagzeile neugierig gestalten\n* Es werden nur Ereignisse mitgeteilt die tatsächlich vorgekommen sind \n* Zeitform: Perfekt\n* Sachlich und Objektiv geschrieben"
+  "Deutsch": {
+    "Allgemein": {
+      "Akrostichon": "Der Begriff **\"Akrostichon\"** stammt aus der griechischen Sprache:\n\n**\"Akros\"** = das Äußerste, das Oberste und **\"stichos\"** = Vers, erster Buchstabe eines Verses.\n  Ein Akrostichon ist ein antikes Schreibspiel bzw. Gedicht, bei dem die Buchstaben eines Wortes **senkrecht untereinander** geschrieben werden.\n\n  **Jeder dieser Buchstaben bildet dann den Anfang eines neuen Wortes oder Satzes.**\n\nDabei beinhaltet das vorgegebene Wort das Thema des Gedichtes, zu dem Wörter oder Sätze geschrieben werden müssen.\n![Bild eines Akrostichon](https://www.grundschulmaterial.de/thumbs/HuS/Klasse%203/Jahreszeiten/Herbst/Herbst%20-%20Akrostichon/Beispiel-f%C3%BCr-ein-Akrostichon-2-000060021.jpg)",
+      "Erzählung": "# a) Arten\n## Erlebniserzahlung:\n* sollte wirklich passiert sein\n* Ich- oder Wir- Form\n\n## Phantasieerzählung:\n* Frei Erfundene Geschichte\n* nachvollziehbar / nicht ins Fantastische übergehen\n* Formen: Ich, Wir, Er/Sie/Es\n\n## Nacherzählung:\n* Voraussetzung: geschriebene Texte, gehörte Texte\n* nichts Wichtiges weg lassen\n* nichts dazu Erfinden\n* nicht abschreiben\n\n# b) Aufbau\n## Einleitung:\n* Wer? Wo? Wann?\n* Neugier des Lesers wecken\n* kurz, interessant\n\n## Hauptteil:\n* Geschichte ansich wird erzählt\n* EINE Geschichte erzählen\n* spannend erzählen (Adjektive einbauen)\n* direkte Reden, Aktionswörter\n* Spannungsbogen bis zum Höhepunkt\n\n## Schluss:\n* Folgen, Lehren\n* Kurz gehalten\n\n# c) Allgemein\nPräteritum\n![Zeitstrahl](https://images.gutefrage.net/media/fragen-antworten/bilder/29273324/0_big.jpg)\n* Absätze nach Einleitung & Hauptteil",
+      "Bericht": "# Aufbau\n## Einleitung\n\nMan soll beim Lesen der Einleitung schon einen Überlick haben, aber er soll relativ kurz gefasst sein.\nVergiss nicht die W-Fragen zu beantworten **Wer? Was? Wann? Wo?**\n\n## Hauptteil\n\nSchreibe hier detailiert über die Ereignisse und es ist sehr wichtig das du Fragen wie **Wie?** und **Warum?** beantwortest\n\n## Schluss\nBeschreib kurz und prägnant welche Folgen es gibt und geh auch vllt. auf die Hintergründe ein.\n\n# Merkmale\nDer **Bericht** soll **ohne** eine **Meinung**, in schriftlicher oder in mündlicher Fomr, **über** ein **Ereignis** **informieren**.\n\n* Schlagzeile neugierig gestalten\n* Es werden nur Ereignisse mitgeteilt die tatsächlich vorgekommen sind \n* Zeitform: Perfekt\n* Sachlich und Objektiv geschrieben"
     },
-    "Fremdwörter" : {
-      "adäquat" : "angemessen",
-      "ad hoc" : "Aus dem Stegreif.",
-      "ambivalent" : "zwiespältig, doppeldeutig",
-      "andizipieren" : "man *erkennt* etwas *bevor* es eingetreten ist",
-      "Assotiation" : "Gedankenverknüpfung",
-      "biblioman" : "krankhaft bücherliebend",
-      "Chiffre" : "Ziffer oder Zahl (manchmal auch geheimes Schriftzeichen oder Kennziffer)",
-      "diametral" : "Etwas einer anderen Sache genau *entgegengesetzt*  \nAnsichten sind völlig unterschiedlich",
-      "dito" : "ebenfalls, gleichfalls",
-      "diskret" : "unauffällig ausführen  \nvertraulich behandeln  \nmitunter auch rücksichtsvoll",
-      "eloquent" : "wortgewandt",
-      "Empathie" : "Beschreibt die Bereitschaft und die Fähigkeit einer Person, sich in Lage, Einstellung und emotionale Befindlichkeit einer anderen Person einzufühlen.\n# Beispiel\n*Empathie* ist einer der Grundpfeiler menschlichen Zusammenlebens.",
-      "extrovertiert" : "nach außen gerichtet, aufgeschlossen",
-      "fragil" : "zerbrechlich / zart",
-      "gustatorisch" : "den Geschmackssinn betreffend (schmeckend)",
-      "Habitus" : "Erscheinungsbild (Aussehen\\Auftreten)",
-      "homogen" : "einheitlich oder gleichmäßig geschaffen",
-      "impertinent" : "unverschämt oder frech (provuzierend und herausfordernd",
-      "Indiz" : "Hinweis",
-      "infantil" : "Jemand ist kindisch oder auf der Entwicklungsstufe eines Kindes stehen geblieben.",
-      "introvertiert" : "nach innen gekehrt, verschlossen",
-      "jovial" : "wohlwollendes Verhalten mit niedriger gestellten Personen",
-      "Kausalität" : "Gemeinsamkeiten, die nicht bewiesen im zusammenhang stehen.",
-      "Kollateralschaden" : "Bei einer militärischen Aktion entstehender Schaden, der nicht beabsichtigt ist und nicht in unmittelbarem Zusammenhang mit dem Ziel der Aktion steht, aber dennoch in Kauf genommen wird.",
-      "Korrelation" : " Wissenschaftlich geprüfter Zusammenhang.",
-      "lapidar" : "Eine Sache kurz und knapp formulieren  \nüberraschend und treffend",
-      "Misanthrop" : "Menschenfeind",
-      "narzisstisch" : "selbstverliebt, selbstbezogen",
-      "obligatorisch" : "verbindlich, verpflichtend",
-      "oktroyieren" : "Jemanden etwas *aufzwingen* oder *aufdrängen",
-      "perplex" : "In einer Situation überrascht oder verblüfft zu sein und daher nicht zu wissen, wie man reagieren soll.",
-      "per se" : "Das etwas ohne weiteres Zutun vonstatten geht.\n# Beispiel\nDie Angelegenheit versteht sich *per se*\n# Synonyme\n\"von selbst\" oder \"an sich\"",
-      "pittoresk" : "malerisch \\ wie gemalt",
-      "polarisieren" : "Gegensätze schaffen, trennen",
-      "postfaktisch " : "gefühlsmäßig, unsachlich",
-      "pragmatisch" : "sachbezogen, rational",
-      "protegieren" : "geschäftlich interagieren",
-      "Querulant" : "eine Person, die -ohne im Recht zu sein - einen Rechtsstreit ohne Aussicht auf Erfolg führt",
-      "Razzia" : "überraschende Fahndung",
-      "redundant" : "mehrfach vorhanden, überzählig",
-      "rudimentär" : "unzureichend, unvollkommen, nur ansatzweise",
-      "Status Quo" : "gegenwärtiger Zustand",
-      "subsidär" : "unterstützend, behelfsmäßig",
-      "subtil" : "behutsam, einfühlsam",
-      "sukzessiv" : "Bedeutet, dass etwas allmählich und nur schrittweise geschieht (Wachstum eines Baumes",
-      "tradiert" : "Überliefert",
-      "trivial" : "etwas ist simpel, einfach oder altbekannt",
-      "ubiquitär" : "allgegenwärtig oder überall verbreitet",
-      "verifizieren" : "etwas nachweisen oder beglaubigen",
-      "Xenophobie" : "eigentlich: Fremdenangst  \nwird oft mit Fremdenfeindlichkeit gleichgesetzt",
-      "Zampano" : "ein männlicher Anführer einer Gruppe, der durch übertriebenes prahlerisches gebahren beeindrucken will.  \nEr will unmögliches möglich machen",
-      "Zäsur" : "starke Veränderung",
-      "zyklisch" : "kreisförmig oder wiederkehrend",
-      "zynisch" : "spä´öttisch oder auf grausame, den Anstand beleidigende Weise"
+    "Fremdwörter": {
+      "adäquat": "angemessen",
+      "ad hoc": "Aus dem Stegreif.",
+      "ambivalent": "zwiespältig, doppeldeutig",
+      "andizipieren": "man *erkennt* etwas *bevor* es eingetreten ist",
+      "Assotiation": "Gedankenverknüpfung",
+      "biblioman": "krankhaft bücherliebend",
+      "Chiffre": "Ziffer oder Zahl (manchmal auch geheimes Schriftzeichen oder Kennziffer)",
+      "diametral": "Etwas einer anderen Sache genau *entgegengesetzt*  \nAnsichten sind völlig unterschiedlich",
+      "dito": "ebenfalls, gleichfalls",
+      "diskret": "unauffällig ausführen  \nvertraulich behandeln  \nmitunter auch rücksichtsvoll",
+      "eloquent": "wortgewandt",
+      "Empathie": "Beschreibt die Bereitschaft und die Fähigkeit einer Person, sich in Lage, Einstellung und emotionale Befindlichkeit einer anderen Person einzufühlen.\n# Beispiel\n*Empathie* ist einer der Grundpfeiler menschlichen Zusammenlebens.",
+      "extrovertiert": "nach außen gerichtet, aufgeschlossen",
+      "fragil": "zerbrechlich / zart",
+      "gustatorisch": "den Geschmackssinn betreffend (schmeckend)",
+      "Habitus": "Erscheinungsbild (Aussehen\\Auftreten)",
+      "homogen": "einheitlich oder gleichmäßig geschaffen",
+      "impertinent": "unverschämt oder frech (provuzierend und herausfordernd",
+      "Indiz": "Hinweis",
+      "infantil": "Jemand ist kindisch oder auf der Entwicklungsstufe eines Kindes stehen geblieben.",
+      "introvertiert": "nach innen gekehrt, verschlossen",
+      "jovial": "wohlwollendes Verhalten mit niedriger gestellten Personen",
+      "Kausalität": "Gemeinsamkeiten, die nicht bewiesen im zusammenhang stehen.",
+      "Kollateralschaden": "Bei einer militärischen Aktion entstehender Schaden, der nicht beabsichtigt ist und nicht in unmittelbarem Zusammenhang mit dem Ziel der Aktion steht, aber dennoch in Kauf genommen wird.",
+      "Korrelation": " Wissenschaftlich geprüfter Zusammenhang.",
+      "lapidar": "Eine Sache kurz und knapp formulieren  \nüberraschend und treffend",
+      "Misanthrop": "Menschenfeind",
+      "narzisstisch": "selbstverliebt, selbstbezogen",
+      "obligatorisch": "verbindlich, verpflichtend",
+      "oktroyieren": "Jemanden etwas *aufzwingen* oder *aufdrängen",
+      "perplex": "In einer Situation überrascht oder verblüfft zu sein und daher nicht zu wissen, wie man reagieren soll.",
+      "per se": "Das etwas ohne weiteres Zutun vonstatten geht.\n# Beispiel\nDie Angelegenheit versteht sich *per se*\n# Synonyme\n\"von selbst\" oder \"an sich\"",
+      "pittoresk": "malerisch \\ wie gemalt",
+      "polarisieren": "Gegensätze schaffen, trennen",
+      "postfaktisch ": "gefühlsmäßig, unsachlich",
+      "pragmatisch": "sachbezogen, rational",
+      "protegieren": "geschäftlich interagieren",
+      "Querulant": "eine Person, die -ohne im Recht zu sein - einen Rechtsstreit ohne Aussicht auf Erfolg führt",
+      "Razzia": "überraschende Fahndung",
+      "redundant": "mehrfach vorhanden, überzählig",
+      "rudimentär": "unzureichend, unvollkommen, nur ansatzweise",
+      "Status Quo": "gegenwärtiger Zustand",
+      "subsidär": "unterstützend, behelfsmäßig",
+      "subtil": "behutsam, einfühlsam",
+      "sukzessiv": "Bedeutet, dass etwas allmählich und nur schrittweise geschieht (Wachstum eines Baumes",
+      "tradiert": "Überliefert",
+      "trivial": "etwas ist simpel, einfach oder altbekannt",
+      "ubiquitär": "allgegenwärtig oder überall verbreitet",
+      "verifizieren": "etwas nachweisen oder beglaubigen",
+      "Xenophobie": "eigentlich: Fremdenangst  \nwird oft mit Fremdenfeindlichkeit gleichgesetzt",
+      "Zampano": "ein männlicher Anführer einer Gruppe, der durch übertriebenes prahlerisches gebahren beeindrucken will.  \nEr will unmögliches möglich machen",
+      "Zäsur": "starke Veränderung",
+      "zyklisch": "kreisförmig oder wiederkehrend",
+      "zynisch": "spä´öttisch oder auf grausame, den Anstand beleidigende Weise"
     },
-    "Grammatik" : {
-      "Groß- und Kleinschreibung" : {
-        "Großschreibung von Anfängen und Nomen" : "**Wörter die immer groß geschrieben gehören:**\n\n* bei Satzanfängen\n* beim Beginn direkter Reden\n* bei Nomen\n* beim ersten Wort einer/eines\n  * Überschrift\n  * Titels\n  * Gesetzes\n  * Anschrift\n  * Grußformel\n* Eigen- und Personennamen *(Personen, geografische Eigennamen, Insitutionen und FIrmen, bestimmte historische Epochen)*",
-        "Groß- und Kleinschreibung in Briefen" : "* Erste Wort der Briefanrede wird großgeschrieben\n* Endet die Anrede mit einem **Rufzeichen**, folgt **Großschreibung**.\n* Endet die Anrede mit einem **Beistrich**, folgt **Kleinschreibung**\n* **Grußformeln gehören groß**, wenn der letzte Satz des Briefes mit einem Punkt endet.\n* Pronomen wie **Sie** und **Ihr** gehören Groß aus höflichen Gründen\n* Wörter wie **du** und **eurer** schreibt man klein (Großschreibung ist nur in Briefen erlaubt)\n",
-        "Nominalisierung" : {
-          "Nominalisierung" : "Wörter anderer Wortgruppen können als Nomen verwendet werden.\nDiesen Prozess nent man **Nominalisieren** bzw. **Substantivieren**\n\n* **Verben**: das Schmatzen, lautes Gurgeln, ohne Zögern\n* **Adjektive und Partizipien**: nichts Neues, wenig Erfreuliches, laut Gemachtes\n* **Pronomen**: das Meine, die Deinen\n* **Zahlwörter**: jeder Fünfte, drei VIertel, eine Zwei in Mathe\n* **Adverbien**: das ewige Hin und Her, das heillose Durcheinander\n\n## Signalwörter\n\n* **Artikel**: das Singen, das Langen und Breiten, des Öfteren\n* **Pronomen**: dieses/dein Meckern, jenes Grün\n* **deklinierte Adjektive**: lautes Schreien, trauriges Schluchzen\n* **unbestimmte Zahlwörter**: alles Gute, nichts Neues, wenig Gutes\n* **Präpositionen**: ohne Wenn und Aber, im Großen und Ganzen",
-          "Nominalisierung von Verben" : "* Häufig werden Verben nominalisiert, meist gibt es **Signalwörter** wie **Artikel** / **Schmelzwörter** (im, zum, beim...):\n  * die Kunst des Genießens, im Meckern ganz groß sein, ein Talent zum Reden, Stress beim Kochen\n* **Achtung**! Der artikellose Infinite (Nennform) nach **zu** wird **kleingeschrieben**:\n  die Möglichkeit zu halten, die Idee zu kopieren, etwas zu essen bestellen\n* Fügungen aus **Nomen** und **Verb** werden **groß**- und **zusammengeschrieben**, wenn man sie als ein Nomen verwendet:\n  * Moped fahren - Das Mopedfahren ist gefährlich\n  * Eislaufen - Jetzt ist (das) Eislaufen beliebt",
-          "Nominalisierung von Adjektiven" : "* Adjektive werden oft bei **unbestimmten Zahlwörtern** großgeschrieben\n  * viel Brauchbares, wenig Sinnvolles (aber: es wenig sinnvoll finden)\n* Die gleiche Regel gilt für **Partizipien**, welche wie Adjektive verwendet werden:\n  * etwas Gebasteltes, nichts Faszinierendes\n* Auch in **festen Fügungen** werden Adjektive großgeschrieben\n  * im Folgenden, im Wesentlichen, im Großen und Ganzen, im Voraus ...(aber: am **b**esten, da es eine **Steigungsform** ist)\n* **Farb**- und **Sprachadjektive** nach einem Vorwort schreibt man groß: in Blau, auf Rot, auf Spanisch, in Deutsch, in deutscher Sprache"
+    "Grammatik": {
+      "Groß- und Kleinschreibung": {
+        "Großschreibung von Anfängen und Nomen": "**Wörter die immer groß geschrieben gehören:**\n\n* bei Satzanfängen\n* beim Beginn direkter Reden\n* bei Nomen\n* beim ersten Wort einer/eines\n  * Überschrift\n  * Titels\n  * Gesetzes\n  * Anschrift\n  * Grußformel\n* Eigen- und Personennamen *(Personen, geografische Eigennamen, Insitutionen und FIrmen, bestimmte historische Epochen)*",
+        "Groß- und Kleinschreibung in Briefen": "* Erste Wort der Briefanrede wird großgeschrieben\n* Endet die Anrede mit einem **Rufzeichen**, folgt **Großschreibung**.\n* Endet die Anrede mit einem **Beistrich**, folgt **Kleinschreibung**\n* **Grußformeln gehören groß**, wenn der letzte Satz des Briefes mit einem Punkt endet.\n* Pronomen wie **Sie** und **Ihr** gehören Groß aus höflichen Gründen\n* Wörter wie **du** und **eurer** schreibt man klein (Großschreibung ist nur in Briefen erlaubt)\n",
+        "Nominalisierung": {
+          "Nominalisierung": "Wörter anderer Wortgruppen können als Nomen verwendet werden.\nDiesen Prozess nent man **Nominalisieren** bzw. **Substantivieren**\n\n* **Verben**: das Schmatzen, lautes Gurgeln, ohne Zögern\n* **Adjektive und Partizipien**: nichts Neues, wenig Erfreuliches, laut Gemachtes\n* **Pronomen**: das Meine, die Deinen\n* **Zahlwörter**: jeder Fünfte, drei VIertel, eine Zwei in Mathe\n* **Adverbien**: das ewige Hin und Her, das heillose Durcheinander\n\n## Signalwörter\n\n* **Artikel**: das Singen, das Langen und Breiten, des Öfteren\n* **Pronomen**: dieses/dein Meckern, jenes Grün\n* **deklinierte Adjektive**: lautes Schreien, trauriges Schluchzen\n* **unbestimmte Zahlwörter**: alles Gute, nichts Neues, wenig Gutes\n* **Präpositionen**: ohne Wenn und Aber, im Großen und Ganzen",
+          "Nominalisierung von Verben": "* Häufig werden Verben nominalisiert, meist gibt es **Signalwörter** wie **Artikel** / **Schmelzwörter** (im, zum, beim...):\n  * die Kunst des Genießens, im Meckern ganz groß sein, ein Talent zum Reden, Stress beim Kochen\n* **Achtung**! Der artikellose Infinite (Nennform) nach **zu** wird **kleingeschrieben**:\n  die Möglichkeit zu halten, die Idee zu kopieren, etwas zu essen bestellen\n* Fügungen aus **Nomen** und **Verb** werden **groß**- und **zusammengeschrieben**, wenn man sie als ein Nomen verwendet:\n  * Moped fahren - Das Mopedfahren ist gefährlich\n  * Eislaufen - Jetzt ist (das) Eislaufen beliebt",
+          "Nominalisierung von Adjektiven": "* Adjektive werden oft bei **unbestimmten Zahlwörtern** großgeschrieben\n  * viel Brauchbares, wenig Sinnvolles (aber: es wenig sinnvoll finden)\n* Die gleiche Regel gilt für **Partizipien**, welche wie Adjektive verwendet werden:\n  * etwas Gebasteltes, nichts Faszinierendes\n* Auch in **festen Fügungen** werden Adjektive großgeschrieben\n  * im Folgenden, im Wesentlichen, im Großen und Ganzen, im Voraus ...(aber: am **b**esten, da es eine **Steigungsform** ist)\n* **Farb**- und **Sprachadjektive** nach einem Vorwort schreibt man groß: in Blau, auf Rot, auf Spanisch, in Deutsch, in deutscher Sprache"
         },
-        "Kleinschreibung" : "* Klein schreibt man **Verben**, **Adjektive**, **Adverbien**, **Pronomen**\n* **Achtung**! Klein schreibt man auch Adjektive und Partizipien, die sich auf ein anderes beziehen:\n  * Sie ist die schnellste (Teilnehmerinnen) aller **Teilnehmerinnen**\n  * Die **Gangster** kamen herein, der kleine (Gangster) und die zwei größeren (Gangster)\n  * Dieser ist von allen **Kombis** der häufigste gekaufe (Kombi)\n\n",
-        "Besonderheiten der Kleinschreibung" : "* Merk dir die **Kleinschreibung folgender Verbindungen**:\n  * grau in grau, schwarz auf weiß, von klein auf, in bar, durch dick und dünn gehen, von früh auf\n* **immer kleinzuschreiben** sind: ein jeder, die beiden, ein mancher",
-        "Besonderheiten bei Zahlen" : "* Zahlen **unter einer Million** werden **kleingeschrieben**\n  * elf, zweitausenddrei, dreißigtausend\n    **Achtung**! Ausnahmen sind **Noten** und **Würfelpunkte**!:\n    eine Drei/einen Dreier bekommen, eine Sechs/einen Sechser würfeln\n* **Ordnungszahlwörter** werden großgeschrieben\n  * der Zweite, als Erstes, der Nächste, das Letzte\n    **Achtung**! der erste Ritter, das dritte Gebot\n* **Bruchzahlwörter** in **Zeit**- und **Maßangaben** sind klein, wenn sie vor der **Zahl**/**Maßeinheit** stehen\n  * um viertel eins, um drei viertel acht, ein achtel Kilogramm Butter, ein viertel Liter Wein\n* Stehen sie **nicht unmittelbar** davor, werden sie **großgeschrieben**\n  * (ein) Viertel vor zehn, (ein) Viertel nach acht, noch ein Viertel trinken\n* Stehen **Bruchzahlwörter unmittelbar** vor den **Stoffbezeichnungen**, wird auch großgeschrieben\n  * ein Achtel Butter, ein Viertel Wein"
+        "Kleinschreibung": "* Klein schreibt man **Verben**, **Adjektive**, **Adverbien**, **Pronomen**\n* **Achtung**! Klein schreibt man auch Adjektive und Partizipien, die sich auf ein anderes beziehen:\n  * Sie ist die schnellste (Teilnehmerinnen) aller **Teilnehmerinnen**\n  * Die **Gangster** kamen herein, der kleine (Gangster) und die zwei größeren (Gangster)\n  * Dieser ist von allen **Kombis** der häufigste gekaufe (Kombi)\n\n",
+        "Besonderheiten der Kleinschreibung": "* Merk dir die **Kleinschreibung folgender Verbindungen**:\n  * grau in grau, schwarz auf weiß, von klein auf, in bar, durch dick und dünn gehen, von früh auf\n* **immer kleinzuschreiben** sind: ein jeder, die beiden, ein mancher",
+        "Besonderheiten bei Zahlen": "* Zahlen **unter einer Million** werden **kleingeschrieben**\n  * elf, zweitausenddrei, dreißigtausend\n    **Achtung**! Ausnahmen sind **Noten** und **Würfelpunkte**!:\n    eine Drei/einen Dreier bekommen, eine Sechs/einen Sechser würfeln\n* **Ordnungszahlwörter** werden großgeschrieben\n  * der Zweite, als Erstes, der Nächste, das Letzte\n    **Achtung**! der erste Ritter, das dritte Gebot\n* **Bruchzahlwörter** in **Zeit**- und **Maßangaben** sind klein, wenn sie vor der **Zahl**/**Maßeinheit** stehen\n  * um viertel eins, um drei viertel acht, ein achtel Kilogramm Butter, ein viertel Liter Wein\n* Stehen sie **nicht unmittelbar** davor, werden sie **großgeschrieben**\n  * (ein) Viertel vor zehn, (ein) Viertel nach acht, noch ein Viertel trinken\n* Stehen **Bruchzahlwörter unmittelbar** vor den **Stoffbezeichnungen**, wird auch großgeschrieben\n  * ein Achtel Butter, ein Viertel Wein"
       },
-      "seid/seit" : {
-        "seid" : "kommt von \"sein\"!  \nBsp: Ihr seid laut",
-        "seit" : "seit ist ein Konjunktiv  \nseit kann auch eine Proäposition sein  \nBeispiele: Seit ich dich kenne  \nSeit diesem Tag"
+      "seid/seit": {
+        "seid": "kommt von \"sein\"!  \nBsp: Ihr seid laut",
+        "seit": "seit ist ein Konjunktiv  \nseit kann auch eine Proäposition sein  \nBeispiele: Seit ich dich kenne  \nSeit diesem Tag"
       },
-      "Das/Dass" : {
-        "Das" : "Artikel z.B. Das Buch  \nDemonstrativpronomen z.B. Das habe ich gemacht  \nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
-        "dass" : "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden  \nz.B. Ich bin der Meinung, dass ich Hunger habe",
-        "Verwirrender Dass/Das Satz " : "Dass das Dass mit Das verwechselt wird, führt irgendwann dazu, dass das Dass das nicht mehr erträgt und dass das Dass das Das dann tötet. XD"
+      "Das/Dass": {
+        "Das": "Artikel z.B. Das Buch  \nDemonstrativpronomen z.B. Das habe ich gemacht  \nRelativpronomen z.B. Das Buch, das(welches\\jenes) ich lese, ist langweilig",
+        "dass": "Dass ist eine Konjuntion und verbindet Hauptsatz mit Gliedsatz und kann NICHT ersetzt werden  \nz.B. Ich bin der Meinung, dass ich Hunger habe",
+        "Verwirrender Dass/Das Satz ": "Dass das Dass mit Das verwechselt wird, führt irgendwann dazu, dass das Dass das nicht mehr erträgt und dass das Dass das Das dann tötet. XD"
       },
-      "end\\ent" : {
-        "end" : "End leitet sich vom Ende ab z.B. Endlich, Endlos",
-        "ent" : "Ent bedeutet meistens negatives z.B. entfernen, entlassen"
+      "end\\ent": {
+        "end": "End leitet sich vom Ende ab z.B. Endlich, Endlos",
+        "ent": "Ent bedeutet meistens negatives z.B. entfernen, entlassen"
       },
-      "Wortarten" : {
-        "Verb" : {
-          "Informationen" : "Verb = Zeitwort  \nUnter dem Begriff Verb versteht man eine Wortart, die eine Tätigkeit, einen Vorgang oder  \neinen Zustand beschreibt. So wird das Verb zu Deutsch oft als \"Tunwort, Tätigkeitswort oder Zeitwort\"  \nverstanden. Sie können konjugiert (=abgewandelt) werden.  \nSie kommen in so ziemlich jeden Satz vor",
-          "infinites Verb" : "(kommend, kochen, gegangen) sind der *Infinitiv* und die beiden mittelwörter, also Partizip  \nPräsens und Partizip Perfekt. Von ihnen kann man nichts ablesen",
-          "finites Verb" : "Aus ihnen kann man Person, Numerus, Tempus, Modus und das Genus Verbi ablesen  \nPerson: ich, du, er/sie/es, wir, ihr, sie  \nNumerus: Singular und Präsens  \nTempus: Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur 1, Futur 2  \nModus: Indikativ, Imperativ oder Konjunktiv  \nGenus Verbi: Aktiv oder Passiv",
-          "trennbare und untrennbare Verben" : {
-            "untrennbar" : "untrennbare Verben enthalen Präfixe (Vorsinlben), die keine allgemein verständliche Aussage haben: ent-, ge-, ver-, zer-,...",
-            "trennbar" : "Trennbare enthalten Verbzusätze, meist Vorwörter, die eine allgemein verständliche Aussage haben: ab-, an-, auf-, aus-, bei-, her-, ein,- nach-, los-, hin-, wieder-, zu-, zurück-, vor-, weg-..."
+      "Wortarten": {
+        "Verb": {
+          "Informationen": "Verb = Zeitwort  \nUnter dem Begriff Verb versteht man eine Wortart, die eine Tätigkeit, einen Vorgang oder  \neinen Zustand beschreibt. So wird das Verb zu Deutsch oft als \"Tunwort, Tätigkeitswort oder Zeitwort\"  \nverstanden. Sie können konjugiert (=abgewandelt) werden.  \nSie kommen in so ziemlich jeden Satz vor",
+          "infinites Verb": "(kommend, kochen, gegangen) sind der *Infinitiv* und die beiden mittelwörter, also Partizip  \nPräsens und Partizip Perfekt. Von ihnen kann man nichts ablesen",
+          "finites Verb": "Aus ihnen kann man Person, Numerus, Tempus, Modus und das Genus Verbi ablesen  \nPerson: ich, du, er/sie/es, wir, ihr, sie  \nNumerus: Singular und Präsens  \nTempus: Präsens, Präteritum, Perfekt, Plusquamperfekt, Futur 1, Futur 2  \nModus: Indikativ, Imperativ oder Konjunktiv  \nGenus Verbi: Aktiv oder Passiv",
+          "trennbare und untrennbare Verben": {
+            "untrennbar": "untrennbare Verben enthalen Präfixe (Vorsinlben), die keine allgemein verständliche Aussage haben: ent-, ge-, ver-, zer-,...",
+            "trennbar": "Trennbare enthalten Verbzusätze, meist Vorwörter, die eine allgemein verständliche Aussage haben: ab-, an-, auf-, aus-, bei-, her-, ein,- nach-, los-, hin-, wieder-, zu-, zurück-, vor-, weg-..."
           },
-          "Voll - Hilfs-und Modalverben" : {
-            "Hilfsverben" : "haben, sein und werden",
-            "Modalverben" : "müssen, können, wollen, sollen. dürfen und mögen",
-            "Vollverben" : "der Rest: weinen, lieben, essen, singen, holen, trinken....."
+          "Voll - Hilfs-und Modalverben": {
+            "Hilfsverben": "haben, sein und werden",
+            "Modalverben": "müssen, können, wollen, sollen. dürfen und mögen",
+            "Vollverben": "der Rest: weinen, lieben, essen, singen, holen, trinken....."
           }
         }
       }
     },
-    "Vater Unser" : "Vater unser im Himmel  \ngeheiligt werde dein Name.  \nDein Reich komme.  \nDein Wille geschehe,  \nwie im Himmel, so auf Erden.  \nUnser tägliches Brot gib uns heute.  \nUnd vergib uns unsere Schuld,  \nwie auch wir vergeben unsern Schuldigern  \nUnd führe uns nicht in Versuchung,  \nsondern erlöse uns von dem Bösen  \nDenn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit."
+    "Vater Unser": "Vater unser im Himmel  \ngeheiligt werde dein Name.  \nDein Reich komme.  \nDein Wille geschehe,  \nwie im Himmel, so auf Erden.  \nUnser tägliches Brot gib uns heute.  \nUnd vergib uns unsere Schuld,  \nwie auch wir vergeben unsern Schuldigern  \nUnd führe uns nicht in Versuchung,  \nsondern erlöse uns von dem Bösen  \nDenn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit."
   },
-  "Physik" : {
-    "Würfe" : {
-      "Waagerechter Wurf" : "Der **waagerechte Wurf**, oder auch **horizontaler Wurf** ist die Bewegung eines Körpers, der parallel zum Horizont geworfen oder geschossen wird. Betrachtet man die Bahnkurve des waagerecht geworfenen Körpers, handelt es sich um eine Parabel, bei welcher der Scheitelpunkt den Abwurfort repräsentiert. Das bedeutet wiederum, dass der Körper zwei unterschiedliche Bewegungsformen durchführt.  \n\n**Formeln**:       \n\nZeit-Geschwindigkeits-Gesetz:  \nv(kleiner  y)(t)=-g*t \n\nWeg-Zeit-Gesetzt:  \ny(t) = (-1/2)g*t^2+h(kleiner 0)  \n\nWurfparabel:  \ny(r)=(-1/2)*a(kleiner 0)[x/v(kleiner 0,x)]^2+h(kleiner 0) \n\nWurfhöhe:  \nh(kleiner 0)=1/2*g(kleiner 0){x(kleiner y)/v(kleiner 0,x)]^2  \n\nWurfweite:   \nx(kleiner W)= v(kleiner 0,r)*wurzel[2*h(kleiner 0)/g] \n\nFallzeit:   \nt=wurzel[2*h(kleiner 0)/g]  \n\n\n![](https://www.leifiphysik.de/sites/default/files/medien/Wurfgeschwindigkeit_Bild.gif)",
-      "Lotrechter Wurf" : "Bei dieser Bewegung handelt es sich um eine Überlagerung von zwei Bewegungen: einer gleichförmigen Bewegung (durch die vertikale Anfangsgeschwindigkeit v0) und einer gleichmäßig beschleunigten Bewegung (durch die Fallbeschleunigung). In den Gleichungen kommen daher Anteile von beiden Bewegungsformen vor.  \n\nFormeln:  \ns=h0+v0*t+(g/2)*t^2  \nv=v0+g*t \n\n ![](https://www.lernort-mint.de/abbildungen/physik-mechanik-senkrechter-wurf.jpg)",
-      "Schiefer Wurf" : "H = (vo^2*sin^2a)/(2*g) <----- Maximale Wurfhöhe \n\n tmaximale_Höhe = vy/g <------- Zeit bei der maximalen Wurfhöhe (Diese Zeit mal 2 wäre die gesamte Wurfdauer) \n\n h = 1/2 * 9,81 * t^2/2 <------ Höhe zu jeder Zeit \n\n sx  = vx*t*2 = vx* vy/g * 2 = vo * cos(a) * (vo*cos⁡(a))/g * 2 = vo^2/g * 2sin(a)*cos(a) \n= (vo^2* sin(2a) )/g = sx  <------ Maximale Wurfweite \n\n s = vx*t            <--- um die Weite zu jeder Zeit zu berechnen (heißt zu t: 0,1,2..) \n\n tW = (2*vo*sin⁡(a))/g <----- Wurfdauer \n\n vx = vo * cos(a) \n\n vy = vo * sin(a) \n\n\n\n\n\n\n\n ![](https://www.frustfrei-lernen.de/images/mechanik/schiefer-wurf.jpg)"
+  "Physik": {
+    "Würfe": {
+      "Waagerechter Wurf": "Der **waagerechte Wurf**, oder auch **horizontaler Wurf** ist die Bewegung eines Körpers, der parallel zum Horizont geworfen oder geschossen wird. Betrachtet man die Bahnkurve des waagerecht geworfenen Körpers, handelt es sich um eine Parabel, bei welcher der Scheitelpunkt den Abwurfort repräsentiert. Das bedeutet wiederum, dass der Körper zwei unterschiedliche Bewegungsformen durchführt.  \n\n**Formeln**:       \n\nZeit-Geschwindigkeits-Gesetz:  \nv(kleiner  y)(t)=-g*t \n\nWeg-Zeit-Gesetzt:  \ny(t) = (-1/2)g*t^2+h(kleiner 0)  \n\nWurfparabel:  \ny(r)=(-1/2)*a(kleiner 0)[x/v(kleiner 0,x)]^2+h(kleiner 0) \n\nWurfhöhe:  \nh(kleiner 0)=1/2*g(kleiner 0){x(kleiner y)/v(kleiner 0,x)]^2  \n\nWurfweite:   \nx(kleiner W)= v(kleiner 0,r)*wurzel[2*h(kleiner 0)/g] \n\nFallzeit:   \nt=wurzel[2*h(kleiner 0)/g]  \n\n\n![](https://www.leifiphysik.de/sites/default/files/medien/Wurfgeschwindigkeit_Bild.gif)",
+      "Lotrechter Wurf": "Bei dieser Bewegung handelt es sich um eine Überlagerung von zwei Bewegungen: einer gleichförmigen Bewegung (durch die vertikale Anfangsgeschwindigkeit v0) und einer gleichmäßig beschleunigten Bewegung (durch die Fallbeschleunigung). In den Gleichungen kommen daher Anteile von beiden Bewegungsformen vor.  \n\nFormeln:  \ns=h0+v0*t+(g/2)*t^2  \nv=v0+g*t \n\n ![](https://www.lernort-mint.de/abbildungen/physik-mechanik-senkrechter-wurf.jpg)",
+      "Schiefer Wurf": "H = (vo^2*sin^2a)/(2*g) <----- Maximale Wurfhöhe \n\n tmaximale_Höhe = vy/g <------- Zeit bei der maximalen Wurfhöhe (Diese Zeit mal 2 wäre die gesamte Wurfdauer) \n\n h = 1/2 * 9,81 * t^2/2 <------ Höhe zu jeder Zeit \n\n sx  = vx*t*2 = vx* vy/g * 2 = vo * cos(a) * (vo*cos⁡(a))/g * 2 = vo^2/g * 2sin(a)*cos(a) \n= (vo^2* sin(2a) )/g = sx  <------ Maximale Wurfweite \n\n s = vx*t            <--- um die Weite zu jeder Zeit zu berechnen (heißt zu t: 0,1,2..) \n\n tW = (2*vo*sin⁡(a))/g <----- Wurfdauer \n\n vx = vo * cos(a) \n\n vy = vo * sin(a) \n\n\n\n\n\n\n\n ![](https://www.frustfrei-lernen.de/images/mechanik/schiefer-wurf.jpg)"
     },
-    "Fall" : {
-      "Freier Fall" : "**Beim freien Fall, fällt etwas vertikal nach unten**  \nDie Formel: **y=1/2*g*t^2**  \n\n**y**=Weg, **g**= Beschleunigung(**9,81** auf der Erde), **t**=Zeit  \n\n![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg \"Freier Fall\")"
+    "Fall": {
+      "Freier Fall": "**Beim freien Fall, fällt etwas vertikal nach unten**  \nDie Formel: **y=1/2*g*t^2**  \n\n**y**=Weg, **g**= Beschleunigung(**9,81** auf der Erde), **t**=Zeit  \n\n![](https://blog.studyflix.de/wp-content/uploads/2019/06/Freier-Fall_Weg_Zeit_Diagramm_SEO-1024x576.jpg \"Freier Fall\")"
     },
-    "Kepler" : {
-      "1. Keplersches Gesetz" : "**Die Planeten bewegen sich auf elliptischen Bahnen. In einem gemeinsamen Brennpunkt steht die Sonne.**\n\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-ellipsebahn.png \"1. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "2. Keplersches Gesetz" : "**Die Verbindungslinie Sonne-Planet überstreicht in gleichen Zeiten gleich große Flächen.**\n\n![](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-kepler21.png \"2. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
-      "3. Keplersches Gestez" : "**Die Quadrate der** Umlaufzeiten **zweier Planeten verhalten sich wie die dritten Potenzen der großen** Halbachsen **ihrer Bahnen.**\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-kepler31.png \"3. Keplersches Gesetz\")\n\n"
+    "Kepler": {
+      "1. Keplersches Gesetz": "**Die Planeten bewegen sich auf elliptischen Bahnen. In einem gemeinsamen Brennpunkt steht die Sonne.**\n\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-ellipsebahn.png \"1. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "2. Keplersches Gesetz": "**Die Verbindungslinie Sonne-Planet überstreicht in gleichen Zeiten gleich große Flächen.**\n\n![](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-kepler21.png \"2. Keplersches Gesetz\")\n\n\n\n\n\n\n\n\n\n\n\n\n\n",
+      "3. Keplersches Gestez": "**Die Quadrate der** Umlaufzeiten **zweier Planeten verhalten sich wie die dritten Potenzen der großen** Halbachsen **ihrer Bahnen.**\n\n![alt text](https://www.lernort-mint.de/abbildungen/physik-astronomie-plantensystem-kepler31.png \"3. Keplersches Gesetz\")\n\n"
     },
-    "Astronomie" : {
-      "Jahreszeiten" : "**Die Jahreszeiten können in drei Schritten erklärt werden**:  \n\nDie Erde bewegt sich innerhalb eines Jahres einmal um die Sonne. Stellen Sie sich den Bereich innerhalb der Umlaufbahn als flache Scheibe vor – dies ist die Bahnebene.Die Erdachse zwischen Nord- und Südpol steht nicht im rechten Winkel zur Bahnebene, sie ist um etwa 23,4° geneigt. Stünde die Erdachse im rechten Winkel (90°) zur Bahnebene, gäbe es auf der Erde keine Jahreszeiten.Der Winkel der Erdachse bleibt im Jahresverlauf ungefähr derselbe. Da sich die Erde jedoch um die Sonne bewegt, wird sie aus unterschiedlichen Winkeln bestrahlt. Ist ein Erdteil der Sonne zugeneigt, ist dort Sommer; am gegenüberliegenden Ende der Umlaufbahn ist er ihr abgeneigt, dann herrscht dort Winter. \n\n ![](https://c.tadst.com/gfx/600x337/seasons-de.png?1)"
+    "Astronomie": {
+      "Jahreszeiten": "**Die Jahreszeiten können in drei Schritten erklärt werden**:  \n\nDie Erde bewegt sich innerhalb eines Jahres einmal um die Sonne. Stellen Sie sich den Bereich innerhalb der Umlaufbahn als flache Scheibe vor – dies ist die Bahnebene.Die Erdachse zwischen Nord- und Südpol steht nicht im rechten Winkel zur Bahnebene, sie ist um etwa 23,4° geneigt. Stünde die Erdachse im rechten Winkel (90°) zur Bahnebene, gäbe es auf der Erde keine Jahreszeiten.Der Winkel der Erdachse bleibt im Jahresverlauf ungefähr derselbe. Da sich die Erde jedoch um die Sonne bewegt, wird sie aus unterschiedlichen Winkeln bestrahlt. Ist ein Erdteil der Sonne zugeneigt, ist dort Sommer; am gegenüberliegenden Ende der Umlaufbahn ist er ihr abgeneigt, dann herrscht dort Winter. \n\n ![](https://c.tadst.com/gfx/600x337/seasons-de.png?1)"
     }
   },
-  "BWMR" : {
-    "Jahr 1" : {
-      "Sammelmappe" : "![Sammelmappe Seite 1](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-1.png)\n![Sammelmappe Seite 2](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-2.png)\n![Sammelmappe Seite 3](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-3png)\n![Sammelmappe Seite 4](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-4.png)\n![Sammelmappe Seite 5](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-5.png)\n![Sammelmappe Seite 6](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-6.png)\n![Sammelmappe Seite 7](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-7.png)\n![Sammelmappe Seite 8](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-8.png)\n![Sammelmappe Seite 9](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-9.png)\n![Sammelmappe Seite 10](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-10.png)\n![Sammelmappe Seite 11](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-11.png)\n"
+  "BWMR": {
+    "Jahr 1": {
+      "Sammelmappe": "![Sammelmappe Seite 1](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-1.png)\n![Sammelmappe Seite 2](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-2.png)\n![Sammelmappe Seite 3](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-3png)\n![Sammelmappe Seite 4](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-4.png)\n![Sammelmappe Seite 5](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-5.png)\n![Sammelmappe Seite 6](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-6.png)\n![Sammelmappe Seite 7](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-7.png)\n![Sammelmappe Seite 8](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-8.png)\n![Sammelmappe Seite 9](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-9.png)\n![Sammelmappe Seite 10](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-10.png)\n![Sammelmappe Seite 11](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-11.png)\n"
     }
   },
-  "GGP" : {
-    "Erdenarten/Bereiche" : {
-      "Borealer Bereich" : {
-        "Gleye" : "stark vom Bodenwasser beeinflusst  \nhoher Grundwasserspiegel  \nwasserundurchlässige Lehmschicht  \nlandwirtschaftlich ungeeignet",
-        "Podsole" : "leicht auswaschbar  \nMineralien versickern im Unterboden  \nstarke Humusbildung  \n landwirtschaftlich ungeeignet"
+  "GGP": {
+    "Erdenarten/Bereiche": {
+      "Borealer Bereich": {
+        "Gleye": "stark vom Bodenwasser beeinflusst  \nhoher Grundwasserspiegel  \nwasserundurchlässige Lehmschicht  \nlandwirtschaftlich ungeeignet",
+        "Podsole": "leicht auswaschbar  \nMineralien versickern im Unterboden  \nstarke Humusbildung  \n landwirtschaftlich ungeeignet"
       },
-      "Nemoraler Bereich" : {
-        "Schwarzerde" : "Oberboden dunkel(ca. 40cm tiefe Humusschicht  \ntiefgründig  \nsehr fruchtbar",
-        "Braunerde" : "am weitesten verbreitet  \neisenhaltig  \nsehr fruchtbar",
-        "Rendzina" : "flachgründiger Boden  \ngips-und kalkreich  \nlandwirtschaftlich ungeeignet  \nschnell austrocknend"
+      "Nemoraler Bereich": {
+        "Schwarzerde": "Oberboden dunkel(ca. 40cm tiefe Humusschicht  \ntiefgründig  \nsehr fruchtbar",
+        "Braunerde": "am weitesten verbreitet  \neisenhaltig  \nsehr fruchtbar",
+        "Rendzina": "flachgründiger Boden  \ngips-und kalkreich  \nlandwirtschaftlich ungeeignet  \nschnell austrocknend"
       }
     },
-    "Klimazonen" : {
-      "gemäßigte Zone" : {
-        "Informationen" : "Polarkreis bis zum 40. Breitengrad  \nUnterteilt in kalt- kühl und warmgemäßgte Zone",
-        "Kaltgemäßgte Zone" : {},
-        "Kühlgemäßigte Zone" : {},
-        "Warmgemäßigte Zone" : {}
+    "Klimazonen": {
+      "gemäßigte Zone": {
+        "Informationen": "Polarkreis bis zum 40. Breitengrad  \nUnterteilt in kalt- kühl und warmgemäßgte Zone",
+        "Kaltgemäßgte Zone": {},
+        "Kühlgemäßigte Zone": {},
+        "Warmgemäßigte Zone": {}
       },
-      "polare Zone" : "Anderer Name: Polargebiet  \nRegion im Bereicht des nördlichen Polarkreises(Arktis und Antarktis)  \nDie Temperaturen liegen das ganze Jahr unter oder nur knapp über der Nullgradgrenze  \nNiederschläge sind gering  \nSolare einstrahlung der Sonne ist reduziert (Durchschnittlich 40% weniger als am Äquator)",
-      "subpolare Zone" : "Klimazone, die den Übergang zwischen polarer und gemäßigter Klimazone bildet  \nist von halbjährlichen Wechsel von außertropischen Westwinden im Sommer und polaren Ostwinden im Winter gekennzeichnet",
-      "Tropen" : "Tageslänge von 10,5 bis 13,5 Std.  \nDie Jahreszeiten haben keine thermatischen Ausprägungen  \ntägliche Temperaturschwankungen sind größer als jährliche  \nPassivzirkulation  \nZenitalniederschlag  \nimmerfeucht bis trocken",
-      "suptropen" : "hoher Sommerwärme  \nmäßiger Winterwärme  \ntrockene, winterfeucht, sommerfeucht und immerfeuchte Subtropen  \nDefinition: Mitteltemperatur über 20 Grad Celsius, jedoch kältestr Monat nicht unter 20 Grad  \nUnterschiede zwiscchen Tag-Nacht sind hoch  \nVegetation: riesige Artenvielfalt z.B. Mittelmeerraum  \nfehlende Vegetation z.B. Savanne oder anderen Wüsten wie Sahara"
+      "polare Zone": "Anderer Name: Polargebiet  \nRegion im Bereicht des nördlichen Polarkreises(Arktis und Antarktis)  \nDie Temperaturen liegen das ganze Jahr unter oder nur knapp über der Nullgradgrenze  \nNiederschläge sind gering  \nSolare einstrahlung der Sonne ist reduziert (Durchschnittlich 40% weniger als am Äquator)",
+      "subpolare Zone": "Klimazone, die den Übergang zwischen polarer und gemäßigter Klimazone bildet  \nist von halbjährlichen Wechsel von außertropischen Westwinden im Sommer und polaren Ostwinden im Winter gekennzeichnet",
+      "Tropen": "Tageslänge von 10,5 bis 13,5 Std.  \nDie Jahreszeiten haben keine thermatischen Ausprägungen  \ntägliche Temperaturschwankungen sind größer als jährliche  \nPassivzirkulation  \nZenitalniederschlag  \nimmerfeucht bis trocken",
+      "suptropen": "hoher Sommerwärme  \nmäßiger Winterwärme  \ntrockene, winterfeucht, sommerfeucht und immerfeuchte Subtropen  \nDefinition: Mitteltemperatur über 20 Grad Celsius, jedoch kältestr Monat nicht unter 20 Grad  \nUnterschiede zwiscchen Tag-Nacht sind hoch  \nVegetation: riesige Artenvielfalt z.B. Mittelmeerraum  \nfehlende Vegetation z.B. Savanne oder anderen Wüsten wie Sahara"
     },
-    "Platten (Erdplatten z.B. Eurasien)" : {
-      "Plattenbewegungen" : {
-        "Konvektoinsströme" : "Durch diese sind 4 unterschiedliche Bewegungen der Erdplatten möchlich"
+    "Platten (Erdplatten z.B. Eurasien)": {
+      "Plattenbewegungen": {
+        "Konvektoinsströme": "Durch diese sind 4 unterschiedliche Bewegungen der Erdplatten möchlich"
       },
-      "Zonen" : {
-        "Subduktionszone" : "Eine ozeanische Platte driftet gegen eine kontinentale Platte  \nOzeanische Platte wird unter die kontinentale Platte gedrückt und wird im Erdmantel aufgelöst.  \nBsp: Anden",
-        "Scherungszone" : "Zwei Platten gleiten aneinander Vorbei  \nErdkruste reißt entlang den Verwerfungen auf  \nBsp. San-Andreas Graben in Kalifornien",
-        "Kollisionszone" : "Zwei Kontinentale Platten stoßen zusammen  \nErdkruste wird dabei zerquetscht und zu Gebirgen aufgetürmt  \nBsp. Kollision Indiens mit der Eurasischen Platte",
-        "Dehnungszone" : "Zwei Platten entfernen sich voneinander  \nEs passiert:  \n  Erdkruste reißt auf  \n  Aus dem Untergrund entfließt Magma  \n  Neue Erdkruste wird gebildet  \n\nDas passiert oft in Ozeanen (Seafloor-Spreading"
+      "Zonen": {
+        "Subduktionszone": "Eine ozeanische Platte driftet gegen eine kontinentale Platte  \nOzeanische Platte wird unter die kontinentale Platte gedrückt und wird im Erdmantel aufgelöst.  \nBsp: Anden",
+        "Scherungszone": "Zwei Platten gleiten aneinander Vorbei  \nErdkruste reißt entlang den Verwerfungen auf  \nBsp. San-Andreas Graben in Kalifornien",
+        "Kollisionszone": "Zwei Kontinentale Platten stoßen zusammen  \nErdkruste wird dabei zerquetscht und zu Gebirgen aufgetürmt  \nBsp. Kollision Indiens mit der Eurasischen Platte",
+        "Dehnungszone": "Zwei Platten entfernen sich voneinander  \nEs passiert:  \n  Erdkruste reißt auf  \n  Aus dem Untergrund entfließt Magma  \n  Neue Erdkruste wird gebildet  \n\nDas passiert oft in Ozeanen (Seafloor-Spreading"
       }
     },
-    "Gebirge entstehen" : {
-      "Kaledonische Gebirgsbildung" : {
-        "Wann" : "Vor mehr als 400 Mio Jahre",
-        "Gebirge" : "Skandinavien, Schottland, Irland",
-        "Besonderheiten" : "Die Gebirge entstanden durch den Zusammenprall des kanadischen mit dem baltiscchem Schild -> Diese Gebirge wurden überformt und haben durch die Einwirkung von Erosionskräften den (kann ich bei mir nicht lesen) von Plateaugebirgen"
+    "Gebirge entstehen": {
+      "Kaledonische Gebirgsbildung": {
+        "Wann": "Vor mehr als 400 Mio Jahre",
+        "Gebirge": "Skandinavien, Schottland, Irland",
+        "Besonderheiten": "Die Gebirge entstanden durch den Zusammenprall des kanadischen mit dem baltiscchem Schild -> Diese Gebirge wurden überformt und haben durch die Einwirkung von Erosionskräften den (kann ich bei mir nicht lesen) von Plateaugebirgen"
       },
-      "Variske Gebirgsbildung" : {
-        "Wann" : "Vor mehr als 300 Mio Jahre",
-        "Gebirge" : "Deutsches Mittelgebirge, französisches Zentralmassiv, böhmische Masse",
-        "Besonderheiten" : "Zusammenprall von Godwana mit Laurasia(/en)  \nWährend diesem Zusammenprall bildeten sich große Eisenerz- und Kohlelager"
+      "Variske Gebirgsbildung": {
+        "Wann": "Vor mehr als 300 Mio Jahre",
+        "Gebirge": "Deutsches Mittelgebirge, französisches Zentralmassiv, böhmische Masse",
+        "Besonderheiten": "Zusammenprall von Godwana mit Laurasia(/en)  \nWährend diesem Zusammenprall bildeten sich große Eisenerz- und Kohlelager"
       },
-      "Alpidische Gebirgsbildung" : {
-        "Wann" : "Vor mehr als 60 Mio Jahre (Kreidezeit/Tertiär)",
-        "Gebirge" : "Alpen, Kordilleren, Himalaja, Kaukasus, dinarisches Gebirge",
-        "Besonderheiten" : "Alle bedeutenden Hochgebirge entstanden während dieser Phase, wobei die Alpen durch den Zusammenprall der afrikanischen mit der eurasichen Platte entstanden"
-      }
-    }
-  },
-  "Technische Informatik" : {
-    "Kodierungen" : {
-      "Oktal" : {
-        "Darstellung (von 26)" : "32",
-        "Rechnung" : "32^8 = 3·8^1 + 2·8^0 = 26^10"
-      },
-      "Ascii" : {
-        "Darstellung (von 26)" : "1A",
-        "Rechnung" : "1A^16 = 1·16^1 + A·16^0 = 1^10·16^1 + 10^10·16^0 = 26^10"
-      },
-      "Binär" : {
-        "Darstellung (von 26)" : "11010",
-        "Rechnung" : "11010^2 = 1·2^4 + 1·2^3 + 0·2^2 + 1·2^1 + 0·2^0 = 26"
+      "Alpidische Gebirgsbildung": {
+        "Wann": "Vor mehr als 60 Mio Jahre (Kreidezeit/Tertiär)",
+        "Gebirge": "Alpen, Kordilleren, Himalaja, Kaukasus, dinarisches Gebirge",
+        "Besonderheiten": "Alle bedeutenden Hochgebirge entstanden während dieser Phase, wobei die Alpen durch den Zusammenprall der afrikanischen mit der eurasichen Platte entstanden"
       }
     }
   },
-  "POS" : {
-    "Esoteric languages" : {
-      "INFO" : "Everything is a esotheric language and this means that you can't use this languages profesional, except you have too much time  \nDon't take it serious! I just wanted to show some shit  \n~Steve",
-      "Arnold" : "IT'S SHOWTIME  \nTALK TO THE HAND \"hello world\"  \nYOU HAVE BEEN TERMINATED",
-      "asdf" : "asaasaasssasaasssasaaaasssasaasssasaaaaaaaasssasaaaasssasaaaasssasaasssasaasssasaasssasaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaasssasaaaaaaaasssasaaaasssasaasssasaasssasaaaasssasaaaaaaaasssasaasssasaaaaaaaaaaaasssasaaaaaasssasaasssasaaaaaasssasaasssasaaaasssasaasssasaaaaaaaasssasaasssasaaaaaasssasaaaasssasaasssasaaaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaaaasssasaasssasaaaaaaaasssasaasssasaaaaaaaasssasaa",
-      "DUP" : "'H,'e,'l,'l,'o,',,' ,'w,'o,'r,'l,'d,'!,10,",
-      "Fob" : "$:#&$Hello, World!:#<>#=",
-      "Fourier" : "72a101a108aa111a44a32a119a111a114a108a100a33a10a",
-      "F-Pulse" : "PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS CBGN[ NXT PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS LST LST LST MNS ]CEND NXT PLS PLS OUT NXT PLS OUT PLS PLS PLS PLS PLS PLS PLS OUT OUT PLS PLS PLS OUT NXT PLS PLS OUT LST LST PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS OUT NXT OUT PLS PLS PLS OUT MNS MNS MNS MNS MNS MNS OUT MNS MNS MNS MNS MNS MNS MNS MNS OUT NXT PLS OUT NXT PTN OUT",
-      "Fueue" : "PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS CBGN[ NXT PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS LST LST LST MNS ]CEND NXT PLS PLS OUT NXT PLS OUT PLS PLS PLS PLS PLS PLS PLS OUT OUT PLS PLS PLS OUT NXT PLS PLS OUT LST LST PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS OUT NXT OUT PLS PLS PLS OUT MNS MNS MNS MNS MNS MNS OUT MNS MNS MNS MNS MNS MNS MNS MNS OUT NXT PLS OUT NXT PTN OUT",
-      "Goldfish" : "0 iisiiiisiiiiiiiioniiisisioiiiiiiiooiiioniisiisddddoniisiiiiisiiiiiioniiisiisddddddddddoiiioddddddoddddddddoniiisio",
-      "Hexish" : "0902160E48656C6C6F20776F726C6421001001161508",
-      "Linguine" : "1[0=72,0$,0+29,0$,0+7,0$,0$,0+3,0$,1=32,1$,0-24,0$,0+24,0$,0+3,0$,0-6,0$,0-8,0$,1+1,1$,1-23,1$]0",
-      "Seeker" : "!chr.@chr:72.$chr.@chr:101.$chr.@chr:108.$chr.@chr:111.$chr.@chr:32.$chr.@chr:119.$chr.@chr:114.$chr.@chr:100.$chr.@chr:33.$chr._",
-      "suicid^e" : "<*vAA:\"Hello, world!\"",
-      "Thutu" : "/^=1$/Hello, world!=n=x=9/"
-    },
-    "Dont forget your daily dose of coffee" : "Programmer: a tool for converting caffeine into code ;)",
-    "C" : "```c\n#include <stdio.h>\n\nint main(void)\n{\n  printf(\"Hello World\\n\");\n  return 0; // ends the program\n}\n```",
-    "C++" : "```c++\n#include <iostream>\nusing namespace std;\nint main()\n{\n    cout << \"Hello, World!\"; // std output stream\n    return 0; // exit status\n}\n```",
-    "C#" : "```c#\nusing System;\n\nnamespace HelloWorld\n{\n    class Hello {\n        static void Main(string[] args)\n        {      // prints hello world\n            System.Console.WriteLine(\"Hello World!\");\n        }\n    }\n}\n```",
-    "Java" : "```java\nclass HelloWorld {\n    public static void main( String []args ) {\n        System.out.println( \"Hello World!\" );\n    }\n}\n```",
-    "Python" : "```python\nprint('Hello ,world');\n```",
-    "PHP" : "```php\n<?php\necho \"Hello World!\";\n?>\n```",
-    "Ruby" : "```ruby\nputs \"Hello World!\"\n```",
-    "Scala" : "```scala\nobject HelloWorld {\n  def main(args: Array[String]): Unit = {\n    println(\"Hello, world!\")\n  }\n}\n```",
-    "JavaScript" : "```js\nconsole.log('Hello World');\n```",
-    "Kotlin" : "```kotlin\nfun main(args: Array<String>) {\n    println(\"Hello World!\")\n}\n```",
-    "GebesScript" : "```\nmain\n println Hello World\n```"
+  "Technische Informatik": {
+    "Kodierungen": {
+      "Oktal": {
+        "Darstellung (von 26)": "32",
+        "Rechnung": "32^8 = 3·8^1 + 2·8^0 = 26^10"
+      },
+      "Ascii": {
+        "Darstellung (von 26)": "1A",
+        "Rechnung": "1A^16 = 1·16^1 + A·16^0 = 1^10·16^1 + 10^10·16^0 = 26^10"
+      },
+      "Binär": {
+        "Darstellung (von 26)": "11010",
+        "Rechnung": "11010^2 = 1·2^4 + 1·2^3 + 0·2^2 + 1·2^1 + 0·2^0 = 26"
+      }
+    }
   },
-  "Miscellaneous" : {
-    "Motivierende Sprüche" : {
-      "Philosophish" : "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen  \n\nPhantasie ist wichtiger als Wissen, denn Wissen ist begrenzt  \n\nEs ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst  \n\nIch habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet  \n\nAuf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr  "
+  "POS": {
+    "Esoteric languages": {
+      "INFO": "Everything is a esotheric language and this means that you can't use this languages profesional, except you have too much time  \nDon't take it serious! I just wanted to show some shit  \n~Steve",
+      "Arnold": "IT'S SHOWTIME  \nTALK TO THE HAND \"hello world\"  \nYOU HAVE BEEN TERMINATED",
+      "asdf": "asaasaasssasaasssasaaaasssasaasssasaaaaaaaasssasaaaasssasaaaasssasaasssasaasssasaasssasaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaasssasaaaaaaaasssasaaaasssasaasssasaasssasaaaasssasaaaaaaaasssasaasssasaaaaaaaaaaaasssasaaaaaasssasaasssasaaaaaasssasaasssasaaaasssasaasssasaaaaaaaasssasaasssasaaaaaasssasaaaasssasaasssasaaaasssasaaaasssasaasssasaaaasssasaaaaaasssasaaaasssasaaaasssasaasssasaaaaaaaasssasaasssasaaaaaaaasssasaa",
+      "DUP": "'H,'e,'l,'l,'o,',,' ,'w,'o,'r,'l,'d,'!,10,",
+      "Fob": "$:#&$Hello, World!:#<>#=",
+      "Fourier": "72a101a108aa111a44a32a119a111a114a108a100a33a10a",
+      "F-Pulse": "PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS CBGN[ NXT PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS LST LST LST MNS ]CEND NXT PLS PLS OUT NXT PLS OUT PLS PLS PLS PLS PLS PLS PLS OUT OUT PLS PLS PLS OUT NXT PLS PLS OUT LST LST PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS OUT NXT OUT PLS PLS PLS OUT MNS MNS MNS MNS MNS MNS OUT MNS MNS MNS MNS MNS MNS MNS MNS OUT NXT PLS OUT NXT PTN OUT",
+      "Fueue": "PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS CBGN[ NXT PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS NXT PLS PLS PLS LST LST LST MNS ]CEND NXT PLS PLS OUT NXT PLS OUT PLS PLS PLS PLS PLS PLS PLS OUT OUT PLS PLS PLS OUT NXT PLS PLS OUT LST LST PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS PLS OUT NXT OUT PLS PLS PLS OUT MNS MNS MNS MNS MNS MNS OUT MNS MNS MNS MNS MNS MNS MNS MNS OUT NXT PLS OUT NXT PTN OUT",
+      "Goldfish": "0 iisiiiisiiiiiiiioniiisisioiiiiiiiooiiioniisiisddddoniisiiiiisiiiiiioniiisiisddddddddddoiiioddddddoddddddddoniiisio",
+      "Hexish": "0902160E48656C6C6F20776F726C6421001001161508",
+      "Linguine": "1[0=72,0$,0+29,0$,0+7,0$,0$,0+3,0$,1=32,1$,0-24,0$,0+24,0$,0+3,0$,0-6,0$,0-8,0$,1+1,1$,1-23,1$]0",
+      "Seeker": "!chr.@chr:72.$chr.@chr:101.$chr.@chr:108.$chr.@chr:111.$chr.@chr:32.$chr.@chr:119.$chr.@chr:114.$chr.@chr:100.$chr.@chr:33.$chr._",
+      "suicid^e": "<*vAA:\"Hello, world!\"",
+      "Thutu": "/^=1$/Hello, world!=n=x=9/"
+    },
+    "Dont forget your daily dose of coffee": "Programmer: a tool for converting caffeine into code ;)",
+    "C": "```c\n#include <stdio.h>\n\nint main(void)\n{\n  printf(\"Hello World\\n\");\n  return 0; // ends the program\n}\n```",
+    "C++": "```c++\n#include <iostream>\nusing namespace std;\nint main()\n{\n    cout << \"Hello, World!\"; // std output stream\n    return 0; // exit status\n}\n```",
+    "C#": "```c#\nusing System;\n\nnamespace HelloWorld\n{\n    class Hello {\n        static void Main(string[] args)\n        {      // prints hello world\n            System.Console.WriteLine(\"Hello World!\");\n        }\n    }\n}\n```",
+    "Java": "```java\nclass HelloWorld {\n    public static void main( String []args ) {\n        System.out.println( \"Hello World!\" );\n    }\n}\n```",
+    "Python": "```python\nprint('Hello ,world');\n```",
+    "PHP": "```php\n<?php\necho \"Hello World!\";\n?>\n```",
+    "Ruby": "```ruby\nputs \"Hello World!\"\n```",
+    "Scala": "```scala\nobject HelloWorld {\n  def main(args: Array[String]): Unit = {\n    println(\"Hello, world!\")\n  }\n}\n```",
+    "JavaScript": "```js\nconsole.log('Hello World');\n```",
+    "Kotlin": "```kotlin\nfun main(args: Array<String>) {\n    println(\"Hello World!\")\n}\n```",
+    "GebesScript": "```\nmain\n println Hello World\n```"
+  },
+  "Miscellaneous": {
+    "Motivierende Sprüche": {
+      "Philosophish": "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen  \n\nPhantasie ist wichtiger als Wissen, denn Wissen ist begrenzt  \n\nEs ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst  \n\nIch habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet  \n\nAuf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr  "
     }
   }
 }
