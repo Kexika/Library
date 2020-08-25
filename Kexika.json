@@ -19,7 +19,7 @@
           "Bsp" : "**Funktion**\n\nf(x)=int(x)\n\n![1.4 - Graphs of Functions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpeople.richland.edu%2Fjames%2Flecture%2Fm116%2Ffunctions%2Fint.gif&f=1&nofb=1)"
         }
       },
-      "Fixpunkt" : "![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\nBei einem Fixpunkt sind x und y gleich"
+      "Fixpunkt" : "![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\nBei einem Fixpunkt sind x und y gleich",
     },
     "Geometrie" : {
       "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
@@ -92,9 +92,8 @@
         "WICHTIG" : "Merke dir IMMER SOH CAH TOA"
       }
     },
-    "Teilbarkeitsregeln" : {
       "Teilbarkeitsregeln natürliche Zahlen" : "* A natural number is divisible by **10** if the last digit is equal to 0.\n\n* A natural number is divisible by **9** if the sum of its digits is divisible by 9.\n\n* A natural number is divisible by **4** if the number formed by the last two digits is divisible by 4.\n\n* A natural number is divisible by **8** if the number formed by the last three digits is divisible by 8.\n\n* A natural number is divisible by **5** if the last digit is 5 or 0.\n\n* A natural number is divisible by **6** if the number is divisible by both 2 and 3."
-    }
+ , "Die 4 Grundrechnugsarten, Rechenregeln": "# 1) Addition\na + b = c  \na, b ... Summanden  \nc ... Summe\n# 2) Subtraktion\na - b = c  \na ... Minuend  \nb ... Subtrahend  \nc ... Differenz\n# 3) Multiplikation\na * b = c  \na, b ... Faktoren  \nc ... Produkt\n# 4) Division\na : b = c  \na ... Divident  \nb ... Divisor  \nc ... Quotient"   
   },
   "English" : {
     "Grammar" : {
