@@ -19,7 +19,7 @@
           "Bsp" : "**Funktion**\n\nf(x)=int(x)\n\n![1.4 - Graphs of Functions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpeople.richland.edu%2Fjames%2Flecture%2Fm116%2Ffunctions%2Fint.gif&f=1&nofb=1)"
         }
       },
-      "Fixpunkt" : "Bei einem Fixpunkt sind x und y gleich.  \n\n# Beispeil\ny = 2x - 4   **Berechne den Fixpunkt**   \nDas Problem ist, wir haben zwei Unbekannte, scheiße oder?  \nUm den zu bekommen ersetzen wir y einfach durch x und rechnen es aus.  \nx = 2x - 4   **Ersetze y durch x**  \nx = 4   **Berechne x**   \n\n![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\n"
+      "Fixpunkt" : "Bei einem Fixpunkt sind x und y gleich.  \n\n# Beispiel\ny = 2x - 4   **Berechne den Fixpunkt**   \nDas Problem ist, wir haben zwei Unbekannte, scheiße oder?  \nUm den zu bekommen ersetzen wir y einfach durch x und rechnen es aus.  \nx = 2x - 4   **Ersetze y durch x**  \nx = 4   **Berechne x**\n\n![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\n"
     },
     "Geometrie" : {
       "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
