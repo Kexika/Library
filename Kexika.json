@@ -1,6 +1,6 @@
 {
-  "Über die App" : "Stell dir einen Stapel von all den Büchern und Heftern vor, die wir dieses Jahr benötigt haben. Stellst du es dir gut vor? Groß gell? Das ist aber erst der Stoff vom ersten Jahr, wie groß wird der bitte in 4 Jahren sein?!  \nDa wir aber schlaue Informatiker sind, arbeiten wir alle an diesem Projekt mit, um den gesamten Schulstoff immer und überall per Knopfdruck abrufen zu können - also wir scheißen auf den Stapel.\n\n# Contribution\nDas Projekt ist frei zugänglich für jeden, aber irgendwer muss doch was eintragen? Das Projekt lebt von der Community, die sich die Mühe gibt, für sich selber und das Leben der Mitmenschen zu vereinfachen\n* Christoph\n* Fabian\n* Julian\n* Stefan\n* Jonny\n* Markus\n* Kulmer\n* Gülly\n",
-  "Mathe" : {
+  "Über das Projekt" : "Stell dir einen Stapel von all den Büchern und Heftern vor, die wir dieses Jahr benötigt haben. Stellst du es dir gut vor? Groß gell? Das ist aber erst der Stoff vom ersten Jahr, wie groß wird der bitte in 4 Jahren sein?!  \nDa wir aber schlaue Informatiker sind, arbeiten wir alle an diesem Projekt mit, um den gesamten Schulstoff immer und überall per Knopfdruck abrufen zu können - also wir scheißen auf den Stapel.\n\n# Contribution\nDas Projekt ist frei zugänglich für jeden, aber irgendwer muss doch was eintragen? Das Projekt lebt von der Community, die sich die Mühe gibt, für sich selber und das Leben der Mitmenschen zu vereinfachen\n* Christoph\n* Fabian\n* Julian\n* Stefan\n* Jonny\n* Markus\n* Kulmer\n* Gülly\n",
+  "Mathematik" : {
     "Funktionen" : {
       "Nullpunkt" : "Ein Punkt mit y-Wert `0`\n\nEine Lineare Funktion hat nur einen Nullpunkt, doch es kann mehrere Nullpunkte generell geben",
       "Relation - Funktion" : "# Die Relation\nBeschreibt eine Beziehung zwischen Zahlen/Mengen.\nJedem Element x aus der Definitionsmenge D können **beliebig viele** Elemente y aus der Wertemenge zugeordnet werden.\n\n# Die Funktion *(eine besondere Relation)*\nJedem Element aus der Definitionsmenge D wird **genau ein** Element y aus der Wertemenge zugeordnet.\nWenn mehrere oder garkeine Werte zugeordnet sind, dann ist es keine Funktion :c",
@@ -280,7 +280,7 @@
       "Sammelmappe" : "![Sammelmappe Seite 1](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-1.png)\n![Sammelmappe Seite 2](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-2.png)\n![Sammelmappe Seite 3](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-3png)\n![Sammelmappe Seite 4](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-4.png)\n![Sammelmappe Seite 5](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-5.png)\n![Sammelmappe Seite 6](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-6.png)\n![Sammelmappe Seite 7](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-7.png)\n![Sammelmappe Seite 8](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-8.png)\n![Sammelmappe Seite 9](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-9.png)\n![Sammelmappe Seite 10](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-10.png)\n![Sammelmappe Seite 11](https://artikel.gebes.eu/bwmr/sammelmappe1/mac-document10AeavFoAZFLVOGuOt-11.png)\n"
     }
   },
-  "GGP" : {
+  "Geografie" : {
     "Erdenarten/Bereiche" : {
       "Borealer Bereich" : {
         "Gleye" : "stark vom Bodenwasser beeinflusst  \nhoher Grundwasserspiegel  \nwasserundurchlässige Lehmschicht  \nlandwirtschaftlich ungeeignet",
@@ -349,7 +349,7 @@
       }
     }
   },
-  "POS" : {
+  "Programmieren" : {
     "Esoteric languages" : {
       "INFO" : "Everything is a esotheric language and this means that you can't use this languages profesional, except you have too much time  \nDon't take it serious! I just wanted to show some shit  \n~Steve",
       "Arnold" : "IT'S SHOWTIME  \nTALK TO THE HAND \"hello world\"  \nYOU HAVE BEEN TERMINATED",
@@ -379,10 +379,10 @@
     "Kotlin" : "```kotlin\nfun main(args: Array<String>) {\n    println(\"Hello World!\")\n}\n```",
     "GebesScript" : "```\nmain\n println Hello World\n```"
   },
-  "HTML" : {
+  "Web Entwicklung" : {
     "Basics" : "# <html> </html>\nThese tags are used at the beginning and the end of an HTML document.  \nThose are also known as the \"root elements\" They tell us, that the document  \nis written in HTML5 and that all other tags in it are HTML formatted  \n\n# <head> </head>\nThis tags include title tags, meta descriptions and links to script  \nand style sheets.  \n\n# <title> </title>\nThis is used for the title tag of the page. Here you place the title tag of the page  \nwhich is useful for search engine and user  \n\n# <body> </body>\nHere you place everything the user can see on the webpage. This includes text,  \nimages and graphic elements  \n\n# <header> </header>\nThis is used for navigation bar or something like this  \n\n# <main> </main>\nHere (normally) comes the main content except navigation bar and footer  \nbut most people ignore the main tag, but I don't want that YOU forget about   \nit. If you use those, your HTML file will look ways better!   \n\n# <footer> </footer>\nThis tags are for the footer  \nIt tells about copyright, links to cockies and also privacy policy   \n\n# <style> </style>\nIn this section you can put stylesheets like CSS  \n\n# <script> </script>\nIn this section you can put Script-languages Files like Javascript\n"
   },
-  "Miscellaneous" : {
+  "Sonstiges" : {
     "Motivierende Sprüche" : {
       "Philosophish" : "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen  \n\nPhantasie ist wichtiger als Wissen, denn Wissen ist begrenzt  \n\nEs ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst  \n\nIch habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet  \n\nAuf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr  "
     }
