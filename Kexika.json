@@ -19,7 +19,11 @@
           "Bsp" : "**Funktion**\n\nf(x)=int(x)\n\n![1.4 - Graphs of Functions](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fpeople.richland.edu%2Fjames%2Flecture%2Fm116%2Ffunctions%2Fint.gif&f=1&nofb=1)"
         }
       },
-      "Fixpunkt" : "Bei einem Fixpunkt sind x und y gleich.  \n\n# Beispiel\ny = 2x - 4   **Berechne den Fixpunkt**   \nDas Problem ist, wir haben zwei Unbekannte, scheiße oder?  \nUm den zu bekommen ersetzen wir y einfach durch x und rechnen es aus.  \nx = 2x - 4   **Ersetze y durch x**  \nx = 4   **Berechne x**\n\n![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\n"
+      "Fixpunkt" : "Bei einem Fixpunkt sind x und y gleich.  \n\n# Beispiel\ny = 2x - 4   **Berechne den Fixpunkt**   \nDas Problem ist, wir haben zwei Unbekannte, scheiße oder?  \nUm den zu bekommen ersetzen wir y einfach durch x und rechnen es aus.  \nx = 2x - 4   **Ersetze y durch x**  \nx = 4   **Berechne x**\n\n![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\n",
+      "String" : "",
+      "Lineare Gleichungssysteme" : {
+        "Eliminationsverfahren" : "## Beispiel\n\nI: 4x + y = 16\n \nII: 4x - 2y = - 8          Grundmenge: ℚ  \n\n## 1. Schritt:\nBeim Eliminationsverfahren werden die beiden Gleichungen mit dem Ziel addiert, dass sich eine Variable neutralisiert (Summe 0).\n\nWir entscheiden uns hier für y.\n\nUm die Summe 0 von y zu erhalten müssen wir die 2. Gleichung durch 2 dividieren. \n\nI: 4x + y = 16\nII: 4x - 2y  = - 8     / : 2 \n \nI: 4x + y = 16\nII: 2x - y  = - 4\n6x = 12  / : 6\n\nx = 2\n\n## 2. Schritt:\nWenn man die Lösung von x in eine der ursprünglichen Gleichungen einsetzt, erhält man den Wert der Variablen y!\n\nz.B. 4 * 2 + y = 16\n\n8 + y = 16   / - 8\ny = 8\n\n## 3. Schritt: \nWir bestimmen die Lösungsmenge!\n\nL = {2; 8}\n\n## 4. Schritt:\nWir machen die Probe: \n\nI: 42 + 8 =t 16\n \nII: 42 - 2*8 = - 8       \n \nI: 8 + 8 = 16\n \nII: 8 - 16 = - 8    \n \nI: 16 ist gleich 16  wahre Aussage\n \nII: - 8 ist gleich - 8 wahre Aussage\n\n"
+      }
     },
     "Geometrie" : {
       "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
