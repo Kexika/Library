@@ -27,7 +27,7 @@
       },
       "Fixpunkt" : "Bei einem Fixpunkt sind x und y gleich.  \n\n# Beispiel\ny = 2x - 4   **Berechne den Fixpunkt**   \nDas Problem ist, wir haben zwei Unbekannte, scheiße oder?  \nUm den zu bekommen ersetzen wir y einfach durch x und rechnen es aus.  \nx = 2x - 4   **Ersetze y durch x**  \nx = 4   **Berechne x**\n\n![](https://www.mein-lernen.at/images/Fixpunkt-lineare-Funktion-1.png)\n",
       "Potenzfunktion" : "![](https://i.imgur.com/U5g2jQT.png)",
-      "Exponentialfunktion" : "![](https://i.imgur.com/U5g2jQT.png)"
+      "Exponentialfunktion" : "![](https://i.imgur.com/U5g2jQT.png)\n\n# Alle Exponentialfunktionen gehen durch den Punkt P(0|1)\nJede Zahl hoch 0 ergibt 1, deswegen gehen alle durch diesen Punkt\n\n![](https://i.imgur.com/8hsJPX9.png)\n\n# Berührt nie die x-Achse\nIm negativen Bereich, berührt die Funktion niemals die x-Achse, der y-Wert wird immer kleiner und kleiner aber nie 0!\n![](https://i.imgur.com/fA6WyXj.png)"
     },
     "Geometrie" : {
       "Rechteck" : "**Eigenschaften**\n\n* u = 2 * (a + b)\n* A = a * b\n* d halbiert sich und w\n* Das Dreieck MBC ist gleichschenkelig\n\n![Rechteck Skizze von der Stückler](https://artikel.gebes.eu/mathe/rechteck.png)",
