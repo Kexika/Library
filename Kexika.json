@@ -391,6 +391,9 @@
     }
   },
   "Programmieren" : {
+    "Web Entwicklung" : {
+      "Basics" : "# <html> </html>\nThese tags are used at the beginning and the end of an HTML document.  \nThose are also known as the \"root elements\" They tell us, that the document  \nis written in HTML5 and that all other tags in it are HTML formatted  \n\n# <head> </head>\nThis tags include title tags, meta descriptions and links to script  \nand style sheets.  \n\n# <title> </title>\nThis is used for the title tag of the page. Here you place the title tag of the page  \nwhich is useful for search engine and user  \n\n# <body> </body>\nHere you place everything the user can see on the webpage. This includes text,  \nimages and graphic elements  \n\n# <header> </header>\nThis is used for navigation bar or something like this  \n\n# <main> </main>\nHere (normally) comes the main content except navigation bar and footer  \nbut most people ignore the main tag, but I don't want that YOU forget about   \nit. If you use those, your HTML file will look ways better!   \n\n# <footer> </footer>\nThis tags are for the footer  \nIt tells about copyright, links to cockies and also privacy policy   \n\n# <style> </style>\nIn this section you can put stylesheets like CSS  \n\n# <script> </script>\nIn this section you can put Script-languages Files like Javascript\n"
+    },
     "Esoteric languages" : {
       "INFO" : "Everything is a esotheric language and this means that you can't use this languages profesional, except you have too much time  \nDon't take it serious! I just wanted to show some shit  \n~Steve",
       "Arnold" : "IT'S SHOWTIME  \nTALK TO THE HAND \"hello world\"  \nYOU HAVE BEEN TERMINATED",
@@ -407,21 +410,20 @@
       "suicid^e" : "<*vAA:\"Hello, world!\"",
       "Thutu" : "/^=1$/Hello, world!=n=x=9/"
     },
-    "Dont forget your daily dose of coffee" : "Programmer: a tool for converting caffeine into code ;)",
-    "C" : "```c\n#include <stdio.h>\n\nint main(void)\n{\n  printf(\"Hello World\\n\");\n  return 0; // ends the program\n}\n```",
-    "C++" : "```c++\n#include <iostream>\nusing namespace std;\nint main()\n{\n    cout << \"Hello, World!\"; // std output stream\n    return 0; // exit status\n}\n```",
-    "C#" : "```c#\nusing System;\n\nnamespace HelloWorld\n{\n    class Hello {\n        static void Main(string[] args)\n        {      // prints hello world\n            System.Console.WriteLine(\"Hello World!\");\n        }\n    }\n}\n```",
-    "Java" : "```java\nclass HelloWorld {\n    public static void main( String []args ) {\n        System.out.println( \"Hello World!\" );\n    }\n}\n```",
-    "Python" : "```python\nprint('Hello ,world');\n```",
-    "PHP" : "```php\n<?php\necho \"Hello World!\";\n?>\n```",
-    "Ruby" : "```ruby\nputs \"Hello World!\"\n```",
-    "Scala" : "```scala\nobject HelloWorld {\n  def main(args: Array[String]): Unit = {\n    println(\"Hello, world!\")\n  }\n}\n```",
-    "JavaScript" : "```js\nconsole.log('Hello World');\n```",
-    "Kotlin" : "```kotlin\nfun main(args: Array<String>) {\n    println(\"Hello World!\")\n}\n```",
-    "GebesScript" : "```\nmain\n println Hello World\n```"
-  },
-  "Web Entwicklung" : {
-    "Basics" : "# <html> </html>\nThese tags are used at the beginning and the end of an HTML document.  \nThose are also known as the \"root elements\" They tell us, that the document  \nis written in HTML5 and that all other tags in it are HTML formatted  \n\n# <head> </head>\nThis tags include title tags, meta descriptions and links to script  \nand style sheets.  \n\n# <title> </title>\nThis is used for the title tag of the page. Here you place the title tag of the page  \nwhich is useful for search engine and user  \n\n# <body> </body>\nHere you place everything the user can see on the webpage. This includes text,  \nimages and graphic elements  \n\n# <header> </header>\nThis is used for navigation bar or something like this  \n\n# <main> </main>\nHere (normally) comes the main content except navigation bar and footer  \nbut most people ignore the main tag, but I don't want that YOU forget about   \nit. If you use those, your HTML file will look ways better!   \n\n# <footer> </footer>\nThis tags are for the footer  \nIt tells about copyright, links to cockies and also privacy policy   \n\n# <style> </style>\nIn this section you can put stylesheets like CSS  \n\n# <script> </script>\nIn this section you can put Script-languages Files like Javascript\n"
+    "Need to know languages" : {
+      "GebesScript" : "```\nmain\n println Hello World\n```",
+      "Kotlin" : "```kotlin\nfun main(args: Array<String>) {\n    println(\"Hello World!\")\n}\n```",
+      "JavaScript" : "```js\nconsole.log('Hello World');\n```",
+      "Scala" : "```scala\nobject HelloWorld {\n  def main(args: Array[String]): Unit = {\n    println(\"Hello, world!\")\n  }\n}\n```",
+      "Ruby" : "```ruby\nputs \"Hello World!\"\n```",
+      "PHP" : "```php\n<?php\necho \"Hello World!\";\n?>\n```",
+      "Python" : "```python\nprint('Hello ,world');\n```",
+      "Java" : "```java\nclass HelloWorld {\n    public static void main( String []args ) {\n        System.out.println( \"Hello World!\" );\n    }\n}\n```",
+      "C#" : "```c#\nusing System;\n\nnamespace HelloWorld\n{\n    class Hello {\n        static void Main(string[] args)\n        {      // prints hello world\n            System.Console.WriteLine(\"Hello World!\");\n        }\n    }\n}\n```",
+      "C++" : "```c++\n#include <iostream>\nusing namespace std;\nint main()\n{\n    cout << \"Hello, World!\"; // std output stream\n    return 0; // exit status\n}\n```",
+      "C" : "```c\n#include <stdio.h>\n\nint main(void)\n{\n  printf(\"Hello World\\n\");\n  return 0; // ends the program\n}\n```",
+      "Dont forget your daily dose of coffee" : "Programmer: a tool for converting caffeine into code ;)"
+    }
   },
   "Sonstiges" : {
     "Motivierende Sprüche" : {
