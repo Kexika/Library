@@ -338,7 +338,9 @@
       }
     }
   },
-  "Geschichte" : {},
+  "Geschichte" : {
+    "Noten" : "Es gibt keine Schularbeiten aber es gibt pro Semester einen Test.  \nDer Rest der Note wird von der Mitarbeit bestimmt (alle mündlichen und schriftlichen Leistungen)"
+  },
   "Geografie" : {
     "Erdenarten/Bereiche" : {
       "Borealer Bereich" : {
