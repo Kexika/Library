@@ -426,7 +426,8 @@
       "C++" : "```c++\n#include <iostream>\nusing namespace std;\nint main()\n{\n    cout << \"Hello, World!\"; // std output stream\n    return 0; // exit status\n}\n```",
       "C" : "```c\n#include <stdio.h>\n\nint main(void)\n{\n  printf(\"Hello World\\n\");\n  return 0; // ends the program\n}\n```",
       "Dont forget your daily dose of coffee" : "Programmer: a tool for converting caffeine into code ;)"
-    }
+    },
+    "Algos" : "# Alle Algorythmen für das Jahr\n\n* Bubblesort\n* Insertion Sort\n* Selection Sort\n* Recursion\n* Divide & Conquer\n* Quicksirt\n* Mergesort\n* Hashtables\n* Breadth - first search (Breitensuche)\n* Dijkstra's algorithm\n* Greedy algorithms\n* Dynamische OProgrammierung\n* k-nächste Nachbarn"
   },
   "Sonstiges" : {
     "Motivierende Sprüche" : {
