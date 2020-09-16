@@ -339,7 +339,15 @@
       }
     }
   },
-  "Geschichte" : {},
+  "Geschichte" : {
+    "Historische Gebäude" : {
+      "Stonehenge" : "Man geht davon aus, das dieses Bauwerk in Süd-England erbaut wurde, um die Uhrzeit zu sagen. Man hat halt leider kaum historische Quellen"
+    },
+    "Fremdwörter" : {
+      "in medias res" : "Mitten in die Dinge (hinein); direkt in der Mitte beginnen"
+    },
+    "Quellen" : "- sind Überbleibsel aus der Vergangenheit\n- \"beantworten unsere Fragen\"\n- sind Medien des Erinnerns\n- geben Information über geschichtliche Abläufe, Denk- und Verhaltensweisen"
+  },
   "Geografie" : {
     "Erdenarten/Bereiche" : {
       "Borealer Bereich" : {
