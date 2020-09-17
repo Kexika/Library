@@ -445,6 +445,7 @@
   "Chemie" : {
     "Warnsymbole" : "![](https://i.imgur.com/7TyYv2z.png)\n![](https://i.imgur.com/Zd2D86p.png)",
     "The Four States of Matter (=Aggregatzustände)" : "![](https://fitz6.files.wordpress.com/2012/02/statesofmatter.gif)\n![](https://viamedici.thieme.de/api/images/l/b/r/i/e/f/chemie_000600_steckbrief.png?15798592463670000)\n![](https://www.scinexx.de/wp-content/uploads/p/l/plasma04g.jpg)\n\n",
-    "Sublimation of iodine" : "Sublimation of iodine (Iod, I₂)\n![](https://i.imgur.com/8oo8oVG.png)"
+    "Sublimation of iodine" : "Sublimation of iodine (Iod, I₂)  \nFärbt sich Lila und lässt Kristalle übrig nach dem abkühlen",
+    "Phase Diagram for Water" : "\n![](https://i.imgur.com/8oo8oVG.png)\n![](https://i.imgur.com/PPfQPPV.png)\n\n1. Triple point is the temperature and pressure at which the three phases of a substance coexist. Critical point is, when  at higher temperatures the gas cannot be liquified by pressure alone\n2. solid - > liquid - > gaseous\n3. gaseous - > solid - > liquid \n4. it changes either from solid to gaseous or from gaseous to solid\n5. -56,6 °C\n6. yes\n7. it changes either from solid to liquid or from liquid to solid\n8. -57.7°C; 72.9 atm; 7390 KPa \n9. super critical point\n10. -56.6°C \n\n\n# KPa: Kilopascal\n1000 Newtons per square metre (or 1 atm) is defined as 101.325 kPa.\n\n# Water\nHas the highest density at 4 °C.\nϱ = RHO\nϱ = m/v (Dichte ist Masse durch Volumen)\n \n# atm: standard atmosphere\nThe standard atmosphere is a unit of pressure defined as 101325 Pa (1.01325 bar). It is sometimes used as a reference or standard pressure. It is approximately equal to Earth's atmospheric pressure at sea level.\n"
   }
 }
