@@ -262,8 +262,11 @@
     "Vater Unser" : "Vater unser im Himmel  \ngeheiligt werde dein Name.  \nDein Reich komme.  \nDein Wille geschehe,  \nwie im Himmel, so auf Erden.  \nUnser tägliches Brot gib uns heute.  \nUnd vergib uns unsere Schuld,  \nwie auch wir vergeben unsern Schuldigern  \nUnd führe uns nicht in Versuchung,  \nsondern erlöse uns von dem Bösen  \nDenn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit."
   },
   "English" : {
+    "General" : {
+      "Top 10 Best Paid Jobs" : "## 10. Psychologist\n\n## 9. Computer System Manager\n\n## 8. Marketing Manager\n\n## 7. Natural Science Manager\n\n## 6. Archtiecture Engineering Manager\n\n## 5. Lawyers\n\n## 4. Patroleon Engineer\n\n## 3. CEO\n\n## 2. Dentist\n\n## 1. Doctors and Surgeons\n\nwtf"
+    },
     "Grammar" : {
-      "All tenses" : "# Simple Present\nI **play** basketball every week.\n\n# Present Progressive\nI'm **playing** basketball nopw.\n\n# Simple Past\nI **played** basketball yesterday.\n\n# Past Progressive\nI **was playing** basketball the whole evening.\n\n# Present Perfect\nI **have** just **played** basketball.\n\n# Present Perfect Progressive\nI **have been playing** basketball for 3 hours.\n\n# Past Perfect\nI **had played** basketball before mMry came.\n\n# Past Perfect progressive\nI **had been playing** basketball when Mary came.\n\n# Future - will\nI **will play** basketball next week.\n\n# Future - going to\nI'm **going to play** basketball this afternoon.\n\n# Future Progressive\nI **will be playing** basketball next Sunday.\n\n# Future Perfect\nI **will have played** basketball by tomorrow.",
+      "All tenses" : "# Simple Present\nI **play** basketball every week.\n\n# Present Progressive\nI'm **playing** basketball nopw.\n\n# Simple Past\nI **played** basketball yesterday.\n\n# Past Progressive\nI **was playing** basketball the whole evening.\n\n# Present Perfect\nI **have** just **played** basketball.\n\n# Present Perfect Progressive\nI **have been playing** basketball for 3 hours.\n\n# Past Perfect\nI **had played** basketball before Mary came.\n\n# Past Perfect progressive\nI **had been playing** basketball when Mary came.\n\n# Future - will\nI **will play** basketball next week.\n\n# Future - going to\nI'm **going to play** basketball this afternoon.\n\n# Future Progressive\nI **will be playing** basketball next Sunday.\n\n# Future Perfect\nI **will have played** basketball by tomorrow.",
       "plural nouns" : "one dog - four dog**s**  \none horse - two horse**s**  \none bab**y** - three bab**ies**  \none bo**y** - three bo**ys**  \n\nKommt vor \"**y**\" ein Selbstlaut (a, e, i, o, u) -> **-ys**  \nKommt vor \"**y**\" ein Mitlaut -> **-ies**  ",
       "Asking questions" : "What's your name?\n\n* My name is Christoph\n* I'm Christoph\n* I am Christoph\n\n**I am = I'm**  \n\nHow are you?  \n\n* I'm fine thanks\n* I'm sad\n* I'm happy\n* I'm tired\n* I feel good, thanks.",
       "Imperatives" : "Open the books**!**  \nOpen the window!  \nSit down!  \nClose the window!  \nStand up!  \nClose your eyes!  \nClean the board!  \n\nDon't stand up!  \nDon't close the window!  \nDon't open the book!  \nDon't close the door!  \nDon't clean the board!  \nDon't speak!  \n\n**Don't = Do not**  ",
@@ -347,7 +350,8 @@
       "Stonehenge" : "Man geht davon aus, das dieses Bauwerk in Süd-England erbaut wurde, um die Uhrzeit zu sagen. Man hat halt leider kaum historische Quellen"
     },
     "Fremdwörter" : {
-      "in medias res" : "Mitten in die Dinge (hinein); direkt in der Mitte beginnen"
+      "in medias res" : "Mitten in die Dinge (hinein); direkt in der Mitte beginnen",
+      "Satire" : "überspitzt darstellen (z.B. die Tagespresse)"
     },
     "Quellen" : "- sind Überbleibsel aus der Vergangenheit\n- \"beantworten unsere Fragen\"\n- sind Medien des Erinnerns\n- geben Information über geschichtliche Abläufe, Denk- und Verhaltensweisen\n\n# Primär- und Sekundärquellen\n\"Historiker bezeichnen historische Dokumente, die zur Zeit des jeweiligen Ereignisses oder kurz danach entstanden sind, oft als 'Primärquellen'. 'Sekundärquellen' sind Arbeiten anderer, späterer Autoren […] die Trennlinie zwischen bewiden Quellenarten ist schwer zu ziehen, […] denn 'Sekundärquellen' sind ebenfalls \n'Primärquellen' ihrer eigenen Zeit.\""
   },
