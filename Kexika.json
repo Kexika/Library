@@ -188,8 +188,13 @@
       "Zäsur" : "starke Veränderung",
       "zyklisch" : "kreisförmig oder wiederkehrend",
       "zynisch" : "spä´öttisch oder auf grausame, den Anstand beleidigende Weise",
-      "Semantik" : "Lehre von der Bedeutung",
-      "Syntax" : "Lehre von den Sätzen"
+      "Semantik" : "Lehre von d. Bedeutung",
+      "Syntax" : "Lehre von den Sätzen",
+      "Synonym" : "gleichbedeutende Wörter",
+      "Denotation" : "Hauptbedeutung",
+      "Konnotation" : "Nebenbedeutung",
+      "Antlitz" : "Positiver Synonym für Gesicht",
+      "Fratze/Fresse" : "Negativer Ausdruck fürs Gesicht"
     },
     "Grammatik" : {
       "Besondere Rechtschreibung" : {
