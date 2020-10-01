@@ -194,7 +194,21 @@
       "Denotation" : "Hauptbedeutung",
       "Konnotation" : "Nebenbedeutung",
       "Antlitz" : "Positiver Synonym für Gesicht",
-      "Fratze/Fresse" : "Negativer Ausdruck fürs Gesicht"
+      "Fratze/Fresse" : "Negativer Ausdruck fürs Gesicht",
+      "Demenz" : "Krankheit mit Gedächtnisverlust",
+      "rabiat" : "aggressiv",
+      "stupid" : "dumm, unnötig",
+      "komplex" : "groß, umfassend",
+      "Kompetenz" : "Fähigkeit",
+      "Kommunikation" : "Austausch => Absicht dahinter (verbal, nonverbal)",
+      "effizient" : "ressourcenschonend arbeiten",
+      "Kollektiv" : "zusammen",
+      "passiv" : "zurückhaltend",
+      "differenzieren" : "unterscheiden",
+      "Lobby" : "Interessengemeinschaft",
+      "Pessimist" : "negative Einstellung",
+      "Klientel" : "Zielgruppe",
+      "populärwissenschaftlich" : "Ein Buch welches für die Bevölkerung verständlich ist"
     },
     "Grammatik" : {
       "Besondere Rechtschreibung" : {
@@ -265,7 +279,7 @@
       "Das Adverb (Umstandswort)" : "Das Adverb ist nicht flektierbar - auf Deutsch: nicht veränderbar\n\n# Lokal Adverb (Ort)\nda, dort, ier, drüben, oben ...\n\n# Temporal Adverb (Zeit)\ndamals, gestern, heute, nun mittags ...\n\n# Modal Adverb (Art)\nso, gern, eilends, besonders, zutiefst, derart ...\n\n# Kausal-Adverb (Grund)\ndarum, deshalb, sonst ...",
       "Die Konjunktion" : "# nebenordnende Konjunktionen\nund, oder, aber, denn...\n\n# unterordnende Konjunktionen (leiten Gliedsätze ein)\nda, weil, bevor, dass, bis, indem...",
       "Interjektion" : "ah, oh…",
-      "Reden" : "\n# Direkte Rede\nEr sagte: \"Ich bin müde.\"  \n\n# Indirekte Rede\nEr sagte, er sei müde."
+      "Reden" : "\n# Direkte Rede\nEr sagte: \"Ich bin müde.\"  \n\n# Indirekte Rede\nEr sagte, er sei müde.\n\n## Redekommentierung\nAussage verändern.  "
     },
     "Vater Unser" : "Vater unser im Himmel  \ngeheiligt werde dein Name.  \nDein Reich komme.  \nDein Wille geschehe,  \nwie im Himmel, so auf Erden.  \nUnser tägliches Brot gib uns heute.  \nUnd vergib uns unsere Schuld,  \nwie auch wir vergeben unsern Schuldigern  \nUnd führe uns nicht in Versuchung,  \nsondern erlöse uns von dem Bösen  \nDenn dein ist das Reich und die Kraft und die Herrlichkeit in Ewigkeit."
   },
