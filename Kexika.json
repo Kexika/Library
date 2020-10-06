@@ -619,6 +619,10 @@
   "Spanisch#006e18" : {
     "Ausprache" : {
       "Buchstaben" : "C gefolgt von i/e = „th“  \nC gefolgt von a/o/u = „k“  \nG gefolgt von e/i = „ch“  \nG gefolgt von a/o/u = „O“  \nZ ist immer „th“  \nJ ist immer „ch“  \nCh ist immer „tsch“  \nV ist immer „b”    \nDoppel l (ll) ist immer „j”  \n"
+	},
+	"Übersetzungen" : {
+      "Wörter" : "Abeja = Biene  \nBarca = Schiff  \nCama = Bett  \nChaqueta = Jacke / Jackett  \nDados = Würfel  \nElefante = Elefant  \nFruta = Früchte\nGafas = Brillen  \nHoja = Blatt  \nInsecto = Insekt  \nJabón = Seife  \nKoala = Koala  \nLeer = lesen  \nLlave = Schlüssel  \nMazana = Apfel  \nNido = Nest  \nArana = Spinne  \nOro = Gold  \nPez = Fisch  \nQueso = Käse  \nReina = Königin  \nPerro = Hund  \nSilla = Sessel  \nTambor = Trommel   \nUvas = Trauben  \nVaca = Kuh  \nXilofono = Xylophon  \nYogur = Jogurt  \nZapato = Schuh",
+	  "Phrasen" : "¡Hola! ¿Qué tal?: Hallo, wie geht es Ihnen?  \n¡Hola! Me llamo: Hallo, ich heiße ….  \n¡Hola (yo) soy!: Hallo ich bin  \nMira, éste / ésta es : (Mira: Aufmerksamkeit erwecken) éste: maskulin, esta: feminin  \nmi amigo / a se llama  \n¡Mucho gusto!: Sehr erfreut   "
 	}
   },
   "Sonstiges" : {
