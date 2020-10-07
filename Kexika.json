@@ -598,7 +598,7 @@
     },
     "Algorythmen" : {
       "Auflistung der Algos aus dem ersten Jahr" : "# Alle Algorythmen für das Jahr\n\n* Bubblesort\n* Insertion Sort\n* Selection Sort\n* Recursion\n* Divide & Conquer\n* Quicksirt\n* Mergesort\n* Hashtables\n* Breadth - first search (Breitensuche)\n* Dijkstra's algorithm\n* Greedy algorithms\n* Dynamische OProgrammierung\n* k-nächste Nachbarn",
-      "Bubblestort" : "\nBeim Bubblesort wird der Nachbar eines Elements untersucht, ob sie das Suchkriterum erfüllen. Sollte dies nicht zutreffen, wird eines der beiden ausgewechselt, so dass dies wieder übereinstimmt. Das letzte Element (am Ende des Arrays) wird immer das Suchkriterum erfüllen.\n\n![](https://thumbs.gfycat.com/ExaltedInconsequentialDwarfrabbit-size_restricted.gif)"
+      "Bubblestort" : "\nBeim Bubblesort wird der Nachbar eines Elements untersucht, ob sie das Suchkriterum erfüllen. Sollte dies nicht zutreffen, wird eines der beiden ausgewechselt, so dass dies wieder übereinstimmt. Das letzte Element (am Ende des Arrays) wird immer das Suchkriterum erfüllen.\n\n![](https://thumbs.gfycat.com/ExaltedInconsequentialDwarfrabbit-size_restricted.gif)",
 	  "Rekursion" : "# Rekursion (Java)\n\n\n```\npublic class Test {  \n    public static void main(String[] args) {  \n        Test t = new Test();  \n        t.counterDown2(200);  \n    }\n\n    public void counterDown2(int x){\n        if(x>0){\n            System.out.printf(x+\" \");\n            counterDown2(x-1);\n        }\n    }\n}"
 	}
   },
