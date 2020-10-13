@@ -627,7 +627,8 @@
     "Übersetzungen" : {
       "Wörter" : "Abeja = Biene  \nBarca = Schiff  \nCama = Bett  \nChaqueta = Jacke / Jackett  \nDados = Würfel  \nElefante = Elefant  \nFruta = Früchte\nGafas = Brillen  \nHoja = Blatt  \nInsecto = Insekt  \nJabón = Seife  \nKoala = Koala  \nLeer = lesen  \nLlave = Schlüssel  \nMazana = Apfel  \nNido = Nest  \nArana = Spinne  \nOro = Gold  \nPez = Fisch  \nQueso = Käse  \nReina = Königin  \nPerro = Hund  \nSilla = Sessel  \nTambor = Trommel   \nUvas = Trauben  \nVaca = Kuh  \nXilofono = Xylophon  \nYogur = Jogurt  \nZapato = Schuh",
       "Phrasen" : "¡Hola! ¿Qué tal?: Hallo, wie geht es Ihnen?  \n¡Hola! Me llamo: Hallo, ich heiße ….  \n¡Hola (yo) soy!: Hallo ich bin  \nMira, éste / ésta es : (Mira: Aufmerksamkeit erwecken) éste: maskulin, esta: feminin  \nmi amigo / a se llama  \n¡Mucho gusto!: Sehr erfreut   "
-    }
+    },
+    "Basic Begrüßungen" : "# Antwortmöglichkeiten auf: wie geht es dir\n¿Que tal?  \n¿Como estas?  \n\nsehr gut: Muy bien  \ngut: Bien  \nmittelmäßig: Ni fu ni fa / Asi asi  \nschlecht️: fatal  \n\n# Wie begrüße ich wann (Tageszeiten …) +\n\nHola: ganzer Tag  \n\nBuenos dias: Guten Morgen/Vormittag  \nBuenas tardes: guten Nachmittag/Abend  \nBuenas noches: Gute Nacht (Verabschiedung)  \n\n# Verabschiedung\nAdiós  \nCiao  \nHasta (la proxi, la vista)  \nHasta mañana (bis morgen)  \nHasta luego\n\n\nme - mich\nte - dich\nse - sich\n\nMe | llamo\nMich | ich nenne\n"
   },
   "Sonstiges" : {
     "Motivierende Sprüche" : {
