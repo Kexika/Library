@@ -208,7 +208,10 @@
       "Lobby" : "Interessengemeinschaft",
       "Pessimist" : "negative Einstellung",
       "Klientel" : "Zielgruppe",
-      "populärwissenschaftlich" : "Ein Buch welches für die Bevölkerung verständlich ist"
+      "populärwissenschaftlich" : "Ein Buch welches für die Bevölkerung verständlich ist",
+      "redigieren" : "überarbeiten\n\n# Bei den Lehrern\nSie lesen den Text öfters durch\n* Inhalt / Struktur\n* Wortschatz (indirekte Rede)\n* Rechtschreibung / Grammatik",
+      "Kohärenz" : "Tiefenstruktur",
+      "Kohäsion" : "Adverbien"
     },
     "Grammatik" : {
       "Besondere Rechtschreibung" : {
