@@ -282,7 +282,9 @@
       "Das Adverb (Umstandswort)" : "Das Adverb ist nicht flektierbar - auf Deutsch: nicht veränderbar\n\n# Lokal Adverb (Ort)\nda, dort, ier, drüben, oben ...\n\n# Temporal Adverb (Zeit)\ndamals, gestern, heute, nun mittags ...\n\n# Modal Adverb (Art)\nso, gern, eilends, besonders, zutiefst, derart ...\n\n# Kausal-Adverb (Grund)\ndarum, deshalb, sonst ...",
       "Die Konjunktion" : "# nebenordnende Konjunktionen\nund, oder, aber, denn...\n\n# unterordnende Konjunktionen (leiten Gliedsätze ein)\nda, weil, bevor, dass, bis, indem...",
       "Interjektion" : "ah, oh…",
-      "Reden" : "\n# Direkte Rede\nEr sagte: \"Ich bin müde.\"  \n\n# Indirekte Rede\nEr sagte, er sei müde.\n\n## Redekommentierung\nAussage verändern.  "
+      "Reden" : "\n# Direkte Rede\nEr sagte: \"Ich bin müde.\"  \n\n# Indirekte Rede\nEr sagte, er sei müde.\n\n## Redekommentierung\nAussage verändern.  ",
+      "Satzpartitur" : "   HS,  \n             GS1   ,   GS2\n\n* Du musst langsam mit der Fracht fahren, weil sie schwer ist und weil sie schlecht befestigt ist. \n\n    HS,   \n             GS1,   \n                         GS2   \n* Ich gehe täglich in die Schule, obwohl sie sehr weit von mir zu Hause entfernt ist, damit ich neue Sachen lerne. \n\n* Mit dem Geld, das sie sich erarbeitet hat, hat sie sich ein Haus gebaut, in dem sie jetzt wohnt.\n\n    HS1,   \t\t HS2,\n                 GS1,                        GS2\n                          ",
+      "Infinitiv- und Partizipgruppe" : "# Infinitivgruppe\nInfinitivgruppen müssen durch Komma abgetrennt werden, wenn im Hauptsatz ein Bezugswort ( es, daran, das …) steht, das auf die Infinitivgruppe verweist. Sie liebte es, schöne Röcke zu tragen.\n\n# Partizipialgruppe\nAls Partizipialgruppe beschreibt man eine Gruppe von Worten, deren Kern ein Partizip ist."
     },
     "Texte" : {
       "Textsorte Zusammenfassung - Christoph" : "Am 31.08.2012 wurde in der “Presse” ein Interview, welches Karl Gaulhofer mit dem Hirnforscher Manfred Spitzer geführt hat, veröffentlicht. Darin geht es um die These Spitzers, dass (frühe) Mediennutzung (in jungen Alter) schädlich sei. "
