@@ -606,7 +606,10 @@
       "Ruby" : "```ruby\nputs \"Hello World!\"\n```",
       "PHP" : "```php\n<?php\necho \"Hello World!\";\n?>\n```",
       "Python" : "```python\nprint('Hello ,world');\n```",
-      "Java" : "```java\nclass HelloWorld {\n    public static void main( String []args ) {\n        System.out.println( \"Hello World!\" );\n    }\n}\n```",
+      "Java" : {
+        "Hello world": "```java\nclass HelloWorld {\n    public static void main( String []args ) {\n        System.out.println( \"Hello World!\" );\n    }\n}\n```",
+        "Simple GUI": "# Create a simple GUI in Java  \n\n```\npackage yourPackage;  \n\n//We run it with Java Swing  \nimport javax.swing.*;\n\n//We create a class named GuiExample which extends JFrame  \n\npublic class GuiExample extends JFrame {  \n    public GuiExample(){  \n        //sets the size of the frame  \n        setSize(800,600);  \n\n        //puts frame in middle of frame  \n        setLocationRelativeTo(null);  \n\n        //sets visibility true  \n        setVisible(true);  \n    }  \n  \n    //We need to run it  \n    public static void main(String[] args) {  \n        new GuiExample();  \n    }  \n}\n```"
+      },
       "C#" : "```c#\nusing System;\n\nnamespace HelloWorld\n{\n    class Hello {\n        static void Main(string[] args)\n        {      // prints hello world\n            System.Console.WriteLine(\"Hello World!\");\n        }\n    }\n}\n```",
       "C++" : "```c++\n#include <iostream>\nusing namespace std;\nint main()\n{\n    cout << \"Hello, World!\"; // std output stream\n    return 0; // exit status\n}\n```",
       "C" : "```c\n#include <stdio.h>\n\nint main(void)\n{\n  printf(\"Hello World\\n\");\n  return 0; // ends the program\n}\n```",
@@ -654,6 +657,6 @@
     "Motivierende Sprüche" : {
       "Philosophish" : "Alle Träume können wahr werden, wenn wir den Mut haben, ihnen zu folgen  \n\nPhantasie ist wichtiger als Wissen, denn Wissen ist begrenzt  \n\nEs ist nicht von Bedeutung, wie langsam du gehst, solange du nicht stehenbleibst  \n\nIch habe niemals an Erfolg geglaubt. Ich habe dafür gearbeitet  \n\nAuf dem Weg zum Erfolg herrscht viel Stoß- und Gegenverkehr  "
     },
-    "Edit2Gether" : "Loading..."
+    "Edit2Gether" : "This feature is not avialible (for now)... Wait for the next big update :D"
   }
 }
