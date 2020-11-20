@@ -1,0 +1,9 @@
+{
+    "Document Example": "Hello! **I have written some example stuff here**",
+    "Category 1": {
+        "Subdocument": "More content...",
+        "Subcategory 2": {
+            "End": "This is the end of this category chain. Of course you could go on for some while..."
+        }
+    }
+}
