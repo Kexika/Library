@@ -346,7 +346,7 @@
     "Oppourtunity - Possibility" : "- have the opportunity **to do** sth.\n- have the possib ility **of doing that** you can do"
   },
   "BWMR#006e18" : {
-    "Jahr 1" : {}
+    "Kontenklassen": "0. Anlagevermögen\n1. Umlaufvermögen\n2. Eigenkapitalkonten\n3. Fremdkapitalkonten\n4. Betriebliche Erträge\n5. Betriebliche Aufwendungen (Materialaufwand, Wareneingang)\n6. Betriebliche Aufwendungen (Lohn & Gehalt, Abschreibungen, Miete)\n7. Weitere Erträge und Aufwendungen\n8. zur freien Verwendung\n9. Vortrags- und statistische Konten",
   },
   "BWMJ" : {
     "Kaufvertrag" : {
